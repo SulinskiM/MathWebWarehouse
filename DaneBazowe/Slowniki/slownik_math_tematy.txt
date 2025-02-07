@@ -1,0 +1,242 @@
+T0;;Równania, nierówności i układy
+    T100;T0;Układy równań
+    T101;T100;Układy równań liniowych
+    T200;T0;Równania
+        T201;T200;Równania liniowe
+        T202;T200;Równania kwadratowe
+        T203;T200;Równania wielomianowe
+        T204;T200;Równania trygonometryczne
+        T205;T200;Równania wykładnicze
+        T206;T200;Równania logarytmiczne
+        T207;T200;Równania wymierne
+        T208;T200;Równania mieszane
+        T209;T200;Równania z wartością bezwględną
+        T209;T200;Równania na podstawianie
+        T210;T209;Równania podwójnie kwadratowe
+    T300;T0;Nierówności
+        T301;T300;Nierówności liniowe
+        T302;T300;Nierówności kwadratowe
+        T303;T300;Nierówności wielomianowe
+        T304;T300;Nierówności trygonometryczne
+        T305;T300;Nierówności wykładnicze
+        T306;T300;Nierówności logarytmiczne
+        T307;T300;Nierówności wymierne
+        T308;T300;Nierówności mieszane
+        T309;T300;Nierówności z wartością bezwględną
+        T309;T300;Nierówności na podstawianie
+        T310;T300;Nierówności podwójnie kwadratowe
+T10000;;Planimetria
+    T11000;T10000;Twierdzenia
+        T11000;T10000;Twierdzenie Pitagorasa
+        T11000;T10000;Twierdzenie Talesa
+        T11000;T10000;Twierdzenie Cosinusów
+        T11000;T10000;Twierdzenie Sinusów
+        T11000;T10000;Twierdzenie o stycznej i siecznej
+        T11000;T10000;Twierdzenie o dwusiecznej kąta
+    T11000;T10000;Koła i okręgi
+        T11000;T10000;Obwód
+        T11000;T10000;Pole
+    T11000;T10000;Trójkąty
+        T11000;T10000;Pole
+            T11000;T10000;\(\frac{ah}{2}\)
+            T11000;T10000;\(\frac{absin{a}}{2}\)
+            T11000;T10000;\(\frac{abc}{4R}\)
+            T11000;T10000;\(r*\frac{a+b+c}{2}\)
+            T11000;T10000;wzór Herona
+        T11000;T10000;Okrąg opisany na trójkącie
+        T11000;T10000;Okrąg wpisany w trójkąt
+    T12000;T10000;Czworokąty
+        T12000;T10000;Prostokąty
+        T12000;T10000;Romb
+        T12000;T10000;Równoległoboki
+        T12000;T10000;Trapezy
+        T12000;T10000;Okrąg opisany na czworokącie
+        T12000;T10000;Okrąg wpisany w czworokąt
+        T12000;T10000;Podobieństwo
+    T13000;T10000;Wielokąty
+T20000;;Stereometria
+    T29000;T20000;Właściwości brył
+        T29100;T29000;Pole powierzchni
+        T29200;T29000;Objętość
+        T29300;T29000;Odcinki
+    T21000;T20000;Graniastosłupy
+    T21000;T20000;Ostrosłupy
+    T22000;T20000;Bryły obrotowe
+        T22100;T22000;Walec
+        T22200;T22000;Stożek
+        T22300;T22000;Kula
+    T23000;T20000;Przekroje brył
+    T24000;T20000;Bryły wpisane w bryły
+T30000;;Geometria analityczna
+    T31000;T30000;Wektory
+        T31100;T31000;Wyznaczanie wektora
+        T31200;T31000;Działania na wektorach
+        T31200;T31000;Kąt między wektorami
+    T32000;T30000;Odcinki
+    T33000;T30000;Proste
+    T34000;T30000;Odległość punktu od prostej
+    T35000;T30000;Okręgi
+    T36000;T30000;Równanie okręgu
+    T37000;T30000;Pole trójkąta
+    T38000;T30000;Pole wielokąta
+    T39000;T30000;Wzajemne położenie prostej i okręgu
+    T311000;T30000;Wzajemne położenie dwóch okręgów
+    T311000;T30000;Jednokładność
+T400000;;Zbiory liczbowe
+    T410000;T400000;Zbiory
+    T420000;T400000;Zbiory liczbowe
+    T430000;T400000;Działania na zbiorach
+    T440000;T400000;Przedziały liczbowe
+T500000;;Liczby i działania
+    T510000;T500000;Ułamki zwykłe
+    T520000;T500000;Ułamki dzięsiętne
+    T530000;T500000;Potęgowanie
+    T540000;T500000;Pierwiastkowanie
+    T550000;T500000;Logarytmowanie
+    T560000;T500000;Silnia
+    T570000;T500000;Symbol Newtona
+T600000;;Wyrażenia algebraiczne
+    T610000;T600000;Wzory skróconego mnożenia
+        T611000;T610000;Wzory stonia drugiego: \((a-b)^2, (a+b)^2\)
+        T612000;T610000;\((a-b)(a+b)\)
+        T613000;T610000;Wzory stopnia trzeciego: \((a-b)^3, (a+b)^3, a^3-b^3, a^3+b^3\)
+        T614000;T610000;\(a^n-b^n\)
+        T615000;T610000;Wzór Newtona. Trójkąt Pascala
+T60000;;Funkcje
+    T60000;;Funkcje i właściwości
+    T60000;;Przekształcenia wykresów funkcji
+        T60000;;Przesuwanie o wektor
+        T60000;;Symetria OX
+        T60000;;Symetria OY
+        T60000;;Symetria (0,0)
+        T60000;;\(|f(x)|\)
+        T60000;;\(f(|x|)\)
+        T60000;;\(k * f(x)\)
+        T60000;;\(f(k * x)\)
+        T60000;;Zadania róźne
+    T61000;T60000;Funkcja liniowa
+        T61000;T60000;Definicja
+        T61000;T60000;Właściwości funkcji liniowej
+        T61000;T60000;Wykres funkcji liniowej
+        T61000;T60000;Wykres funkcji liniowej
+    T62000;T60000;Funkcja kwadratowa
+        T62000;T60000;Postać ogólna
+        T62000;T60000;Postać iloczynowa
+        T62000;T60000;Postać kanoniczna
+        T62000;T60000;Zależności między postaciami funkcji kwadratowej
+        T62000;T60000;Wyznaczanie wzoru funkcji na postawie jej właściwości
+        T62000;T60000;Najmniejsza oraz największa wartość funkcji w przedziale
+        T62000;T60000;Zadania optymalizacyjne
+        T62000;T60000;Równania
+        T62000;T60000;Nierówności
+        T62000;T60000;Równania i nierówności na podstawianie
+        T62000;T60000;Równania i nierówności z wartością bezwględną
+        T62000;T60000;Wzory Vieta
+        T62000;T60000;Równania i nierówności z parametrem
+    T63000;T60000;Funkcja wielomianowa
+        T63000;T60000;Działania na wielomianach
+        T63000;T60000;Dzielenie wielomianów
+        T63000;T60000;Schemat Hornera
+        T63000;T60000;Pierwiastek wymierny wielomianu
+        T63000;T60000;Pierwiastek wielokrotny
+        T63000;T60000;Równość wielomianów
+        T63000;T60000;Podzielność wielomianów
+        T63000;T60000;Rozkładania wielomianu na czynniki
+        T63000;T60000;Równania wielomianowe
+        T63000;T60000;Nierówności wielomianowe
+        T63000;T60000;Równania wielomianowe z parametrem
+        T63000;T60000;Funkcje wielomianowe
+    T64000;T60000;Funkcja wymierna
+        T64000;T60000;Dodawanie i odejmowanie ułamków algebraicznych
+        T64000;T60000;Mnożenie i dzielenie ułamków algebraicznych
+        T64000;T60000;Działania na ułamkach algebraicznych
+        T64000;T60000;Równania wymierne
+        T64000;T60000;Zadania prowadzące do równań
+        T64000;T60000;Nierówności wymierne
+        T64000;T60000;Funkcja homograficzna
+        T64000;T60000;Funkcja wymierna
+        T64000;T60000;Zadania z parametrem
+    T65000;T60000;Funkcja wykładnicza
+        T65000;T60000;Definicja
+        T65000;T60000;Rysowanie funkcji
+        T65000;T60000;Równania
+        T65000;T60000;Nierówności
+        T65000;T60000;Zadania z parametrem
+        T65000;T60000;Zastosowanie właściwości w zadaniach
+    T66000;T60000;Funkcja logarytmiczna
+        T65000;T60000;Definicja
+        T65000;T60000;Rysowanie funkcji
+        T65000;T60000;Równania
+        T65000;T60000;Nierówności
+        T65000;T60000;Zadania z parametrem
+        T65000;T60000;Zastosowanie właściwości w zadaniach
+    T67000;T60000;Funkcja trygonometryczna
+        T110000;T100000;Właściwości funkcji trygonometrycznych
+        T110000;T100000;Rysowanie wykresów
+T70000;;Ciągi
+    T71000;T70000;Definicja
+    T72000;T70000;Ciąg arytmetyczny
+        T72100;T72000;Suma ciągu arytmetycznego
+    T73000;T70000;Ciąg geometryczny
+        T73100;T73000;Suma ciągu geometrycznego
+    T74000;T70000;Mieszanie ciągów
+    T75000;T70000;Granice ciągów
+    T76000;T70000;Szeregi geometryczne
+T80000;;Dowody
+    T81000;T80000;Dowody geometryczne
+    T82000;T80000;Dowody algebraiczne
+    T83000;T80000;Dowody indukcyjne
+T9000000;;Analiza matematyczna
+    T9100000;T9000000;Granice funkcji
+        T9110000;T9100000;Granice właściwe
+        T9120000;T9100000;Granice niewłaściwe
+        T9130000;T9100000;Granice w punkcie
+        T9140000;T9100000;Granice w nieskończoności
+        T9150000;T9100000;Granice jednostronne funkcji w punkcie
+    T9100000;T9000000;Ciągłość funkcji
+    T9100000;T9000000;Asymptoty wykresu funkcji
+        T9100000;T9000000;Asymptoty poziome
+        T9100000;T9000000;Asymptoty pionowe
+        T9100000;T9000000;Asymptoty ukośne
+    T9100000;T9000000;Pochodna funkcji w punkcie
+    T9100000;T9000000;Funkcja pochodna
+        T9100000;T9000000;Definicja
+        T9100000;T9000000;Liczenie pochodnej
+            T9100000;T9000000;Suma funkcji
+            T9100000;T9000000;Iloczyn funkcji
+            T9100000;T9000000;Iloraz funkcji
+            T9100000;T9000000;Wartość bezwględna
+            T9100000;T9000000;Funkcji trygonometrycznych
+    T9100000;T9000000;Funkcja złożona. Pochodna funkcji złożonej.
+    T9100000;T9000000;Styczna do wykresu funkcji.
+    T9100000;T9000000;Monotoniczność funkcji.
+    T9100000;T9000000;Ekstrema lokalne i globalne funkcji.
+    T9100000;T9000000;Wyznaczanie ekstremów w przedziale.
+    T9100000;T9000000;Wyznaczanie zbioru wartości funkcji.
+    T9100000;T9000000;Badanie przebiegu zmienności funkcji.
+    T9100000;T9000000;Zadania optymalizacyjne.
+T100000;;Trygonometria
+    T110000;T100000;Definicja
+        T110000;T100000;Miara łukowa kąta
+        T110000;T100000;Kąt skierowany
+        T110000;T100000;Wzory redukcyjne
+    T120000;T100000;Tożsamości trygonometryczne
+        T120000;T100000;Podstawowe tożsamości
+        T120000;T100000;Funkcje trygonometryczne podwojonego kąta
+        T120000;T100000;Funkcje trygonometryczne sumy i różnicy kątów
+        T120000;T100000;Funkcje trygonometryczne wielokrotności kąta
+T800000;;Kombinatoryka
+    T810000;T800000;Wariancje
+    T810000;T800000;Permutacje
+    T810000;T800000;Kombinacje
+    T810000;T800000;Zadania róźne
+T700000;;Rachunek prawdopodobieństwa
+    T710000;T700000;Doświadczenie losowe. Zdarzenia.
+    T720000;T700000;Obliczanie prawdopodobieństwa
+    T730000;T700000;Zadania róźne
+    T740000;T700000;Doświadczenie losowe wieloetapowe
+    T750000;T700000;Prawdopodobieństwo warunkowe
+    T760000;T700000;Twierdzenie o prawdopodobieństwie całkowitym. Twierdzenie Bayesa.
+    T770000;T700000;Niezaleźność zdarzeń
+    T780000;T700000;Schemat Bernoullego.
+    T790000;T700000;Zmienna losowa.

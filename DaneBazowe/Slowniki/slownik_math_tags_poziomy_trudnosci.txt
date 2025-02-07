@@ -1,0 +1,4 @@
+PP;poziom podstawowy;
+PR;poziom rozszerzony;
+PK;poziom konkursowy;
+PO;poziom olimpijski;

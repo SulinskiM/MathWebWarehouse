@@ -1,0 +1,5 @@
+ZMJW;Zadania zamknięte jednokrotnego wyboru;
+ZMWW;Zadania zamknięte wielokrotnego wyboru;
+ZK;Zadania z kodowaną odpowiedzią;zadania z matur w formule 2015-2023
+ZO;Zadania otwarte;
+ZPRzek;Zadanie przekrojowe;

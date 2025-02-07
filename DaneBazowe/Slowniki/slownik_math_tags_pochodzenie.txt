@@ -1,0 +1,4 @@
+FK;Konkurs;
+FE;Egzamin;
+FKR;Kurs;
+FZZ;Zbior zadań;

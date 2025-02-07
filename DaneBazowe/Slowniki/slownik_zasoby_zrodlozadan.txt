@@ -1,0 +1,63 @@
+ZZK;;Konkursy;;0;;
+ZZKIUW;ZZK;Konkursy o indeks uczelni wyższej;;0;;
+ZZKAGH;ZZKIUW;Konkurs o diamentowy indeks "AGH";;1;https://www.diament.agh.edu.pl/zadania/;AGH
+ZZKAGH1;ZZKIUW;O złoty indeks Politechniki Śląskiej;;1;https://www.polsl.pl/rd1-cos/zi-archiwum/;PS
+ZZKAGH2;ZZKIUW;Złoty indeks PK;;1;https://indeks.pk.edu.pl/?page_id=17;PK
+ZZKAGH3;ZZKIUW;Ogólnopolski Konkurs Matematyczny im. gen. Sylwestra Kaliskiego (WAT);;1;https://www.wojsko-polskie.pl/wat/ogolnopolski-konkurs-matematyczny/;WAT
+ZZKKK;ZZK;Konkursy kuratoryjne;;0;;
+ZZKKK1;ZZKKK;Konkurs kuratoryjne - Dolnośląskie;;1;;
+ZZKKK2;ZZKKK;Konkurs kuratoryjne - Kujawsko-Pomorskie;;1;;
+ZZKKK3;ZZKKK;Konkurs kuratoryjne - Lubelskie;;1;;
+ZZKKK4;ZZKKK;Konkurs kuratoryjne - Lubuskie;;1;;
+ZZKKK5;ZZKKK;Konkurs kuratoryjne - Łódzkie;;1;;
+ZZKKK6;ZZKKK;Konkurs kuratoryjne - Małopolskie;;1;;
+ZZKKK7;ZZKKK;Konkurs kuratoryjne - Mazowieckie;;1;;
+ZZKKK8;ZZKKK;Konkurs kuratoryjne - Opolskie;;1;;
+ZZKKK9;ZZKKK;Konkurs kuratoryjne - Podkarpackie;;1;;
+ZZKKK10;ZZKKK;Konkurs kuratoryjne - Podlaskie;;1;;
+ZZKKK11;ZZKKK;Konkurs kuratoryjne - Pomorskie;;1;;
+ZZKKK12;ZZKKK;Konkurs kuratoryjne - Śląskie;;1;;
+ZZKKK13;ZZKKK;Konkurs kuratoryjne - Świętokrzyskie;;1;;
+ZZKKK14;ZZKKK;Konkurs kuratoryjne - Warmińsko-Mazurskie;;1;;
+ZZKKK15;ZZKKK;Konkurs kuratoryjne - Wielkopolskie;;1;;
+ZZKKK16;ZZKKK;Konkurs kuratoryjne - Zachodniopomorskie;;1;;
+ZZKLMM;ZZK;Liga matematyczna Matuskiego;;0;https://ligamatematyczna.upsl.edu.pl/;APS
+ZZKMM;ZZK;Mistrzowie Matematyki;;0;https://salezjanie.com/mistrzowie-matematyki/;SLOK
+ZZKOSZ;ZZK;Od szkolniaka do Żaka;;0;https://cm.pg.edu.pl/dzialalnosc/konkursy/od-szkolniaka-do-zaka;PG
+ZZKOSZS;ZZK;Konkurs Staś;;0;https://www.staszic.waw.pl/konkursy/stas/;XIVLO
+ZZKOSZS2;ZZK;Jagieloński turniej matematyczny;;0;https://jtm.matinf.uj.edu.pl/;UJ
+
+ZZE;;Egzaminy;;0;;
+ZZEM;ZZE;Matury;;0;;
+ZZEMPD;ZZEM;Matury podstawowe;;1;;CKE
+ZZEMPD1;ZZEMPD;majowe (1 termin);;2;;CKE
+ZZEMPD2;ZZEMPD;czerwcowe (2 termin);;2;;CKE
+ZZEMPD3;ZZEMPD;sierpionowe (poprawkowe);;2;;CKE
+ZZEMP;ZZEM;Matury próbne;;1;;CKE
+ZZEMP1;ZZEMP;Operon;;2;;OPERON
+ZZEMP2;ZZEMP;Nowa Era;;2;;NE
+ZZEMP3;ZZEMP;CEN Bydgoszcz;;2;;CEN
+ZZEMP4;ZZEMP;CKE;;2;;CKE
+ZZEMP5;ZZEMP;LSCDN;;2;;LSCDN
+ZZEMP6;ZZEMP;WSiP;;2;;WSiP
+ZZEG;ZZE;Egzaminy gimnazjalne;;0;;CKE
+ZZEO;ZZE;Egzaminy ósmoklasisty;;0;;CKE
+ZZEEW;ZZE;Egzaminy wstępne;;0;;
+ZZEEWSR;ZZEEW;Egzaminy wstępne do szkół średnich;;1;;
+ZZEEWSR2;ZZEEWSR;Egzaminy wstępny do Staszica;;2;;XIVLO
+ZZEEWSR3;ZZEEWSR;Egzaminy wstępny do Liceum Przymierza Rodzin;;2;;XIVLO;https://www.loprzymierze.edu.pl/zadania-egzaminacyjne-z-lat-ubieglych
+ZZEEWSR4;ZZEEWSR;Egzaminy wstępny do Varsovia;;2;;XIVLO;https://varsovia.edu.pl/przykladowe-egzaminy-wstepne-do-i-klasy-lo/
+ZZEEWSR5;ZZEEWSR;Egzaminy wstępny do Liceum SGH;;2;;XIVLO;https://www.liceumsgh.pl/strona/26/p/Testy
+ZZEEWSR6;ZZEEWSR;Egzaminy wstępny do Startowa;;2;;XIVLO;
+ZZEEWUW;ZZEEW;Egzaminy wstępne na uczelnie wyższe;;1;;
+ZZEEWUW1;ZZEEWUW;Egzamin wstępny na PG;;2;;PG
+ZZEEWUW2;ZZEEWUW;Egzamin wstępny na PW;;2;;PW
+ZZEEWUW3;ZZEEWUW;Egzamin wstępny na UJ;;2;;UJ;https://ruj.uj.edu.pl/entities/publication/658de6b3-4e6f-457a-bc01-3160a7df34ac
+ZZEEWUW4;ZZEEWUW;Egzamin wstępny na PWr;;2;;UJ;https://rekrutacja.pwr.edu.pl/rekrutacja/egzaminy/egzaminy-dobrowolne/#tab-2-4-zadania-z-lat-ubieglych
+
+ZZKur;;Kursy;;0;;
+ZZKMPW;ZZKur;Kurs maturalny Politechniki Wrocławskiej;;1;https://im.pwr.edu.pl/kurs/;PWR
+
+ZZZZ;;Zbiory zadań;;0;;
+ZZZZ1;ZZZZ;Zbiór zadań dla gimnazjum - szczecin;;0;;
+ZZZZ2;ZZZZ;Zbiory maturalne CKE;;0;;

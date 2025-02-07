@@ -1,0 +1,22 @@
+1;CKE;Centralna komisja egzaminacyjna;https://cke.gov.pl/;PKE
+2;AGH;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;https://www.diament.agh.edu.pl/;UW
+3;PWR;Wydział Matematyki Politechniki Wrocławskiej;https://wmat.pwr.edu.pl/;UW
+4;NE;Nowa Era;-;W
+5;OPERON;Operon;-;W
+6;PG;Politechnika Gdańska;-;UW
+7;XIVLO;XIV Liceum Ogólnokształcące im. Stanisława Staszica;https://www.staszic.waw.pl/;S
+8;CEN;Kujawsko-Pomorskie Centrum Edukacji Nauczycieli w Bydgoszczy;https://cen.bydgoszcz.pl/;PDN
+9;LSCDN;Lubelskie Samorządowe Centrum Doskonalenia Nauczycieli;https://www.lscdn.pl/;PDN
+10;PE;Portal edukacyjny w Szczecinie;https://pe.szczecin.pl/;I
+11;WSiP;WSiP;https://wsip.pl/;W
+12;IMPAN;Instytut Matematyczny Polskiej Akademii Nauk;https://www.impan.pl/;I
+13;APS;Akademia Pomorska w Słupsku;-;UW
+14;PW;Politechnika Warszawska;-;UW
+15;SLOK;Publiczne Salezjańskie Liceum Ogólnokształcące w Krakowie;https://salezjanie.com/;S
+16;WAT;Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego;https://www.wojsko-polskie.pl/wat/;UW
+17;PS;Politechnika Śląska;https://www.polsl.pl/;UW
+18;PK;Politechnika Krakowska im. Tadeusza Kościuszki;https://www.pk.edu.pl/index.php?lang=pl;UW
+19;UJ;Uniwersytet Jagiellońskii;https://www.uj.edu.pl/pl;UW
+20;LPR;Liceum Przymierza Rodzin im. Jana Pawła II;https://www.loprzymierze.edu.pl/;S
+21;LVar;Fundacja Varsovia; Szkoła Podstawowa Niepubliczna Nr 49; Liceum Ogólnokształcące Niepubliczne Nr 6;https://varsovia.edu.pl/;S
+22;LSGH;Niepubliczne liceum ogólnokształcące nr 81 SGH;https://www.liceumsgh.pl;S

@@ -1,0 +1,10 @@
+URR;Rozwiązywanie równań;
+URN;Rozwiązywanie nierówności;
+UURN;Rozwiązywanie układów równań/nierówności;
+UD;Dowodzenie;
+UZR;Zadanie rachunkowe;
+UZZT;"Zadania z treścią";
+UP;Parametryzacja;
+URWF;Rysowanie wykresów funkcji;
+URFP;Rysowanie figur płaskich;
+URB;Rysowanie brył;

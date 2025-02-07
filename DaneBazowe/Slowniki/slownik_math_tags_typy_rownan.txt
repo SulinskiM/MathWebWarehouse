@@ -1,0 +1,10 @@
+RLin;Liniowe;
+RKwa;Kwadratowe;
+RWie;Wielomianowe;
+RTry;Trygonometryczne;
+RLog;Logarytmiczne;
+RWyk;Wykładnicze;
+RWB;Wartość bezwględnia;
+RPR;Pierwiastek z niewiadomej;
+RZP;Zmienna pomocznicza;
+RPK;Podwójnie kwadratowe;

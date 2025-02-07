@@ -1,0 +1,5 @@
+ESP6;Szkoła podstawowa (6-letnia);
+ESP8;Szkoła podstawowa (8-letnia);
+EGim;Gimnazjum;
+EL;Liceum i szkoły ponadpodstawowe;
+ESt;Studia;
