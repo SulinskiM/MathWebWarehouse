@@ -1,0 +1,57 @@
+\documentclass[10pt]{article}
+\usepackage[polish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[version=4]{mhchem}
+\usepackage{stmaryrd}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, filecolor=magenta, urlcolor=cyan,}
+\urlstyle{same}
+
+\title{Zestaw 6 }
+
+\author{}
+\date{}
+
+
+%New command to display footnote whose markers will always be hidden
+\let\svthefootnote\thefootnote
+\newcommand\blfootnotetext[1]{%
+  \let\thefootnote\relax\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \let\thefootnote\svthefootnote%
+}
+
+%Overriding the \footnotetext command to hide the marker if its value is `0`
+\let\svfootnotetext\footnotetext
+\renewcommand\footnotetext[2][?]{%
+  \if\relax#1\relax%
+    \ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+  \else%
+    \if?#1\ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+    \else\svfootnotetext[#1]{#2}\fi%
+  \fi
+}
+
+\begin{document}
+\maketitle
+\begin{enumerate}
+  \item Rozstrzygnij, czy istnieje liczba całkowita dodatnia \(n\) taka, że \(n^{3}\) jest iloczynem trzech kolejnych liczb całkowitych dodatnich.
+  \item Rozwiąż równanie
+\end{enumerate}
+
+\[
+\sqrt{x-2 \sqrt{x-1}}+\sqrt{x+2 \sqrt{x-1}}=\frac{1}{x-1}
+\]
+
+\begin{enumerate}
+  \setcounter{enumi}{2}
+  \item W trapez równoramienny o podstawach \(a\) i \(b\) da się wpisać koło. Oblicz pole tego koła.
+\end{enumerate}
+
+\footnotetext{Rozwiązania należy oddać do wtorku 16 października do godziny 15.10 koordynatorowi konkursu panu Jarosławowi Szczepaniakowi lub przestać na adres \href{mailto:jareksz@interia.pl}{jareksz@interia.pl} do soboty 20 października do pótnocy.
+}
+\end{document}

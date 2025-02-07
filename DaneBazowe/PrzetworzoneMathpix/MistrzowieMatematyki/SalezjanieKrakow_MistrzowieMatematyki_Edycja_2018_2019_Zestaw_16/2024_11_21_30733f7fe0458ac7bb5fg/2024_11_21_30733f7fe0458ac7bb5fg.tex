@@ -1,0 +1,56 @@
+\documentclass[10pt]{article}
+\usepackage[polish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[export]{adjustbox}
+\graphicspath{ {./images/} }
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[version=4]{mhchem}
+\usepackage{stmaryrd}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, filecolor=magenta, urlcolor=cyan,}
+\urlstyle{same}
+
+\title{Zestaw 16 }
+
+\author{}
+\date{}
+
+
+%New command to display footnote whose markers will always be hidden
+\let\svthefootnote\thefootnote
+\newcommand\blfootnotetext[1]{%
+  \let\thefootnote\relax\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \let\thefootnote\svthefootnote%
+}
+
+%Overriding the \footnotetext command to hide the marker if its value is `0`
+\let\svfootnotetext\footnotetext
+\renewcommand\footnotetext[2][?]{%
+  \if\relax#1\relax%
+    \ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+  \else%
+    \if?#1\ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+    \else\svfootnotetext[#1]{#2}\fi%
+  \fi
+}
+
+\begin{document}
+\maketitle
+\begin{center}
+\includegraphics[max width=\textwidth]{2024_11_21_30733f7fe0458ac7bb5fg-1}
+\end{center}
+
+\begin{enumerate}
+  \item W prostokącie \(A B C D\) dwusieczna kąta \(C D A\) przecina przekątną \(A C\) w punkcie \(E\). odległość punktu \(E\) od boku \(A B\) wynosi 1, a od boku \(B C\) wynosi 8 . Oblicz długość boku \(A B\).
+  \item Na brzegu jeziora w kształcie koła znajdują się cztery przystanie: \(K, L, P, Q\). Z przystani \(K\) wypływa kajak kierując się do przystani \(Q\), a z przystani \(L\) w tym samym momencie wypływa łódka kierując się do przystani \(P\). Wiadomo, że gdyby zachowując swe prędkości kajak popłynął w kierunku przystani \(P\), a łódka w kierunku przystani \(Q\), to doszłoby do zderzenia. Udowodnij, że kajak i łódka dobiją do celu w tym samym czasie.
+  \item Dane są rozłączne okręgi \(o_{1}\) i \(o_{2}\) o środkach odpowiednio w punktach \(S\) i \(T\). Styczne do okręgu \(o_{2}\) poprowadzone z punktu \(S\) przecinają okrąg \(o_{1}\) w punktach \(A\) i \(B\). Styczne do okręgu \(o_{1}\) poprowadzone z punktu \(T\) przecinają okrąg \(o_{2} \mathrm{~W}\) punktach \(C\) i \(D\). Udowodnij, że odcinki \(A B\) i \(C D\) są równej długości.
+\end{enumerate}
+
+\footnotetext{Rozwiazania nalė̇y oddać do piatku 11 stycznia do godziny 14.00 koordynatorowi konkursu panu Jarosławowi Szczepaniakowi lub przestać na adres \href{mailto:jareksz@interia.pl}{jareksz@interia.pl} do soboty 12 stycznia do pótnocy.
+}
+\end{document}

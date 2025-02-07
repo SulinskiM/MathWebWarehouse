@@ -1,0 +1,56 @@
+\documentclass[10pt]{article}
+\usepackage[polish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[export]{adjustbox}
+\graphicspath{ {./images/} }
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[version=4]{mhchem}
+\usepackage{stmaryrd}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, filecolor=magenta, urlcolor=cyan,}
+\urlstyle{same}
+
+\title{Zestaw 32 }
+
+\author{}
+\date{}
+
+
+%New command to display footnote whose markers will always be hidden
+\let\svthefootnote\thefootnote
+\newcommand\blfootnotetext[1]{%
+  \let\thefootnote\relax\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \let\thefootnote\svthefootnote%
+}
+
+%Overriding the \footnotetext command to hide the marker if its value is `0`
+\let\svfootnotetext\footnotetext
+\renewcommand\footnotetext[2][?]{%
+  \if\relax#1\relax%
+    \ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+  \else%
+    \if?#1\ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+    \else\svfootnotetext[#1]{#2}\fi%
+  \fi
+}
+
+\begin{document}
+\maketitle
+\begin{center}
+\includegraphics[max width=\textwidth]{2024_11_21_e0c6e729d15bb4f68269g-1}
+\end{center}
+
+\begin{enumerate}
+  \item W przyjęciu wzięło udział 17 osób. Czy jest możliwe, żeby każdy z uczestników znał dokładnie 5 osób? (zakładamy, że jeśli A zna B, to B zna A)
+  \item W rozgrywkach ligi piłkarskiej wzięło udział \(2 n\) drużyn ( \(n \geq 2\) ) i odbyło się \(2 n-1\) kolejek. W każdej kolejce każda drużyna rozegrała jeden mecz. Dowolne dwie drużyny spotkały się ze sobą podczas rozgrywek w dokładnie jednym meczu. Ponadto w każdym meczu jedna drużyna była gospodarzem, a druga - gościem. Drużynę nazwiemy podróżującą, jeżeli w dowolnych dwóch sąsiednich kolejkach była ona raz gospodarzem i raz gościem. Udowodnić, że istnieją co najwyżej dwie drużyny podróżujące.
+  \item W balu wzięło udział 102 królewiczów i 103 królewny. Po balu okazało się, że każdy królewicz zatańczył z taką samą liczbą królewien. Udowodnij, że pewne dwie królewny zatańczyły z taką samą liczbą królewiczów.
+\end{enumerate}
+
+\footnotetext{Rozwiązania nalė̇y oddać do piatku 31 maja do godziny 13.00 koordynatorowi konkursu panu Jarostawowi Szczepaniakowi lub przestać na adres \href{mailto:jareksz@interia.pl}{jareksz@interia.pl} do soboty 1 czerwca do pótnocy.
+}
+\end{document}

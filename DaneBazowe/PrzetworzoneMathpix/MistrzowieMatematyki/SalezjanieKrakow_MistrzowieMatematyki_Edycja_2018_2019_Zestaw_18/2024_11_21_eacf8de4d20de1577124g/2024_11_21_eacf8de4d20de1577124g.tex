@@ -1,0 +1,57 @@
+% This LaTeX document needs to be compiled with XeLaTeX.
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{ucharclasses}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[version=4]{mhchem}
+\usepackage{stmaryrd}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, filecolor=magenta, urlcolor=cyan,}
+\urlstyle{same}
+\usepackage{polyglossia}
+\usepackage{fontspec}
+\setmainlanguage{polish}
+\setotherlanguages{bengali}
+\newfontfamily\bengalifont{Noto Serif Bengali}
+\newfontfamily\lgcfont{CMU Serif}
+\setDefaultTransitions{\lgcfont}{}
+\setTransitionsFor{Bengali}{\bengalifont}{\lgcfont}
+
+\title{Zestaw 18 }
+
+\author{}
+\date{}
+
+
+%New command to display footnote whose markers will always be hidden
+\let\svthefootnote\thefootnote
+\newcommand\blfootnotetext[1]{%
+  \let\thefootnote\relax\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \let\thefootnote\svthefootnote%
+}
+
+%Overriding the \footnotetext command to hide the marker if its value is `0`
+\let\svfootnotetext\footnotetext
+\renewcommand\footnotetext[2][?]{%
+  \if\relax#1\relax%
+    \ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+  \else%
+    \if?#1\ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+    \else\svfootnotetext[#1]{#2}\fi%
+  \fi
+}
+
+\begin{document}
+\maketitle
+\begin{enumerate}
+  \item \(W\) trapezie \(A B C D, w\) którym \(A B|\mid C D\), zachodzą równości \(|A D|=|D C|,|A C|=|B C|\) oraz \(|A D|+|B C|=|A B|\). Wyznacz kąty tego trapezu.
+  \item Punkt \(M\) jest środkiem boku AB trójkąta \(A B C\). Na odcinku CM znajduje się taki punkt D, że \(A C=B D\). Wykaż, że \&MCA=ষMDB.
+  \item Punkt P leży we wnętrzu trójkąta ABC. Punkty K, Li M to odpowiednio odbicia \(P\) względem środków boków \(B C, A C ~ i\) AB. Wykaż, że proste AK, BL i CM przecinają się w jednym punkcie.
+\end{enumerate}
+
+\footnotetext{Rozwiąania należy oddać do piątku 8 lutego do godziny 14.00 koordynatorowi konkursu panu Jarostawowi Szczepaniakowi lub przestać na adres \href{mailto:jareksz@interia.pl}{jareksz@interia.pl} do soboty 9 lutego do pótnocy.
+}
+\end{document}

@@ -1,0 +1,64 @@
+\documentclass[10pt]{article}
+\usepackage[polish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[version=4]{mhchem}
+\usepackage{stmaryrd}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, filecolor=magenta, urlcolor=cyan,}
+\urlstyle{same}
+
+\title{GIMNAZJUM }
+
+\author{}
+\date{}
+
+
+%New command to display footnote whose markers will always be hidden
+\let\svthefootnote\thefootnote
+\newcommand\blfootnotetext[1]{%
+  \let\thefootnote\relax\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \let\thefootnote\svthefootnote%
+}
+
+%Overriding the \footnotetext command to hide the marker if its value is `0`
+\let\svfootnotetext\footnotetext
+\renewcommand\footnotetext[2][?]{%
+  \if\relax#1\relax%
+    \ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+  \else%
+    \if?#1\ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+    \else\svfootnotetext[#1]{#2}\fi%
+  \fi
+}
+
+\begin{document}
+\maketitle
+\begin{enumerate}
+  \item Wyznacz wszystkie takie pary \((a, b)\) dodatnich liczb całkowitych, że liczba \(a+b\) jest liczbą pierwszą oraz liczba \(a^{3}+b^{3}\) jest podzielna przez 3.
+  \item Czy istnieje taki wielościan, którego rzuty prostokątne na pewne trzy płaszczyzny są odpowiednio czworokątem, sześciokątem i ośmiokątem? Odpowiedź uzasadnij.
+  \item Wskazówki zegara pokrywają się o godzinie 12:00, w tej samej pozycji znajdą się po 12 godzinach. lle razy w międzyczasie (nie licząc pokryć o godzinie 12:00 w południe i o północy) pokryją się?
+\end{enumerate}
+
+\section*{LICEUM}
+\begin{enumerate}
+  \item Ostrosłup prawidłowy sześciokątny przecięto płaszczyzną, która przecina wszystkie jego krawędzie boczne. W przekroju otrzymano sześciokąt wypukły \(A B C D E F\). Wykaż, że proste \(A D, B E\) i \(C F\) przecinają się w jednym punkcie.
+  \item W trójkącie \(A B C\) dwusieczna kąta \(A C B\) przecina bok \(A B\) w punkcie \(D\). Długości boków \(B C\) i \(A C\) są równe odpowiednio \(a\) i \(b\), a długość odcinka \(C D\) jest równa \(d\). Wykaż, że
+\end{enumerate}
+
+\[
+d<\frac{2 a b}{a+b}
+\]
+
+\begin{enumerate}
+  \setcounter{enumi}{2}
+  \item Dodatnie liczby rzeczywiste \(a, b\) mają tę własność, że liczba \(\frac{a-b}{a+b}\) jest wymierna. Udowodnij, że liczba \(\frac{2 a-b}{2 a+b}\) też jest wymierna
+\end{enumerate}
+
+\footnotetext{Rozwiqzania należy oddać do środy 25 maja do godziny 15.00 koordynatorowi konkursu panu Jarostawowi Szczepaniakowi lub swojemu nauczycielowi matematyki lub przestać na adres \href{mailto:jareksz@interia.pl}{jareksz@interia.pl} do piatku 27 maja do pótnocy.
+}
+\end{document}

@@ -1,0 +1,58 @@
+\documentclass[10pt]{article}
+\usepackage[polish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[version=4]{mhchem}
+\usepackage{stmaryrd}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, filecolor=magenta, urlcolor=cyan,}
+\urlstyle{same}
+
+\title{GIMNAZJUM }
+
+\author{}
+\date{}
+
+
+\newcommand\Varangle{\mathop{{<\!\!\!\!\!\text{\small)}}\:}\nolimits}
+
+%New command to display footnote whose markers will always be hidden
+\let\svthefootnote\thefootnote
+\newcommand\blfootnotetext[1]{%
+  \let\thefootnote\relax\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \let\thefootnote\svthefootnote%
+}
+
+%Overriding the \footnotetext command to hide the marker if its value is `0`
+\let\svfootnotetext\footnotetext
+\renewcommand\footnotetext[2][?]{%
+  \if\relax#1\relax%
+    \ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+  \else%
+    \if?#1\ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+    \else\svfootnotetext[#1]{#2}\fi%
+  \fi
+}
+
+\begin{document}
+\maketitle
+\begin{enumerate}
+  \item Dane są takie liczby rzeczywiste \(a, b, c\), że liczby \(a b+b c, b c+c a, c a+a b\) są dodatnie. Udowodnij, że liczby \(a, b, c\) mają jednakowy znak, tzn. wszystkie są dodatnie lub wszystkie są ujemne.
+  \item Dany jest trójkąt ostrokątny \(A B C\), przy czym \(\Varangle A C B=60^{\circ}\). Punkty \(D\) i \(E\) są rzutami prostokątnymi odpowiednio punktów \(A\) i \(B\) na proste \(B C\) i \(A C\). Punkt \(M\) jest środkiem boku \(A B\). Wykazać, ze trójkąt \(D E M\) jest równoboczny.
+  \item Dany jest trójkąt \(A B C\), w którym \(A C>B C\). Punkt \(P\) jest rzutem prostokątnym punktu \(B\) na dwusieczną kąta \(A C B\). Punkt \(M\) jest środkiem odcinka \(A B\). Wiedząc, że \(B C=a, C A=b, A B=c\), oblicz długość odcinka \(P M\).
+\end{enumerate}
+
+\section*{LICEUM}
+\begin{enumerate}
+  \item Znajdź taką najmniejszą liczbę naturalną \(n\), aby liczby \(n+1\) oraz \(n-50\) były kwadratami liczb naturalnych.
+  \item Wykaż, że dla \(a \in R \quad a^{8}+a^{2}+1>a^{5}+a\)
+  \item Na tablicy napisano słowo \(a b d c\). W jednym ruchu możemy dopisać lub usunąć (na początku, w środku lub na końcu) palindrom parzystej długości utworzony z liter \(a, b, c, d\). Rozstrzygnąć, czy po skończonej liczbie ruchów możemy uzyskać słowo bacd. (Uwaga: Palindromem nazywamy słowo, które czytane od lewej do prawej jest takie samo jak czytane od prawej do lewej, np. abba, cc, daaaad.)
+\end{enumerate}
+
+\footnotetext{Rozwiazania należy oddać do piatku 22 kwietnia do godziny 10.35 koordynatorowi konkursu panu Jarostawowi Szczepaniakowi lub swojemu nauczycielowi matematyki lub przestać na adres \href{mailto:jareksz@interia.pl}{jareksz@interia.pl} do piątku 22 kwietnia do pótnocy.
+}
+\end{document}
