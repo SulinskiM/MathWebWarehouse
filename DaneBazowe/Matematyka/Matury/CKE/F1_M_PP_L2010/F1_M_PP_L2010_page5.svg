@@ -1,0 +1,2403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="793.76001"
+   height="1122.5601"
+   viewBox="0 0 793.76001 1122.5601"
+   sodipodi:docname="F1_M_PP_L2010_page5.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="m 56.64,794.4 h 5.04 v 11.52 h -5.04 z"
+         transform="matrix(1,0,0,-1,-56.640001,796.68002)"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         d="m 93.06,735.91 h 12 v 18 h -12 z"
+         transform="matrix(1,0,0,-1,-95.435005,741.91002)"
+         id="path10" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <path
+         d="m 114.31,735.91 h 12.95 v 18 h -12.95 z"
+         transform="matrix(1,0,0,-0.99615134,-121.8745,735.97275)"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13">
+      <path
+         d="m 114.31,735.91 h 12.95 v 18 h -12.95 z"
+         transform="matrix(1,0,0,-0.99615,-116.67591,739.05365)"
+         id="path13" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15">
+      <path
+         d="m 262.01,738.91 h 83.05 v 15.95 h -83.05 z"
+         transform="matrix(1,0,0,-1.003745,-270.2962,750.0573)"
+         id="path15" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 262.01,738.91 h 83.05 v 15.95 h -83.05 z"
+         transform="matrix(1,0,0,-1.0037367,-284.4922,744.67287)"
+         id="path18" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20">
+      <path
+         d="m 354.31,735.91 h 33.95 v 18 h -33.95 z"
+         transform="matrix(1,0,0,-0.99852971,-361.14361,737.72993)"
+         id="path20" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath22">
+      <path
+         d="m 354.31,735.91 h 33.95 v 18 h -33.95 z"
+         transform="matrix(1,0,0,-0.998525,-356.68151,740.81568)"
+         id="path22" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24">
+      <path
+         d="m 432.31,735.91 h 39 v 18 h -39 z"
+         transform="matrix(1,0,0,-1,-445.34121,738.81622)"
+         id="path24" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26">
+      <path
+         d="m 432.31,735.91 h 39 v 18 h -39 z"
+         transform="matrix(1,0,0,-1,-440.87241,741.91002)"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath33">
+      <path
+         d="m 78.06,715.76 h 21.95 v 12.95 H 78.06 Z"
+         transform="matrix(1,0,0,-1.0015811,-86.416,718.88716)"
+         id="path33" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath37">
+      <path
+         d="m 198.41,714.76 h 21.95 v 13.95 h -21.95 z"
+         transform="matrix(1,0,0,-1.0013047,-206.76591,718.68575)"
+         id="path37" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath47">
+      <path
+         d="m 272.71,664.86 h 120.95 v 20.05 H 272.71 Z"
+         transform="matrix(1,0,0,-0.75112322,-286.32931,504.00398)"
+         id="path47" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath48">
+      <path
+         d="m 272.71,664.86 h 120.95 v 20.05 H 272.71 Z"
+         transform="matrix(1,0,0,-0.99709556,-320.31521,675.29892)"
+         id="path48" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath50">
+      <path
+         d="m 272.71,664.86 h 120.95 v 20.05 H 272.71 Z"
+         transform="matrix(1,0,0,-0.99709064,-362.79761,669.92287)"
+         id="path50" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath51">
+      <path
+         d="m 272.71,664.86 h 120.95 v 20.05 H 272.71 Z"
+         transform="matrix(1,0,0,-0.99709064,-304.69661,669.92287)"
+         id="path51" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath62">
+      <path
+         d="m 198.41,631.36 h 15.95 v 13 h -15.95 z"
+         transform="matrix(1,0,0,-0.99687497,-206.75881,631.38073)"
+         id="path62" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath68">
+      <path
+         d="m 425.21,631.36 h 15.95 v 13 h -15.95 z"
+         transform="matrix(1,0,0,-0.99687497,-433.55881,631.38073)"
+         id="path68" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath75">
+      <path
+         d="m 333.56,580.51 h 96.95 v 20.05 h -96.95 z"
+         transform="matrix(1,0,0,-0.75104707,-344.92911,440.60199)"
+         id="path75" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath78">
+      <path
+         d="m 333.56,580.51 h 96.95 v 20.05 h -96.95 z"
+         transform="matrix(1,0,0,-0.99699088,-395.24681,585.75936)"
+         id="path78" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath85">
+      <path
+         d="m 78.06,559.36 h 27.95 v 13.95 H 78.06 Z"
+         transform="matrix(1,0,0,-1.0017981,-99.334405,563.36055)"
+         id="path85" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath90">
+      <path
+         d="m 198.41,559.36 h 30.95 v 13.95 h -30.95 z"
+         transform="matrix(1,0,0,-1.0019654,-220.99851,563.45462)"
+         id="path90" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath95">
+      <path
+         d="m 311.81,559.36 h 30 v 13.95 h -30 z"
+         transform="matrix(1,0,0,-1.0035878,-334.05991,564.367)"
+         id="path95" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath100">
+      <path
+         d="m 425.21,559.36 h 36 v 13.95 h -36 z"
+         transform="matrix(1,0,0,-1.0035878,-454.39741,564.367)"
+         id="path100" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath105">
+      <path
+         d="m 214.96,509.46 h 85.95 v 20.05 h -85.95 z"
+         transform="matrix(1,0,0,-0.7509963,-216.39661,387.21392)"
+         id="path105" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath108">
+      <path
+         d="m 214.96,509.46 h 85.95 v 20.05 h -85.95 z"
+         transform="matrix(1,0,0,-0.99692439,-238.04031,514.88932)"
+         id="path108" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath115">
+      <path
+         d="m 78.06,482.56 h 35.05 v 20.05 H 78.06 Z"
+         transform="matrix(1,0,0,-0.9989277,-90.859502,489.05253)"
+         id="path115" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath121">
+      <path
+         d="m 78.06,462.56 h 35.05 v 20 H 78.06 Z"
+         transform="matrix(1,0,0,-1.001425,-90.859502,470.22944)"
+         id="path121" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath125">
+      <path
+         d="m 78.06,440.56 h 92.05 v 22 H 78.06 Z"
+         transform="matrix(1,0,0,-0.66751962,-79.498299,298.58834)"
+         id="path125" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath128">
+      <path
+         d="m 78.06,440.56 h 92.05 v 22 H 78.06 Z"
+         transform="matrix(1,0,0,-0.75372009,-164.26311,337.42948)"
+         id="path128" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath129">
+      <path
+         d="m 78.06,440.56 h 92.05 v 22 H 78.06 Z"
+         transform="matrix(1,0,0,-1.0005417,-99.6655,448.80347)"
+         id="path129" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath133">
+      <path
+         d="m 78.06,418.61 h 92.05 v 21.95 H 78.06 Z"
+         transform="matrix(1,0,0,-0.66903972,-79.498299,284.5725)"
+         id="path133" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath136">
+      <path
+         d="m 78.06,418.61 h 92.05 v 21.95 H 78.06 Z"
+         transform="matrix(1,0,0,-0.75543581,-163.88781,321.6033)"
+         id="path136" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath137">
+      <path
+         d="m 78.06,418.61 h 92.05 v 21.95 H 78.06 Z"
+         transform="matrix(1,0,0,-1.0028231,-99.6655,427.79621)"
+         id="path137" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath142">
+      <path
+         d="m 180.31,368.71 h 24 v 20.05 h -24 z"
+         transform="matrix(1,0,0,-0.74649476,-181.7475,279.82386)"
+         id="path142" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath143">
+      <path
+         d="m 180.31,368.71 h 24 v 20.05 h -24 z"
+         transform="matrix(1,0,0,-0.99751248,-192.6537,371.69918)"
+         id="path143" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath144">
+      <path
+         d="m 180.31,368.71 h 24 v 20.05 h -24 z"
+         transform="matrix(1,0,0,-0.99750621,-186.685,374.79061)"
+         id="path144" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath146">
+      <path
+         d="m 249.31,369.66 h 30.95 v 18 h -30.95 z"
+         transform="matrix(1,0,0,-0.99838556,-256.32991,371.96482)"
+         id="path146" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath149">
+      <path
+         d="m 249.31,369.66 h 30.95 v 18 h -30.95 z"
+         transform="matrix(1,0,0,-0.99838332,-272.58481,375.05277)"
+         id="path149" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath151">
+      <path
+         d="m 289.61,369.66 h 36.95 v 18 h -36.95 z"
+         transform="matrix(1,0,0,-0.99864504,-297.38071,372.06149)"
+         id="path151" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath154">
+      <path
+         d="m 289.61,369.66 h 36.95 v 18 h -36.95 z"
+         transform="matrix(1,0,0,-0.99864998,-312.85971,375.15295)"
+         id="path154" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath160">
+      <path
+         d="m 78.06,343.76 h 39 v 18 h -39 z"
+         transform="matrix(1,0,0,-1,-79.872504,349.76011)"
+         id="path160" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath166">
+      <path
+         d="m 198.41,343.76 h 45 v 18 h -45 z"
+         transform="matrix(1,0,0,-1,-200.2225,349.76011)"
+         id="path166" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath170">
+      <path
+         d="m 311.81,343.76 h 38.05 v 18 h -38.05 z"
+         transform="matrix(1,0,0,-1.0013117,-319.60141,347.12112)"
+         id="path170" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath173">
+      <path
+         d="m 311.81,343.76 h 38.05 v 18 h -38.05 z"
+         transform="matrix(1,0,0,-1.001325,-336.06051,350.22353)"
+         id="path173" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath178">
+      <path
+         d="m 425.21,343.76 h 51 v 18 h -51 z"
+         transform="matrix(1,0,0,-1,-427.02241,349.76011)"
+         id="path178" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath186">
+      <path
+         d="m 185.36,295.86 h 30 v 18 h -30 z"
+         transform="matrix(1,0,0,-1,-187.1725,301.86011)"
+         id="path186" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath191">
+      <path
+         d="m 247.16,295.86 h 36 v 18 h -36 z"
+         transform="matrix(1,0,0,-1,-248.97241,301.86011)"
+         id="path191" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath194">
+      <path
+         d="m 360.06,295.86 h 128.05 v 18 H 360.06 Z"
+         transform="matrix(1,0,0,-1.0003892,-368.43831,298.88268)"
+         id="path194" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath197">
+      <path
+         d="m 360.06,295.86 h 128.05 v 18 H 360.06 Z"
+         transform="matrix(1,0,0,-1.0003917,-429.64971,301.97833)"
+         id="path197" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath216">
+      <path
+         d="m 269.11,217.26 h 12 v 11.05 h -12 z"
+         transform="matrix(1,0,-0.33182904,-0.99548711,-196.89176,219.27973)"
+         id="path216" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath219">
+      <path
+         d="m 178.01,130.86 h 210.95 v 79.55 H 178.01 Z"
+         transform="matrix(4.1668369,0,0,-4.1734694,-1595.7438,594.1417)"
+         id="path219" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath222">
+      <path
+         d="m 178.01,130.86 h 210.95 v 79.55 H 178.01 Z"
+         transform="matrix(1,0,0,-1.0015859,-265.36591,132.02765)"
+         id="path222" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath226">
+      <path
+         d="m 178.01,130.86 h 210.95 v 79.55 H 178.01 Z"
+         transform="matrix(1,0,0,-1.0015859,-268.72581,183.62526)"
+         id="path226" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath230">
+      <path
+         d="m 78.06,85.96 h 53.05 v 31 H 78.06 Z"
+         transform="matrix(1,0,0,-1.0009416,-120.41241,105.62196)"
+         id="path230" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath231">
+      <path
+         d="m 78.06,85.96 h 53.05 v 31 H 78.06 Z"
+         transform="matrix(1,0,-0.33364999,-1.0009416,-63.70538,98.052443)"
+         id="path231" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath232">
+      <path
+         d="m 78.06,85.96 h 53.05 v 31 H 78.06 Z"
+         transform="matrix(1,0,0,-1.0009416,-108.02571,98.052443)"
+         id="path232" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath237">
+      <path
+         d="m 198.41,85.96 h 47.05 v 31 h -47.05 z"
+         transform="matrix(1,0,0,-1.0010667,-230.6317,105.63516)"
+         id="path237" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath238">
+      <path
+         d="m 198.41,85.96 h 47.05 v 31 h -47.05 z"
+         transform="matrix(1,0,-0.33369168,-1.0010667,-177.1086,98.064693)"
+         id="path238" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath239">
+      <path
+         d="m 198.41,85.96 h 47.05 v 31 h -47.05 z"
+         transform="matrix(1,0,0,-1.0010667,-221.43451,98.064693)"
+         id="path239" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath242">
+      <path
+         d="m 311.81,85.96 h 54 v 31 h -54 z"
+         transform="matrix(1,0,0,-1,-350.74741,105.5226)"
+         id="path242" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath244">
+      <path
+         d="m 311.81,85.96 h 54 v 31 h -54 z"
+         transform="matrix(1,0,0,-1,-350.93491,88.585127)"
+         id="path244" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath251">
+      <path
+         d="m 425.21,85.96 h 47.05 v 31 h -47.05 z"
+         transform="matrix(1,0,0,-1.0010667,-457.24401,105.63516)"
+         id="path251" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath252">
+      <path
+         d="m 425.21,85.96 h 47.05 v 31 h -47.05 z"
+         transform="matrix(1,0,-0.33369168,-1.0010667,-403.90861,98.064693)"
+         id="path252" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath253">
+      <path
+         d="m 425.21,85.96 h 47.05 v 31 h -47.05 z"
+         transform="matrix(1,0,0,-1.0010667,-448.23451,98.064693)"
+         id="path253" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="793.76001"
+       height="1122.5601"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <text
+       id="text1"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,268.64,60)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.96px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.1154399 9.9500399 14.9898 20.02956 25.069321 29.51148 32.031361 36.473518 41.513279 45.357841 50.397598 57.598679 60.357601 65.397362 67.917236 75.118317 80.158081 82.797478 87.837242 91.681801 96.721558 99.480476 104.52024 108.9624 111.48228 115.31688 117.71724 124.91832 129.95808 132.717 137.15916 144.36024 149.39999 152.15892 156.60107 161.04324 163.80215"
+         y="0"
+         sodipodi:role="line"
+         id="tspan1">Próbny egzamin maturalny z matematyki </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.96px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="40.92564 47.04108 52.080841 55.91544 58.674358 63.714119 70.915199 73.435081 78.474838 83.514603 88.554359 92.388962 95.147881 100.18764 106.79112 111.83088 118.43436"
+         y="11.64324"
+         sodipodi:role="line"
+         id="tspan2">Poziom podstawowy</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.96px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="122.88648"
+         y="11.64324"
+         id="tspan3"> </tspan></text>
+    <path
+       id="path3"
+       d="m 55.2,781.44 h 456.48 v 0.48 H 55.2 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1122.56)" />
+    <text
+       id="text3"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,60.32)"
+       clip-path="url(#clipPath4)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:9.96px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan4">6</tspan></text>
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,111.84)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.1260004 16.20216 23.99436 31.07052 38.86272 42.821999 49.055759 52.537682 59.501518 66.577682 70.059601"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">Zadanie 10. </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="73.555557 78.230881 85.307037 88.662598 95.738762 102.7026 106.66188"
+         y="0"
+         sodipodi:role="line"
+         id="tspan6">(1 pkt)</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="111.23892"
+         y="0"
+         id="tspan7"> </tspan></text>
+    <text
+       id="text7"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,133.28)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.1999998 10.56 15.84 21.24 27.48 33.240002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">Liczby </tspan></text>
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,133.20493,137.4716)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9375px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan9">1</tspan></text>
+    <text
+       id="text9"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,127.24667,133.34667)"
+       clip-path="url(#clipPath10)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan10">x</tspan></text>
+    <text
+       id="text10"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,144,133.28)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.3599999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan11">i </tspan></text>
+    <text
+       id="text11"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3384847,162.49933,137.47173)"
+       clip-path="url(#clipPath12)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9108px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan12">2</tspan></text>
+    <text
+       id="text12"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3384865,155.56787,133.34667)"
+       clip-path="url(#clipPath13)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9538px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan13">x</tspan></text>
+    <text
+       id="text13"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,173.6,133.28)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 4.6799998 9.96 12.96 18.959999 22.32 27.6 31.559999 40.200001 43.68 48.959999 53.639999 57 63 68.400002 77.760002 81.120003 84.120003 88.080002 94.080002 102.72 108.72 114 120 123.36 128.64"
+         y="0"
+         sodipodi:role="line"
+         id="tspan14">są pierwiastkami równania </tspan></text>
+    <text
+       id="text14"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3283586,360.39493,126.21493)"
+       clip-path="url(#clipPath15)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9417px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan15">2</tspan></text>
+    <text
+       id="text15"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3283696,379.32293,133.3592)"
+       clip-path="url(#clipPath18)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0072px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0036001 28.889322 34.892921 52.711609"
+         y="0"
+         sodipodi:role="line"
+         id="tspan16">10240</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0072px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-20.100052 12.763654"
+         y="0"
+         sodipodi:role="line"
+         id="tspan17">xx</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0072px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-7.5044999 20.256145 43.514091"
+         y="0"
+         sodipodi:role="line"
+         id="tspan18">+−=</tspan></text>
+    <text
+       id="text18"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,464,133.28)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.3599999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan19">i </tspan></text>
+    <text
+       id="text19"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3352966,481.5248,137.47173)"
+       clip-path="url(#clipPath20)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9273px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 21.841778"
+         y="0"
+         sodipodi:role="line"
+         id="tspan20">12</tspan></text>
+    <text
+       id="text20"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3353029,475.57533,133.34667)"
+       clip-path="url(#clipPath22)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9823px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 21.088848"
+         y="0"
+         sodipodi:role="line"
+         id="tspan21">xx</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9823px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.167503"
+         y="0"
+         id="tspan22">&lt;</tspan></text>
+    <text
+       id="text22"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,517.6,133.28)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3 9 17.639999 23.639999 27 30.360001 35.639999 41.040001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan23">. Oblicz </tspan></text>
+    <text
+       id="text23"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,593.78827,137.47173)"
+       clip-path="url(#clipPath24)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9375px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 20.750063"
+         y="0"
+         sodipodi:role="line"
+         id="tspan24">12</tspan></text>
+    <text
+       id="text24"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,578.82987,133.34667)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan25">2</tspan></text>
+    <text
+       id="text25"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,587.82987,133.34667)"
+       clip-path="url(#clipPath26)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 20.004"
+         y="0"
+         sodipodi:role="line"
+         id="tspan26">xx</tspan></text>
+    <text
+       id="text26"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,601.99653,133.34667)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan27">+</tspan></text>
+    <text
+       id="text27"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,628.32,133.28)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan28">.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="3"
+         y="0"
+         id="tspan29"> </tspan></text>
+    <text
+       id="text29"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,165.44)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan30">A.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan31"> </tspan></text>
+    <text
+       id="text31"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3312285,115.22133,165.55693)"
+       clip-path="url(#clipPath33)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9727px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.9863501"
+         y="0"
+         sodipodi:role="line"
+         id="tspan32">22</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9727px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-6.549067"
+         y="0"
+         id="tspan33">−</tspan></text>
+    <text
+       id="text33"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,236.16,165.44)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.04"
+         y="0"
+         sodipodi:role="line"
+         id="tspan34">B.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.04"
+         y="0"
+         id="tspan35"> </tspan></text>
+    <text
+       id="text35"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.331596,275.68787,165.56093)"
+       clip-path="url(#clipPath37)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9727px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.9863501"
+         y="0"
+         sodipodi:role="line"
+         id="tspan36">17</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9727px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-6.549067"
+         y="0"
+         id="tspan37">−</tspan></text>
+    <text
+       id="text37"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,387.36,165.44)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan38">C.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64 21.24 27.24"
+         y="0"
+         sodipodi:role="line"
+         id="tspan39"> 8 </tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="113.4 122.04"
+         y="0"
+         sodipodi:role="line"
+         id="tspan40">D.</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="125.04"
+         y="0"
+         id="tspan41"> </tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="134.64 140.64 146.64"
+         y="0"
+         sodipodi:role="line"
+         id="tspan42">13 </tspan></text>
+    <text
+       id="text42"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,205.12)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.1260004 16.20216 23.99436 31.07052 38.86272 42.821999 49.055759 52.537682 59.501518 66.577682 70.059601"
+         y="0"
+         sodipodi:role="line"
+         id="tspan43">Zadanie 11. </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="73.555557 78.230881 85.307037 88.662598 95.738762 102.7026 106.66188"
+         y="0"
+         sodipodi:role="line"
+         id="tspan44">(1 pkt)</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="111.23892"
+         y="0"
+         id="tspan45"> </tspan></text>
+    <text
+       id="text45"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,226.72)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.1999998 10.56 15.84 21.24 27.264 32.52 39.720001 45.743999 52.919998 56.279999 61.560001 66.239998 69.599998 76.800003 82.823997 86.160004 91.559998 95.519997 104.16 107.52 112.8 117.48 120.96 126.984 130.32001 135.60001 144.96001 152.16 160.8 164.16 169.44 172.8 178.82401 188.16 191.52 196.8 202.8 208.8"
+         y="0"
+         sodipodi:role="line"
+         id="tspan46">Liczba 2 jest pierwiastkiem wielomianu </tspan></text>
+    <text
+       id="text46"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.7751193,381.7724,227.8928)"
+       clip-path="url(#clipPath47)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8362px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.777019"
+         y="0"
+         sodipodi:role="line"
+         id="tspan47">()</tspan></text>
+    <text
+       id="text47"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3372172,427.08693,219.53867)"
+       clip-path="url(#clipPath48)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9346px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 27.176697"
+         y="0"
+         sodipodi:role="line"
+         id="tspan48">32</tspan></text>
+    <text
+       id="text48"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3372238,483.73013,226.7232)"
+       clip-path="url(#clipPath50)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.995px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 22.862471"
+         y="0"
+         sodipodi:role="line"
+         id="tspan49">64</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.995px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-89.398735 -70.938431 -48.171921 -27.216656 -21.219154 6.74119"
+         y="0"
+         sodipodi:role="line"
+         id="tspan50">Wxxaxx</tspan></text>
+    <text
+       id="text50"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3372238,406.26213,226.7232)"
+       clip-path="url(#clipPath51)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.995px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 22.082794 49.479374 72.341843"
+         y="0"
+         sodipodi:role="line"
+         id="tspan51">=++−</tspan></text>
+    <text
+       id="text51"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,524.8,226.72)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3 10.2 21.6 26.280001 32.279999 38.279999 41.639999 46.919998 52.439999 58.200001 64.199997 70.199997 73.559998 79.559998"
+         y="0"
+         sodipodi:role="line"
+         id="tspan52">. Współczynnik </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="86.760002"
+         y="0"
+         id="tspan53">a</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="92.760002 99.959999 103.32 108.6 113.28 116.64"
+         y="0"
+         sodipodi:role="line"
+         id="tspan54"> jest </tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-336.95999 -333 -327.03601 -318.35999 -312.12"
+         y="17.76"
+         sodipodi:role="line"
+         id="tspan55">równy</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-306.23999"
+         y="17.76"
+         id="tspan56"> </tspan></text>
+    <text
+       id="text56"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,277.92)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan57">A.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64 21.360001 27.360001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan58"> 2 </tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="120.48 128.52"
+         y="0"
+         sodipodi:role="line"
+         id="tspan59">B.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="131.52"
+         y="0"
+         id="tspan60"> </tspan></text>
+    <text
+       id="text60"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3375131,275.6784,278.08)"
+       clip-path="url(#clipPath62)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9625px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan61">2</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9625px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-6.5434875"
+         y="0"
+         id="tspan62">−</tspan></text>
+    <text
+       id="text62"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,387.36,277.92)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan63">C.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64 21.24 27.24"
+         y="0"
+         sodipodi:role="line"
+         id="tspan64"> 4 </tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="113.4 122.04"
+         y="0"
+         sodipodi:role="line"
+         id="tspan65">D.</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="125.04"
+         y="0"
+         id="tspan66"> </tspan></text>
+    <text
+       id="text66"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3375131,578.0784,278.08)"
+       clip-path="url(#clipPath68)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9625px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan67">4</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9625px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-6.5434875"
+         y="0"
+         id="tspan68">−</tspan></text>
+    <text
+       id="text68"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,317.6)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.1260004 16.20216 23.99436 31.07052 38.86272 42.821999 49.055759 52.537682 59.501518 66.577682 70.059601"
+         y="0"
+         sodipodi:role="line"
+         id="tspan69">Zadanie 12. </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="73.555557 78.230881 85.307037 88.662598 95.738762 102.7026 106.66188"
+         y="0"
+         sodipodi:role="line"
+         id="tspan70">(1 pkt)</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="111.23892"
+         y="0"
+         id="tspan71"> </tspan></text>
+    <text
+       id="text71"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,339.2)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.4 16.08 22.152 27.360001 32.759998"
+         y="0"
+         sodipodi:role="line"
+         id="tspan72">Wskaż </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="35.759998"
+         y="0"
+         id="tspan73">m</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="44.400002 47.400002 50.400002 56.400002 59.759998 65.040001 68.040001 74.040001 77.400002 83.400002 87.360001 92.639999 98.519997 104.52 107.52 111.48 117.6 123.6 129.60001 134.88 138.24001 143.52 146.52 149.88 153.24001 159.24001 162.60001 168.60001 177.24001 182.52 185.52 191.52 197.52 201.48 206.75999 211.44 214.8 220.8 226.8 232.08 235.2 243.84 249.24001 255.24001 259.20001 264.48001 273.84"
+         y="0"
+         sodipodi:role="line"
+         id="tspan74">, dla którego funkcja liniowa określona wzorem </tspan></text>
+    <text
+       id="text74"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.7752993,459.90547,340.3596)"
+       clip-path="url(#clipPath75)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.835px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.775825 27.36252 56.00322"
+         y="0"
+         sodipodi:role="line"
+         id="tspan75">()()</tspan></text>
+    <text
+       id="text75"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3373576,526.99573,339.19027)"
+       clip-path="url(#clipPath78)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9938px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 27.645708"
+         y="0"
+         sodipodi:role="line"
+         id="tspan76">13</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9938px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-57.630211 -44.796844 -18.002693 11.693955"
+         y="0"
+         sodipodi:role="line"
+         id="tspan77">fxmx</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9938px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-31.951483 -7.304224 19.214067"
+         y="0"
+         sodipodi:role="line"
+         id="tspan78">=−+</tspan></text>
+    <text
+       id="text78"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,577.92,339.2)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.3599999 8.6400003 13.32 16.68 19.704 24.360001 27.719999 33 36.360001 41.639999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan79">jest stała.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="44.639999"
+         y="0"
+         id="tspan80"> </tspan></text>
+    <text
+       id="text80"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,372.64)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan81">A.</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan82"> </tspan></text>
+    <text
+       id="text82"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3309402,132.44587,372.7608)"
+       clip-path="url(#clipPath85)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9786px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan83">1</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9786px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-19.465225"
+         y="0"
+         id="tspan84">m</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9786px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-8.0496197"
+         y="0"
+         id="tspan85">=</tspan></text>
+    <text
+       id="text85"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,236.16,372.64)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.04"
+         y="0"
+         sodipodi:role="line"
+         id="tspan86">B.</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.04"
+         y="0"
+         id="tspan87"> </tspan></text>
+    <text
+       id="text87"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.330718,294.66467,372.7608)"
+       clip-path="url(#clipPath90)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9806px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan88">2</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9806px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-20.774361"
+         y="0"
+         id="tspan89">m</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9806px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-9.3568487"
+         y="0"
+         id="tspan90">=</tspan></text>
+    <text
+       id="text90"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,387.36,372.64)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan91">C.</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan92"> </tspan></text>
+    <text
+       id="text92"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3285667,445.4132,372.7608)"
+       clip-path="url(#clipPath95)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan93">3</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-20.436001"
+         y="0"
+         id="tspan94">m</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-9"
+         y="0"
+         id="tspan95">=</tspan></text>
+    <text
+       id="text95"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,538.56,372.64)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan96">D.</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan97"> </tspan></text>
+    <text
+       id="text97"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3285667,605.8632,372.7608)"
+       clip-path="url(#clipPath100)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan98">1</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-27.372"
+         y="0"
+         id="tspan99">m</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-15.936 -6.5640001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan100">=−</tspan></text>
+    <text
+       id="text100"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,412.32)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.1260004 16.20216 23.99436 31.07052 38.86272 42.821999 49.055759 52.537682 59.501518 66.577682 70.059601"
+         y="0"
+         sodipodi:role="line"
+         id="tspan101">Zadanie 13. </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="73.555557 78.230881 85.307037 88.662598 95.738762 102.7026 106.66188"
+         y="0"
+         sodipodi:role="line"
+         id="tspan102">(1 pkt)</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="111.23892"
+         y="0"
+         id="tspan103"> </tspan></text>
+    <text
+       id="text103"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,433.92)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.1999998 13.2 16.559999 22.559999 26.639999 31.92 41.279999 44.279999 48.240002 54.240002 59.639999 68.279999 71.639999 76.919998 82.32 87.599998 93.599998 96.599998 102.6 105.96 111.24 115.2 121.32 129.96001 135.96001 141.96001 146.64 151.92 155.28"
+         y="0"
+         sodipodi:role="line"
+         id="tspan104">Zbiorem rozwiązań nierówności </tspan></text>
+    <text
+       id="text104"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.7754193,288.5288,435.09293)"
+       clip-path="url(#clipPath105)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8342px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 28.260069 33.348774 61.052639"
+         y="0"
+         sodipodi:role="line"
+         id="tspan105">()()</tspan></text>
+    <text
+       id="text105"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3374468,317.38707,433.92293)"
+       clip-path="url(#clipPath108)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.993px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 33.172638 54.999897"
+         y="0"
+         sodipodi:role="line"
+         id="tspan106">230</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.993px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-16.118591 17.23394"
+         y="0"
+         sodipodi:role="line"
+         id="tspan107">xx</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.993px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-8.6229668 24.729567 45.813259"
+         y="0"
+         sodipodi:role="line"
+         id="tspan108">−+≥</tspan></text>
+    <text
+       id="text108"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,405.12,433.92)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.3599999 8.6400003 13.32 16.68"
+         y="0"
+         sodipodi:role="line"
+         id="tspan109">jest </tspan></text>
+    <text
+       id="text109"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,469.76)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan110">A.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan111"> </tspan></text>
+    <path
+       id="path111"
+       d="M 0,0 -84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04172773,0,0,0.0417684,110.63125,456.256)" />
+    <path
+       id="path112"
+       d="M 0,0 84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04172773,0,0,0.0417684,107.12612,465.7792)" />
+    <path
+       id="path113"
+       d="M 0,0 84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04172773,0,0,0.0417684,143.13716,456.256)" />
+    <path
+       id="path114"
+       d="M 0,0 -84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04172773,0,0,0.0417684,146.64228,465.7792)" />
+    <text
+       id="text114"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3347646,121.146,469.79)"
+       clip-path="url(#clipPath115)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0171px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.8162766 9.9501591"
+         y="0"
+         sodipodi:role="line"
+         id="tspan114">2,3</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0171px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-6.5733538"
+         y="0"
+         id="tspan115">−</tspan></text>
+    <text
+       id="text115"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,496.48)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.04"
+         y="0"
+         sodipodi:role="line"
+         id="tspan116">B.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.04"
+         y="0"
+         id="tspan117"> </tspan></text>
+    <path
+       id="path117"
+       d="M 0,0 -84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04172773,0,0,0.04166667,110.63516,482.97837)" />
+    <path
+       id="path118"
+       d="M 0,0 84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04172773,0,0,0.04166667,107.13005,492.47829)" />
+    <path
+       id="path119"
+       d="M 0,0 84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04172773,0,0,0.04166667,143.64181,482.97821)" />
+    <path
+       id="path120"
+       d="M 0,0 -84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04172773,0,0,0.04166667,147.14696,492.47813)" />
+    <text
+       id="text120"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.331436,121.146,496.4796)"
+       clip-path="url(#clipPath121)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0171px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.4437461 9.9501591"
+         y="0"
+         sodipodi:role="line"
+         id="tspan120">3,2</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0171px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-6.5733538"
+         y="0"
+         id="tspan121">−</tspan></text>
+    <text
+       id="text121"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,524.32)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan122">C.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan123"> </tspan></text>
+    <path
+       id="path123"
+       d="M 0,0 84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04168707,0,0,0.04166667,156.35001,510.97955)" />
+    <path
+       id="path124"
+       d="M 0,0 -84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04168707,0,0,0.04166667,159.85175,520.47947)" />
+    <text
+       id="text124"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.9974444,105.99773,526.1464)"
+       clip-path="url(#clipPath125)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8693px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan124">(</tspan></text>
+    <path
+       id="path126"
+       d="M 0,0 -84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04168707,0,0,0.04166667,182.15433,510.97931)" />
+    <path
+       id="path127"
+       d="M 0,0 84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04168707,0,0,0.04166667,178.65261,520.47923)" />
+    <text
+       id="text127"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.7690033,219.01747,525.64613)"
+       clip-path="url(#clipPath128)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8475px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan127">)</tspan></text>
+    <text
+       id="text128"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3326115,132.88733,524.47933)"
+       clip-path="url(#clipPath129)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0065px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.069993 38.276722 44.087868"
+         y="0"
+         sodipodi:role="line"
+         id="tspan128">,32,</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0065px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-15.200229 -8.6326733 4.5024376 22.788338 48.5783 55.145855"
+         y="0"
+         sodipodi:role="line"
+         id="tspan129">−∞−∪+∞</tspan></text>
+    <text
+       id="text129"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,553.6)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan130">D.</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan131"> </tspan></text>
+    <path
+       id="path131"
+       d="M 0,0 84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04168707,0,0,0.04156493,156.85024,540.39883)" />
+    <path
+       id="path132"
+       d="M 0,0 -84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04168707,0,0,0.04156493,160.35196,549.87563)" />
+    <text
+       id="text132"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.9929061,105.99773,555.43373)"
+       clip-path="url(#clipPath133)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8693px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan132">(</tspan></text>
+    <path
+       id="path134"
+       d="M 0,0 -84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04168707,0,0,0.04156493,182.65453,540.39883)" />
+    <path
+       id="path135"
+       d="M 0,0 84,228"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04168707,0,0,0.04156493,179.15282,549.87563)" />
+    <text
+       id="text135"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.7649856,218.51707,554.9348)"
+       clip-path="url(#clipPath136)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8475px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan135">)</tspan></text>
+    <text
+       id="text136"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3295798,132.88733,553.7708)"
+       clip-path="url(#clipPath137)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0065px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.069993 38.276722 43.715668"
+         y="0"
+         sodipodi:role="line"
+         id="tspan136">,23,</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0065px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-15.200229 -8.6326733 4.5024376 23.172544 48.218105 54.78566"
+         y="0"
+         sodipodi:role="line"
+         id="tspan137">−∞−∪+∞</tspan></text>
+    <text
+       id="text137"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,600)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.1260004 16.20216 23.99436 31.07052 38.86272 42.821999 49.055759 52.537682 59.501518 66.577682 70.059601"
+         y="0"
+         sodipodi:role="line"
+         id="tspan138">Zadanie 14. </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="73.555557 78.230881 85.307037 88.662598 95.738762 102.7026 106.66188"
+         y="0"
+         sodipodi:role="line"
+         id="tspan139">(1 pkt)</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="111.23892"
+         y="0"
+         id="tspan140"> </tspan></text>
+    <text
+       id="text140"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,621.6)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.4 14.352 19.68 23.040001 28.32 34.200001 40.152 43.32 49.200001 54.48 60.431999 69.959999 75.239998 78.599998 82.800003 88.559998 93.839996 99.239998 105.36 111.12 120.6"
+         y="0"
+         sodipodi:role="line"
+         id="tspan141">W ciągu geometrycznym </tspan></text>
+    <text
+       id="text141"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.7861255,242.33,622.75947)"
+       clip-path="url(#clipPath142)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8568px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 16.469095"
+         y="0"
+         sodipodi:role="line"
+         id="tspan142">()</tspan></text>
+    <text
+       id="text142"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3366583,256.8716,625.7252)"
+       clip-path="url(#clipPath143)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9375px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan143">n</tspan></text>
+    <text
+       id="text143"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3366667,248.91333,621.58987)"
+       clip-path="url(#clipPath144)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan144">a</tspan></text>
+    <text
+       id="text144"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,276.32,621.6)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.9520001 11.28 17.232 22.559999 25.511999 30.24 35.52 38.880001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan145">dane są: </tspan></text>
+    <text
+       id="text145"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3354894,341.7732,625.80493)"
+       clip-path="url(#clipPath146)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9263px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan146">1</tspan></text>
+    <text
+       id="text146"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3354924,363.4464,621.67987)"
+       clip-path="url(#clipPath149)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9806px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan147">2</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9806px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-21.469234"
+         y="0"
+         id="tspan148">a</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9806px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-9.3688288"
+         y="0"
+         id="tspan149">=</tspan></text>
+    <text
+       id="text149"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,377.6,621.6)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.3599999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan150">i </tspan></text>
+    <text
+       id="text150"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3351424,396.5076,625.80493)"
+       clip-path="url(#clipPath151)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9281px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan151">2</tspan></text>
+    <text
+       id="text151"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3351358,417.14627,621.67987)"
+       clip-path="url(#clipPath154)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9838px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.9919"
+         y="0"
+         sodipodi:role="line"
+         id="tspan152">12</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9838px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-21.439018"
+         y="0"
+         id="tspan153">a</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9838px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-8.0531139"
+         y="0"
+         id="tspan154">=</tspan></text>
+    <text
+       id="text154"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,435.36,621.6)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3 6 17.4 20.76 26.040001 32.16 37.799999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan155">. Wtedy </tspan></text>
+    <text
+       id="text155"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,656.16)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan156">A.</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan157"> </tspan></text>
+    <text
+       id="text157"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,114.45493,660.33813)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9375px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan158">4</tspan></text>
+    <text
+       id="text158"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,136.8716,656.2132)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6"
+         y="0"
+         sodipodi:role="line"
+         id="tspan159">26</tspan></text>
+    <text
+       id="text159"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,106.49667,656.2132)"
+       clip-path="url(#clipPath160)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan160">a</tspan></text>
+    <text
+       id="text160"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,124.3716,656.2132)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan161">=</tspan></text>
+    <text
+       id="text161"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,236.16,656.16)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.04"
+         y="0"
+         sodipodi:role="line"
+         id="tspan162">B.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.04"
+         y="0"
+         id="tspan163"> </tspan></text>
+    <text
+       id="text163"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,274.9216,660.33813)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9375px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan164">4</tspan></text>
+    <text
+       id="text164"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,297.33827,656.2132)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6 12"
+         y="0"
+         sodipodi:role="line"
+         id="tspan165">432</tspan></text>
+    <text
+       id="text165"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,266.96333,656.2132)"
+       clip-path="url(#clipPath166)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan166">a</tspan></text>
+    <text
+       id="text166"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,284.83827,656.2132)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan167">=</tspan></text>
+    <text
+       id="text167"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,387.36,656.16)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan168">C.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan169"> </tspan></text>
+    <text
+       id="text169"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3315867,426.1352,660.33813)"
+       clip-path="url(#clipPath170)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9466px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan170">4</tspan></text>
+    <text
+       id="text170"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.331569,448.08067,656.2132)"
+       clip-path="url(#clipPath173)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0158px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0079002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan171">32</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0158px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-22.433498"
+         y="0"
+         id="tspan172">a</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0158px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-9.0118504"
+         y="0"
+         id="tspan173">=</tspan></text>
+    <text
+       id="text173"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,538.56,656.16)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan174">D.</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan175"> </tspan></text>
+    <text
+       id="text175"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,577.3216,660.33813)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9375px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan176">4</tspan></text>
+    <text
+       id="text176"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,599.73813,656.2132)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6 12 18"
+         y="0"
+         sodipodi:role="line"
+         id="tspan177">2592</tspan></text>
+    <text
+       id="text177"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,569.3632,656.2132)"
+       clip-path="url(#clipPath178)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan178">a</tspan></text>
+    <text
+       id="text178"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,587.23827,656.2132)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan179">=</tspan></text>
+    <text
+       id="text179"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,699.84)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.1260004 16.20216 23.99436 31.07052 38.86272 42.821999 49.055759 52.537682 59.501518 66.577682 70.059601"
+         y="0"
+         sodipodi:role="line"
+         id="tspan180">Zadanie 15. </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="73.555557 78.230881 85.307037 88.662598 95.738762 102.7026 106.66188"
+         y="0"
+         sodipodi:role="line"
+         id="tspan181">(1 pkt)</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="111.23892"
+         y="0"
+         id="tspan182"> </tspan></text>
+    <text
+       id="text182"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,720)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.4 16.92 22.200001 25.559999 30.84 36.720001 42.84 48.360001 53.639999 57.84 63.599998 66.959999 76.32 81.599998 85.199997 90.959999 96.239998 101.64 107.88 113.76 123.12"
+         y="0"
+         sodipodi:role="line"
+         id="tspan183">W ciągu arytmetycznym </tspan></text>
+    <text
+       id="text183"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,256.5216,724.2048)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9375px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan184">1</tspan></text>
+    <text
+       id="text184"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,277.73,720.07987)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan185">3</tspan></text>
+    <text
+       id="text185"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,249.56333,720.07987)"
+       clip-path="url(#clipPath186)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan186">a</tspan></text>
+    <text
+       id="text186"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,265.73,720.07987)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan187">=</tspan></text>
+    <text
+       id="text187"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,294.4,720)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.9520001 9.96 15.24 20.639999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan188">oraz </tspan></text>
+    <text
+       id="text188"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,339.9216,724.2048)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9375px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.46875"
+         y="0"
+         sodipodi:role="line"
+         id="tspan189">20</tspan></text>
+    <text
+       id="text189"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,366.7132,720.07987)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan190">7</tspan></text>
+    <text
+       id="text190"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,331.9632,720.07987)"
+       clip-path="url(#clipPath191)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan191">a</tspan></text>
+    <text
+       id="text191"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,354.4632,720.07987)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan192">=</tspan></text>
+    <text
+       id="text192"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,377.44,720)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3 8.5200005 19.92 23.280001 28.559999 34.68 40.439999 45.959999 50.639999 56.639999 66 71.400002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan193">. Wtedy suma </tspan></text>
+    <text
+       id="text193"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3328146,491.25107,724.2048)"
+       clip-path="url(#clipPath194)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9402px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.4700999 25.512175 46.457699 85.565727 89.035828 110.51575 113.98585"
+         y="0"
+         sodipodi:role="line"
+         id="tspan194">20121920</tspan></text>
+    <text
+       id="text194"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3328113,572.86627,720.07987)"
+       clip-path="url(#clipPath197)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0047px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.0011749 6.0023499"
+         y="0"
+         sodipodi:role="line"
+         id="tspan195">...</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0047px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-67.586464 -40.924023 -20.732117 19.123487 43.324963"
+         y="0"
+         sodipodi:role="line"
+         id="tspan196">Saaaa</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0047px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-50.299694 -29.543566 -8.0671587 10.312037 34.513512"
+         y="0"
+         sodipodi:role="line"
+         id="tspan197">=++++</tspan></text>
+    <text
+       id="text197"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,658.08,720)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.3599999 8.6400003 13.32 16.68"
+         y="0"
+         sodipodi:role="line"
+         id="tspan198">jest </tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-436.92001 -432.95999 -426.95999 -418.32001 -412.32001"
+         y="16.799999"
+         sodipodi:role="line"
+         id="tspan199">równa</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-406.92001"
+         y="16.799999"
+         id="tspan200"> </tspan></text>
+    <text
+       id="text200"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,769.92)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan201">A.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan202"> </tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="21.360001 27.360001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan203">95</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="33.360001"
+         y="0"
+         id="tspan204"> </tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="120.48 128.52"
+         y="0"
+         sodipodi:role="line"
+         id="tspan205">B.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="131.52 141.72 147.72 153.72 159.72"
+         y="0"
+         sodipodi:role="line"
+         id="tspan206"> 200 </tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="233.88 242.52"
+         y="0"
+         sodipodi:role="line"
+         id="tspan207">C.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="245.52 255.12 261.12 267.12 273.12"
+         y="0"
+         sodipodi:role="line"
+         id="tspan208"> 230 </tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="347.28 355.92001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan209">D.</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="358.92001"
+         y="0"
+         id="tspan210"> </tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="368.51999 374.51999 380.51999 386.51999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan211">100 </tspan></text>
+    <text
+       id="text211"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,809.6)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.1260004 16.20216 23.99436 31.07052 38.86272 42.821999 49.055759 52.537682 59.501518 66.577682 70.059601"
+         y="0"
+         sodipodi:role="line"
+         id="tspan212">Zadanie 16. </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="73.555557 78.230881 85.307037 88.662598 95.738762 102.7026 106.66188"
+         y="0"
+         sodipodi:role="line"
+         id="tspan213">(1 pkt)</tspan><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:14.04px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="111.23892"
+         y="0"
+         id="tspan214"> </tspan></text>
+    <text
+       id="text214"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,828.8)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.3999996 13.56 16.32 20.280001 25.799999 30.360001 36.240002 42 47.759998 53.639999 56.400002 61.560001 66.599998 71.760002 77.639999 82.68 87.720001 93 98.760002 104.52 110.4 113.16 118.92 122.16 128.03999 133.67999 139.44 144 149.03999 152.16 155.03999 160.8 166.56 172.44 178.2 186.72 189.48 192.60001 195.36 201.24001 206.28 209.52"
+         y="0"
+         sodipodi:role="line"
+         id="tspan215">Na rysunku zaznaczono długości boków i kąt </tspan></text>
+    <text
+       id="text215"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,-0.44444444,1.3393778,359.98,828.8616)"
+       clip-path="url(#clipPath216)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan216">α</tspan></text>
+    <text
+       id="text216"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,378.4,828.8)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 3.1199999 6.8400002 12.6 15.84 21.6 26.76 29.879999 34.919998 37.799999 43.560001 47.279999 53.16 57.599998 60.720001 66.599998 72.360001 77.400002 80.639999 86.400002 91.559998 97.32 103.08 105.96 109.68 114.84 120.6 126.48 131.64 136.67999 141.84 144.72 148.56 154.2 158.75999 164.52 170.39999 175.44 181.32001 185.03999 187.92 190.67999 201.84 204.96001 210.12 215.88"
+         y="0"
+         sodipodi:role="line"
+         id="tspan217">trójkąta prostokątnego (zobacz rysunek). Wtedy</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="221.75999"
+         y="0"
+         id="tspan218"> </tspan></text>
+    <path
+       id="path218"
+       d="M 0,0 H -815 V -277 Z"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.31998693,0,0,0.3194784,510.61716,932.74456)"
+       clip-path="url(#clipPath219)" />
+    <path
+       id="path220"
+       d="m 0,0 -184,-1 v -14 l 2,-15 3,-14 4,-14 z"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.31998693,0,0,0.3194784,512.85709,933.06402)" />
+    <path
+       id="path221"
+       d="m 0,0 -1,-1 -1,-1 -1,-4 -1,2 -1,2 -1.999,1 L -8,0 h -2 l -2,1 -2.999,-1 H -17 l -2,-1 -1,-2 -2,-4 -1,-4 1,-5 2,-4 4.001,-2 2.999,-1 h 3 l 2,1 2.001,3 1.999,4 2,-8 H 2.001 L -1,-11 v 1 l -1,2 1,3 v 1 l 1,1 2.001,1 1,-1 L 4,-4 5,-6 v 3 L 4,-1 3.001,0 1,1 Z M -15.999,-19 -18,-15 v 4 4 l 1,2 1.001,2 1,1 0.999,1 h 2 l 1,-1 2,-1 2.001,-3 1.999,-6 -0.999,-5 -2.001,-3 -2,-1 h -2 -2.999 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.31998693,0,0,0.3194784,469.65871,928.27186)" />
+    <text
+       id="text221"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3312221,353.8212,946.80187)"
+       clip-path="url(#clipPath222)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9994px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.9997001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan221">12</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9994px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-86.155693"
+         y="-43.197842"
+         id="tspan222">5</tspan></text>
+    <path
+       id="path223"
+       d="m 0,0 v -91 h 10 l 9,2 8,2 9,3 8,4 7,4 7,6 7,5 6,7 5,7 5,8 3,7 4,9 2,9 1,9 1,9 z"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.31998693,0,0,0.3194784,249.82792,932.74446)" />
+    <path
+       id="path224"
+       d="m 0,0 h -2 l -1,-1 -1,-1 v -2 -2 l 1,-1 1,-1 h 2 2.001 l 1,1 1,1 v 2 2 l -1,1 -1,1 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.31998693,0,0,0.3194784,261.98722,922.52125)" />
+    <path
+       id="path225"
+       d="M 0,0 H 2 L 3,1 4,2 V 4 6 L 3,7 2,8 H 0 -2 L -3,7 -4,6 V 4 2 l 1,-1 1,-1 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.31998693,0,0,0.3194784,261.98746,919.96528)" />
+    <text
+       id="text225"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3312221,358.30107,878.114)"
+       clip-path="url(#clipPath226)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9994px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.9997001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan225">13</tspan></text>
+    <text
+       id="text226"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,75.52,991.84)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan226">A.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan227"> </tspan></text>
+    <path
+       id="path227"
+       d="M 0,0 H 366"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04170733,0,0,0.04166667,156.80151,987.94612)" />
+    <text
+       id="text227"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.332079,160.54987,981.8632)"
+       clip-path="url(#clipPath230)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0113px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan228">5</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0113px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-40.73032 -35.48138 -29.547798"
+         y="7.5671191"
+         sodipodi:role="line"
+         id="tspan229">cos</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0113px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-3.3871865 2.6184635"
+         y="16.947945"
+         sodipodi:role="line"
+         id="tspan230">13</tspan></text>
+    <text
+       id="text230"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,-0.44444814,1.332079,128.51973,991.9464)"
+       clip-path="url(#clipPath231)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0113px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan231">α</tspan></text>
+    <text
+       id="text231"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.332079,144.03427,991.9464)"
+       clip-path="url(#clipPath232)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0113px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan232">=</tspan></text>
+    <text
+       id="text232"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,236.16,991.84)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.04"
+         y="0"
+         sodipodi:role="line"
+         id="tspan233">B.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.04"
+         y="0"
+         id="tspan234"> </tspan></text>
+    <path
+       id="path234"
+       d="M 0,0 H 378"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04170733,0,0,0.04166667,307.98261,987.94612)" />
+    <text
+       id="text234"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3319126,307.50893,981.8632)"
+       clip-path="url(#clipPath237)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0128px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0064001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan235">13</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0128px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-30.224205 -26.848608"
+         y="7.5680642"
+         sodipodi:role="line"
+         id="tspan236">tg</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0128px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-0.1922048 5.8141952"
+         y="16.950062"
+         sodipodi:role="line"
+         id="tspan237">12</tspan></text>
+    <text
+       id="text237"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,-0.44444814,1.3319126,279.72947,991.9464)"
+       clip-path="url(#clipPath238)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0128px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan238">α</tspan></text>
+    <text
+       id="text238"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3319126,295.246,991.9464)"
+       clip-path="url(#clipPath239)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0128px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan239">=</tspan></text>
+    <text
+       id="text239"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,387.36,991.84)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan240">C.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan241"> </tspan></text>
+    <path
+       id="path241"
+       d="M 0,0 H 11.813"
+       style="fill:none;stroke:#000000;stroke-width:0.594;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,468.4132,987.94653)" />
+    <text
+       id="text241"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,467.6632,981.8632)"
+       clip-path="url(#clipPath242)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6"
+         y="0"
+         sodipodi:role="line"
+         id="tspan242">12</tspan></text>
+    <text
+       id="text242"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,417.9132,991.94653)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.244 11.172"
+         y="0"
+         sodipodi:role="line"
+         id="tspan243">cos</tspan></text>
+    <text
+       id="text243"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,467.9132,1004.4465)"
+       clip-path="url(#clipPath244)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6"
+         y="0"
+         sodipodi:role="line"
+         id="tspan244">13</tspan></text>
+    <text
+       id="text244"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,-0.44444444,1.3333333,440.1632,991.94653)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan245">α</tspan></text>
+    <text
+       id="text245"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,455.6632,991.94653)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan246">=</tspan></text>
+    <text
+       id="text246"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,538.56,991.84)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6400003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan247">D.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="11.64"
+         y="0"
+         id="tspan248"> </tspan></text>
+    <path
+       id="path248"
+       d="M 0,0 H 378"
+       style="fill:none;stroke:#000000;stroke-width:19;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.04170733,0,0,0.04166667,610.35603,987.94612)" />
+    <text
+       id="text248"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3319126,609.65867,981.8632)"
+       clip-path="url(#clipPath251)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0128px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0064001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan249">12</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0128px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="-30.032 -26.656403"
+         y="7.5680642"
+         sodipodi:role="line"
+         id="tspan250">tg</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0128px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="3.5678017"
+         y="16.950062"
+         id="tspan251">5</tspan></text>
+    <text
+       id="text251"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,-0.44444814,1.3319126,582.12947,991.9464)"
+       clip-path="url(#clipPath252)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0128px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan252">α</tspan></text>
+    <text
+       id="text252"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3319126,597.646,991.9464)"
+       clip-path="url(#clipPath253)"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.0128px;font-family:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan253">=</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="793.62665"
+   height="1122.6667"
+   viewBox="0 0 793.62665 1122.6667"
+   sodipodi:docname="F1_M_PP_L2006_page14.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="m 528.6,795.02 h 10.02 v 11.22 H 528.6 Z"
+         transform="matrix(1,0,0,-1,-533.64001,797.18032)"
+         id="path4" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="793.62665"
+       height="1122.6667"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <text
+       id="text1"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,306.08,59.519467)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.02px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.1362481 10.048056 15.072084 20.096111 25.12014 29.583048 32.103077 36.565987 41.590015 45.501823 50.525848 57.774319 60.535831 65.55986 68.079887 75.328354 80.352386 83.113899 88.153954 92.065765 97.08979 99.851303 104.89137 109.35427 111.87431 115.78611 118.30614 125.55461 130.57863 133.34015 137.78201 145.03049 150.0545 152.81602 157.27893 161.74184 164.50336"
+         y="0"
+         sodipodi:role="line"
+         id="tspan1">Próbny egzamin maturalny z matematyki </tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.02px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="41.160156 47.299412 52.326443 56.241257 59.002769 64.0298 71.281281 73.801308 78.828339 83.855377 88.882408 92.797226 95.558739 100.59879 107.25909 112.29915 118.95944"
+         y="11.519994"
+         sodipodi:role="line"
+         id="tspan2">Poziom podstawowy</tspan></text>
+    <path
+       id="path2"
+       d="m 83.58,782.06 h 456.54 v 0.47998 H 83.58 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1122.6667)" />
+    <text
+       id="text2"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,704.8,59.7596)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:10.02px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan3">1</tspan></text>
+    <text
+       id="text3"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,711.52,59.7596)"
+       clip-path="url(#clipPath4)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:10.02px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0"
+         id="tspan4">5</tspan></text>
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,356.64,114.3996)"><tspan
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:16.02px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 10.68534 22.25178 33.818218 45.384659 56.951099 69.414658 79.202881 85.434662 94.341782"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">BRUDNOPIS </tspan></text>
+  </g>
+</svg>

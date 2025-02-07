@@ -1,0 +1,12 @@
+;-1;-1;-1;Rozwiąż nierówność \(|2x5|-|x+4|\leq 2-2x\).
+;-1;-1;-1;Trapez równoramienny ABCD o podstawach AB i CD jest opisany na okręgu o promieniu \(r\). Wykaż, że \(4r^{2}=|AB|\cdot|CD|\).
+;-1;-1;-1;Oblicz, ile jest liczb naturalnych sześciocyfrowych, w zapisie których występuje dokładnie trzy razy cyfra 0 i dokładnie raz występuje cyfra 5.
+;-1;-1;-1;Rozwiąż równanie \(\cos 2x+\cos x+1=0\) dla \(x\in\langle 0,2\pi\rangle\).
+;-1;-1;-1;Ciąg liczbowy \((a,b,c)\) jest arytmetyczny i \(a+b+c=33\) , natomiast ciąg \((a-1,b+5,c+19)\) jest geometryczny. Oblicz \(a\), \(b\), \(c\).
+;-1;-1;-1;Wyznacz wszystkie wartości parametru \(m\), dla których równanie \(x^{2}+2(1m)x+m^{2}-m=0\) ma dwa różne rozwiązania rzeczywiste \(x_{1}, x_{2}\) spełniające warunek \(x_{1}\cdot x_{2}\leq 6m\leq x_{1}^{2}+x_{2}^{2}\).
+;-1;-1;-1;Prosta o równaniu \(3x-4y-36=0\) przecina okrąg o Środku \(S=(3,12)\) w punktach \(A\) i \(B\). Długość odcinka \(AB\) jest równa 40. Wyznacz równanie tego okręgu.
+;-1;-1;-1;Reszta z dzielenia wielomianu \(W(x)=4x^{3}-5x^{2}-23x+m\) przez dwumian \(x+1\) jest równa 20. Oblicz wartość współczynnika \(m\) oraz pierwiastki tego wielomianu.
+;-1;-1;-1;Dany jest trójkąt \(ABC\), w którym \(|AC|=17\) i \(|BC|=10\). Na boku \(AB\) leży punkt \(D\) taki, że \(|AD|:|DB|=3:4\) oraz \(|DC|=10\). Oblicz pole trójkąta \(ABC\).
+;-1;-1;-1;W ostrosłupie \(ABCS\) podstawa \(ABC\) jest trójkątem równobocznym o boku długości \(a\). Krawędź \(AS\) jest prostopadła do płaszczyzny podstawy. Odległość wierzchołka \(A\) od ściany \(BCS\) jest równa \(d\). Wyznacz objętość tego ostrosłupa.
+;-1;-1;-1;Rzucamy cztery razy symetryczną sześcienną kostką do gry. Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że iloczyn liczb oczek otrzymanych we wszystkich czterech rzutach będzie równy 60.
+;-1;-1;-1;Na rysunku przedstawiony jest fragment wykresu funkcji logarytmicznej \(f\) określonej wzorem \(f(x)=\log_{2}(xp)\). <img src="/static/zbiorzadan/images/F1_M_PR_M2013_page17_images/image001.png" style="width: 117.852mm; height: 97.536mm;" alt="Opis obrazka" /> a) Podaj wartość p. b) Narysuj wykres funkcji określonej wzorem \(y=|f(x)|\). c) Podaj wszystkie wartości parametru \(m\), dla których równanie \(|f(x)|=m\) ma dwa rozwiązania o przeciwnych znakach.
