@@ -1,0 +1,67 @@
+\documentclass[10pt]{article}
+\usepackage[polish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[export]{adjustbox}
+\graphicspath{ {./images/} }
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[version=4]{mhchem}
+\usepackage{stmaryrd}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, filecolor=magenta, urlcolor=cyan,}
+\urlstyle{same}
+
+\title{Zestaw 4 }
+
+\author{}
+\date{}
+
+
+%New command to display footnote whose markers will always be hidden
+\let\svthefootnote\thefootnote
+\newcommand\blfootnotetext[1]{%
+  \let\thefootnote\relax\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \let\thefootnote\svthefootnote%
+}
+
+%Overriding the \footnotetext command to hide the marker if its value is `0`
+\let\svfootnotetext\footnotetext
+\renewcommand\footnotetext[2][?]{%
+  \if\relax#1\relax%
+    \ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+  \else%
+    \if?#1\ifnum\value{footnote}=0\blfootnotetext{#2}\else\svfootnotetext{#2}\fi%
+    \else\svfootnotetext[#1]{#2}\fi%
+  \fi
+}
+
+\begin{document}
+\maketitle
+\begin{center}
+\includegraphics[max width=\textwidth]{2024_11_21_d92deff08e0a64cf903ag-1}
+\end{center}
+
+\section*{GIMNAZJUM}
+\begin{enumerate}
+  \item Dwóch uczonych napisało na siedmiu kartkach liczby od 5 do 11. Przemieszawszy te karteczki pierwszy wziął trzy z nich a drugi dwie, a ostatnie dwie, nie patrząc, co jest na nich napisane, wyrzucili do kosza. Zajrzawszy do swoich kartek pierwszy uczony powiedział do drugiego: „Wiem, że suma liczb na twoich kartkach jest liczbą parzystą". Jakie liczby były napisane na kartkach pierwszego uczonego?
+  \item Czy można w komórkach tablicy \(6 \times 6\) umieścić liczby naturalne \(w\) ten sposób, że w każdym prostokącie \(4 \times 1\) suma liczb jest liczbą parzystą, a suma wszystkich liczb w tej tablicy jest liczbą nieparzystą?
+  \item Punkt \(P\) jest dowolnym punktem wewnętrznym trójkąta równobocznego \(A B C\). Odległości punktu \(P\) od boków \(B C, C A, A B\) są odpowiednio równe \(x, y, z\). Wykaż, że dla danego trójkąta \(x+y+z\) jest wielkością stałą.
+\end{enumerate}
+
+\section*{LICEUM}
+\begin{enumerate}
+  \item Czy można wypełnić tablice:\\
+a) \(4 \times 4\)\\
+b) \(5 \times 5\)\\
+liczbami w ten sposób, by iloczyn w każdej kolumnie był liczbą dodatnią, a w każdym wierszu liczbą ujemną?
+  \item Wokół fontanny na dziedzińcu pałacu cesarza ustawiono dziesięć posągów różnej wagi. Cesarz, wielki miłośnik sztuki i matematyki rozkazał, by pomiędzy każdymi dwoma posągami umieścić kulę, której waga równa jest różnicy wag tych posągów. Nadworny matematyk zauważył, że w takim przypadku kule można podzielić na dwie grupy o równych ciężarach. Czy matematyk miał rację?
+  \item Udowodnij, że obraz ortocentrum trójkąta w symetrii względem prostej zawierającej bok trójkąta leży na okręgu opisanym na tym trójkącie.
+\end{enumerate}
+
+\footnotetext{Rozwiązania należy oddać do piątku 20 października do godziny 15.00 koordynatorowi konkursu panu Jarostawowi Szczepaniakowi lub przestać na adres \href{mailto:jareksz@interia.pl}{jareksz@interia.pl} do piątku 20 października do pótnocy.
+}
+\end{document}
