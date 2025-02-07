@@ -1,0 +1,12 @@
+;PP;1;-1;Niemieckie przepisy drogowe wymagają zachowania bezpiecznego odstępu między poruszającymi się w tym samym kierunku pojazdami. Zalecane jest przy tym zachowanie zasady,,połowa licznika jeżeli dwa pojazdy jadą z prędkością \(x\) km/h, to odstęp między nimi powinien wynosić przynajmniej \(x/2\) metrów. Jaki odstęp czasowy powinien zatem dzielić te dwa pojazdy? Przyjmując, że dla samochodu jadącego z prędkością \(v\) m/s droga hamowania wynosi \(s_{h}=\frac{v^{2}}{2a}\) metrów (gdzie \(a\) jest stałym współczynnikiem hamowania), sprawdź przy jakiej prędkości \(x\) km/h dojdzie do wypadku, jeżeli oba pojazdy jechały z minimalnym zalecanym odstępem, pierwszy zatrzymał się nagle (przyjmij \(a=10\)), a drugi zaczął hamować jedną sekundę później i z siłą taka, że \(a=7\).
+;PP;2;-1;Jakimi kątami mogą być \(\alpha\) i \(2\alpha\), jeżeli wiadomo, że \(\alpha\) jest kątem ostrym oraz \(\sin\alpha+\cos\alpha=\frac{\sqrt{6}}{2}\).
+;PP;3;-1;Rozważmy funkcję \(f(x)=x^{2}-(a+2)x+3(a-1)\). Dla jakich wartości parametru \(a\): \[(i)\] cały wykres \(f(x)\) leży ponad prostą \(y=-1\)? \[(ii)\] oba miejsca zerowe funkcji \(f(x)\) są większe od 2?
+;PP;4;-1;Rozwiąż nierówność \(x\leq1+\sqrt{2+x}\).
+;PP;5;-1;Narysuj starannie zbiór \(A\cap B\), gdzie \(A=\{(x,y):2|x|+|y|\leq 2\}\), \(B=\{(x,y):y^{2}-y<2\}\) i oblicz jego pole.
+;PP;6;-1;Jednym z wierzchołków kwadratu jest \(A(1,-3)\), a jedna z jego przekątnych zawiera się w prostej \(y=-2x+2\). Wyznaczyć współrzędne pozostałych wierzchołków kwadratu i równanie okręgu wpisanego w ten kwadrat.
+;PR;1;-1;Wyznacz kąty \(\alpha\) i \(2\alpha\) wiedząc, iż \(\alpha\) jest kątem rozwartym takim, że \(tg\alpha+ctg\alpha=-2\sqrt{2}\).
+;PR;2;-1;Rozwiąż równanie \(x=\sqrt{5+\sqrt{3+x^{2}}}\). Nie używając kalkulatora zbadaj, czy jego rozwiązanie jest liczbą większą niż 3.
+;PR;3;-1;Udowodnij, że jeżeli dwa trójkąty prostokątne mają równe obwody i długości przeciwprostokątnych, to są przystające.
+;PR;4;-1;Narysuj starannie zbiór \(A\cap B\), gdzie \(A=\{(x,y):x^{2}-8|x|+y^{2}-8|y|+16\geq0,|x|\leq 4,|y|\leq 4\}\), \(B=\{(x,y):x^{2}+y^{2}>16(3-2\sqrt{2})\}\) i oblicz jego pole.
+;PR;5;-1;Dla jakich wartości parametrów \(p\) i \(q\) do zbioru rozwiązań równania \(x^{3}-3px^{2}+(q+4)x=0\), należą zarówno \(p\) jak i \(q\)?
+;PR;6;-1;Napisz równanie prostej \(k\) stycznej do okręgu \(x^{2}-4x+y^{2}+2y=0\) w punkcie \(P(3,1)\). Następnie wyznacz równania wszystkich prostych stycznych do tego okręgu, które tworzą z prostą \(k\) kąt \(45^{\mathrm{o}}\).

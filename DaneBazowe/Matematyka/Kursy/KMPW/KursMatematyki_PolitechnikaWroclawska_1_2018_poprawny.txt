@@ -1,0 +1,12 @@
+;PP;1;-1;Promień podstawy stożka obrotowego zmniejszono o 20%. O ile procent trzeba zwiększyć wysokość tego stożka, żeby jego objętość nie uległa zmianie?
+;PP;2;-1;Dla jakich wartości parametru \(m\) nierówność \(mx^{2}+(m+1)x+2m<0\) jest spełniona dla wszystkich \(x\in \mathbb{R}\)?
+;PP;3;-1;Określić dziedzinę i uprościć nastepujące wyrażenie: \(?\) Następnie obliczyć wartość tego wyrażenia dla \(a=\sqrt{3}+\sqrt{2}\) i \( b=5-2\sqrt{6}\).
+;PP;4;-1;Niech \(f(x)=x^{2}\). Narysować wykres funkcji \(g(x)=|f(x+1)-4|\) i określić liczbę rozwiązań równania \(g(x)=m\) w zależności od parametru \(m\).
+;PP;5;-1;Obliczyć pole koła wpisanego w romb o polu 10 i kacie ostrym \(30^{\mathrm{o}}\).
+;PP;6;-1;Niech \(A=\{x\in \mathbb{R}:\frac{3}{2x^{2}+x-6}\geq\frac{1}{2x-3}\}\) oraz \(B=\{x\in \mathbb{R}:\sqrt{x^{2}-4x+4}< x\}\). Wyznaczyć i narysować na osi liczbowej zbiory \(A\), \(B\) oraz \(A\backslash B\), \(B\backslash A\).
+;PR;1;-1;Pewna liczba pięciocyfrowa zaczyna się (z lewej strony) cyfrą 8. Jeśli cyfrę tę przestawimy z pierwszej pozycji na ostatnią, to otrzymamy liczbę stanowiąca 16% liczby pierwotnej. Znaleźć tę liczbę.
+;PR;2;-1;Określić dziedzinę i uprościć następujące wyrażenie: \(\frac{(\sqrt{a}+\sqrt{b})^{2}-4b}{(a-b)(\sqrt{\frac{1}{b}}+3\sqrt{\frac{1}{a}})^{-1}}:\frac{a+9b+6\sqrt{ab}}{\frac{1}{\sqrt{b}}+\frac{1}{\sqrt{a}}}\). Następnie wyznaczyć jego wartość dla \(a=\sqrt{4-2\sqrt{3}}\) i \(b=\sqrt{3}+1\).
+;PR;3;-1;Narysować wykres funkcji \(f(x)=\min\{\frac{2x}{x-1},x^{2}\}\). Podać wzór funkcji, której wykres jest symetryczny do wykresu funkcji \(f(x)\) względem początku układu współrzędnych. Określić liczbę rozwiązań równania \(f(x)=m\) w zależności od parametru \(m\).
+;PR;4;-1;Długości boków trójkąta prostokątnego tworzą ciąg arytmetyczny o różnicy \(p>0\). Obliczyć stosunek promienia okręgu opisanego na tym trójkącie do promienia okręgu wpisanego w ten trójkąt.
+;PR;5;-1;Dla jakich wartości parametru \(m\) suma sześcianów pierwiastków równania \(x^{2}+(m-1)x+m=\frac{7}{4}\) należy do przedziału \([-\frac{1}{2},0\))?
+;PR;6;-1;Dane są zbiory \(A=\{(x,y)\in \mathbb{R}^{2}:9-4\sqrt{2}\leq x^{2}+y^{2}<9+4\sqrt{2}\}\) oraz \(B=\{(x,y)\in \mathbb{R}^{2}:x^{2}+y^{2}<4|x|+4|y|-7\}\). Narysować starannie zbiór \(A\backslash B\) i wyznaczyć jego pole. Zadbać o odpowiednią skalę i czytelność rysunku.

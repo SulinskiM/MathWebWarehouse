@@ -1,0 +1,12 @@
+Wyznacz dziedzinę funkcji $f(x)=\log_{4x^{2}}(2^{x}+2^{1x}-3).$ 
+W przedziale $[0,2\pi]$ rozwiąz nierówność $\displaystyle \cos^{2}2x+\sin^{2}x\leq\frac{1}{2}.$ 
+Obwód trójk$\Phi$ta równoramiennego jest równy 8. Jaka powinna być dfugość boków tego trójkąta, by objętość bryły powstałej $\mathrm{z}$ jego obrotu dokola podstawy byla największa? 
+Rozwiąz równanie $\sqrt{123^{x}+9^{x}}=3^{2x1}-7\cdot 3^{x1}+2.$ 
+Punkt $B(1,1)$ jest wierzchołkiem kąta prostego $\mathrm{w}$ trójkącie prostokątnym $0$ polu 2, wpisanym $\mathrm{w}$ okrąg $x^{2}+y^{2}+2x2y-2=0.$ Znajdź współrzędne pozostałych wierzchołków tego trójkąta. Rozwiązanie zilustruj starannym rysunkiem. 
+Sporzqd $\acute{\mathrm{z}}$ staranny wykres funkcji $f(x)=$ dla dla $|2x5|\geq 3,$ $|2x5|<3,$ i na jego podstawie wyznacz zbiór wartości tej funkcji. Rozwiąz nierówność $f^{2}(x) \leq 1$ i zaznacz zbiór jej rozwiązań na osi $0x.$ 
+Narysuj staranny wykres funkcji $f(x)=|2^{|x1|}-4|-2$ i opisz dokładnie sposób jego konstrukcji. Korzystając $\mathrm{z}$ rysunku, określ ilość rozwiązań równania $f(x)=m\mathrm{w}$ zalezności od parametru $m.$ 
+Rozwiąz równanie 2 $\cos 2x+1=\sqrt{2\cos^{2}2x6\sin^{2}x+5}.$ 
+W trójkącie prostokątnym przeciwprostokątna ma długość 3. Jakie powinny być d1ugości przyprostokątnych, aby objętość bryły powstafej $\mathrm{z}$ jego obrotu dokołajednej $\mathrm{z}$ nich byla największa? 
+Rozwiąz nierówność $2^{x}(1+\displaystyle \frac{\sqrt{3}}{2})^{\frac{1}{x}}-(2-\sqrt{3})^{-x}\geq 0.$ 
+Znajdź równania prostych stycznych do okręgu $x^{2}+y^{2}=25$ przechodzących przez punkt $S(6,8)$. Wyznacz współrzędne punktów styczności $A, B\mathrm{i}$ oblicz pole obszaru ograniczonego odcinkami AS, $BS$ oraz większym fukiem $AB$. Wykonaj staranny rysunek. 
+Zbadaj przebieg zmienności i narysuj staranny wykres funkcji $f(x)=\displaystyle \frac{3x2}{(x1)^{2}}.$ 

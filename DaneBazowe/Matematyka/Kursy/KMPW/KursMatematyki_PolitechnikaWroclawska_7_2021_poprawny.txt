@@ -1,0 +1,12 @@
+;PP;1;-1;Wykaż, że dla dowolnych liczb \(a\), \(b\) różnych od zera, posiadających ten sam znak, prawdziwa jest nierówność \(\frac{a}{b}+\frac{b}{a}> \frac{8}{5}\).
+;PP;2;-1;Wyznacz \(tg\alpha\), wiedząc, że \(\alpha\) jest kątem ostrym spełniającym równanie \(\frac{2\sin\alpha+3\cos\alpha}{\cos\alpha}=2ctg\alpha\).
+;PP;3;-1;Spośród 10 białych i 2 czarnych kul losujemy bez zwracania \(m\) kul. Jaka jest najmniejsza liczba \(m\), dla której prawdopodobieństwo, że wśród wylosowanych kul jest przynajmniej jedna czarna, przekracza \(\frac{1}{2}\)?
+;PP;4;-1;Wielomian \(W(x)=2x^{3}+px^{2}+qx-2\) ma współczynniki całkowite i pierwiastek całkowity, a reszta z jego dzielenia przez dwumian \(x-2\) jest równa 10. Dla jakich x przyjmuje on wartości dodatnie?
+;PP;5;-1;Odcinek o końcach \(A(1,0)\) i \(B(2,1)\) jest podstawą trójkąta równoramiennego, którego trzeci wierzchołek leży na prostej \(y=2x+1\). Podaj równania prostych zawierających ramiona tego trójkąta i oblicz jego pole.
+;PP;6;-1;Na bokach \(AC\) i \(BC\) trójkąta równoramiennego \(ABC\) obrano punkty \(M\) i \(N\), których rzutami prostokątnymi na podstawę \(AB\) są punkty \(S\), \(T\). Wykaż, że \(|AB|=2|ST|\) wtedy i tylko wtedy, gdy \(|AM|=|CN|\).
+;PR;1;-1;Wykaż, że dla dowolnych liczb rzeczywistych \(a\), \(b\) równość \(a^{3}-2b^{3}=ab(a+b)\) zachodzi wtedy i tylko wtedy, gdy \(a=2b\).
+;PR;2;-1;Rozwiąż równanie \(\cos{x}-\sin{x}=\frac{\cos{2x}}{\sin{2x}+1}\).
+;PR;3;-1;Liczba dwuelementowych podzbiorów zbioru \(A\) jest 3 razy większa niż liczba dwuelementowych podzbiorów zbioru \(B\). Liczba dwuelementowych podzbiorów zbioru \(A\) nie zawierających ustalonego elementu \(a\in A\) jest sumą liczby dwuelementowych podzbiorów zbioru \(B\) i liczby dwuelementowych podzbiorów zbioru \(B\), do którego dodano jeden element. Ile elementów ma każdy z tych zbiorów? Ile każdy z tych zbiorów ma podzbiorów trzyelementowych?
+;PR;4;-1;Reszta z dzielenia wielomianu \(W(x)=x^{4}+x^{3}+px^{2}+qx+2\) przez \((x^{2}+1)\) jest równa \((-2x+6)\). Rozwiąż nierówność \(W(x)>0\).
+;PR;5;-1;Dwa boki trójkąta zawierają się w prostych \(2x-y=0\) i \(x-2y=0\), a proste zawierające jego wysokości przecinają się w punkcie \(S(5,-2)\). Wyznacz wierzchołki trójkąta i oblicz jego pole.
+;PR;6;-1;Wyznacz równanie krzywej będącej zbiorem środków okręgów, które są styczne do prostej \(x=2\) i do okręgu \(x^{2}+2x+y^{2}-2y+1=0\).

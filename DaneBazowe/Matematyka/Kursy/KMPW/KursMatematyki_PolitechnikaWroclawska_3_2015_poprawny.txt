@@ -1,0 +1,12 @@
+;PP;1;-1;Rozwiązać równanie \(tgx-\sin{x}=\frac{1-\cos{x}}{2\cos{x}}\).
+;PP;2;-1;Narysować wykres funkcji \(f(x)=2\sin{x}+|\sin{x}|\) i rozwiązać nierówność \(|f(x)|\leq \frac{3\sqrt{3}}{2}\).
+;PP;3;-1;Odcinek \(CD\) jest obrazem odcinka o końcach \(A(1,1)\) i \(B(2,0)\) w jednokładności o środku \(S(1,-1)\) i skali \(k=-2\). Obliczyć pole czworokąta \(ABCD\). Sporządzić rysunek.
+;PP;4;-1;Wielomian \(W(x)=x^{3}+ax^{2}+bx+c\) jest podzielny przez dwumian \(x+1\), a jego wykres jest symetryczny względem punktu \((0,0)\). Wyznaczyć \(a\), \(b\), \(c\) i rozwiązać nierówność \((x-1)W(x+2)-(x-2)W(x+1)\leq 0\).
+;PP;5;-1;Punkty \(A(1,1)\), \(B(0,3)\) są kolejnymi wierzchołkami rombu \(ABCD\). Wyznaczyć pozostałe wierzchołki, wiedząc, że jeden z nich leży na prostej \(x-y-2=0\). Sporządzić rysunek.
+;PP;6;-1;W trójkąt równoramienny wpisano okrąg o promieniu \(r\). Wyznaczyć pole trójkąta, jeżeli środek okręgu opisanego na tym trójkącie leży na okręgu wpisanym w ten trójkąt. Ile rozwiązań ma to zadanie? Sporządzić rysunek.
+;PR;1;-1;Narysować wykres funkcji \(f(x)=\cos2x-\sin^{2}x\) i rozwiązać nierówność \(f(x)\geq\frac{1}{4}\).
+;PR;2;-1;Obliczyć pole trójkąta \(ABC\) o wierzchołkach \(A(3,6)\), \(B(1,0)\), wiedząc, że wysokości przecinają się w punkcie \((4, 4)\). Sporządzić rysunek.
+;PR;3;-1;Dla jakiego kąta ostrego \(\alpha\) zachodzi równość \(\log_{\sin\alpha}(2\cos^{2}\alpha+\sin\alpha\cos\alpha-1)=2\)?
+;PR;4;-1;Dla jakiego parametru \(p\) wielomian \(W(x)=x^{3}+px^{2}+11x-6\) ma trzy pierwiastki, z których jeden jest średnią arytmetyczną pozostałych? Znaleźć wielomian o powyższej własności, którego wszystkie pierwiastki są wymierne.
+;PR;5;-1;Wyznaczyć równania wszystkich prostych stycznych do każdej z parabol \(y=(x+1)^{2}\) oraz \(y=-(x-3)^{2}-2\). Sporządzić rysunek.
+;PR;6;-1;W trójkącie równoramiennym \(ABC\) sinus kąta przy wierzchołku \(C\) jest równy 3/5. Pod jakim kątem przecinają się środkowe poprowadzone z wierzchołków podstawy \(AB\)?

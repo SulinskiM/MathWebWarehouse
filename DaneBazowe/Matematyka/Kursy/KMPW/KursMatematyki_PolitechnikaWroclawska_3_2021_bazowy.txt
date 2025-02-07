@@ -1,0 +1,12 @@
+Narysuj staranny wykres funkcji $f(x)=|\sin x|\cos x\mathrm{i}$ rozwiąz nierówność $|f(x)|\displaystyle \leq\frac{1}{4}.$ 
+Wyznacz dziedzinę funkcji $f(x)=\displaystyle \log_{2}(\frac{3x5}{x2}+1)$ i sprawd $\acute{\mathrm{z}}$ dla jakich argumentów funkcja ta przyjmuje wartości dodatnie. 
+W trójkącie dane są dlugości dwóch boków a i b . Oblicz długość trzeciego boku, wiedząc, że suma wysokości poprowadzonych do boków $a\mathrm{i}b$ jest równa trzeciej wysokości. 
+Niech ABCDEF będzie sześciokątem foremnym. Wykaż, że $\vec{AB}+\vec{AC}+\vec{AD}+\vec{AE}+\vec{AF}=3\vec{AD}.$ 
+Na krzywej $0$ równaniu $y= \sqrt{2x}$znajd $\acute{\mathrm{z}}$ miejsce, które polozone jest najblizej punktu $P(3,0).$ Sporząd $\acute{\mathrm{z}}$ rysunek. 
+Dla jakich wartości parametru $m$ pierwiastkiem wielomianu $w(x)=2x^{3}-7x^{2}-(m^{2}-12)x+m^{2}+m6$ jest $x=3$? Dla znalezionych wartości $m$ wyznacz pozostałe pierwiastki $w(x).$ 
+Dany jest trójkąt $0$ wierzchofkach $A(-1,3), B(-4,-1), \mathrm{i}C(3,0).$ Znajdź kąt pomiędzy wysokością tego trójkąta poprowadzonq $\mathrm{z}$ wierzcholka $A\mathrm{i}$ bokiem $AC$. Oblicz pole tego trójkąta. 
+Narysuj wykres funkcji $f(x)=\sin^{2}x-\cos 2x\mathrm{i}\mathrm{r}\mathrm{o}\mathrm{z}\mathrm{w}\mathrm{i}_{\Phi}\dot{\mathrm{z}}$ nierówność $f(x)\displaystyle \geq-\frac{1}{4}.$ 
+Zaznacz na płaszczyz$\acute{}$nie zbiór punktów, których współrzędne spełniajq nierówność $\log_{y}(\log_{x}y)>0.$ 
+Reszta $\mathrm{z}$ dzielenia wielomianu $w(x)=x^{4}+ax^{3}+(b+2)x^{2}+bx+a3$ przez trójmian $x^{2}+2x8$ wynosi $-5x+40$. Wyznacz wartość parametrów $a\mathrm{i}b$ oraz rozwiąz nierówność $w(x1)\geq w(x+1).$ 
+Dany jest trapez ABCD $0$ podstawach AB i CD, \mathrm{w} którym $\angle ABC=90^{\mathrm{o}}$ Dwusieczna kąta BAD przecina odcinek $BC\mathrm{w}$ punkcie $P$. Niech $Q$ będzie rzutem prostopadłym punktu $P$ na prostą $AD$. Wykaz, $\dot{\mathrm{z}}\mathrm{e}\mathrm{j}\mathrm{e}\dot{\mathrm{z}}$ eli pole czworokqta APCD jest równe polu trójk$\Phi$ta $ABP$, to $|PC|=|DQ|.$ 
+Boisko do gry $\mathrm{w}$ piłkę recznq jest prostokątem $0$ długości $40\mathrm{m}\mathrm{i}$ szerokości $20\mathrm{m}$. Bramki $\mathrm{m}\mathrm{a}\mathrm{j}_{\Phi}$ szerokość $3\mathrm{m}\mathrm{i}$ stoją dokfadnie na środku linii bramkowej (krótszego boku prostokąta). $\mathrm{Z}$ jakiego punktu linii bocznej (dłuzszego boku prostokąta) widać bramkę pod najwiekszym można liwym kątem? 

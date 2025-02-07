@@ -1,0 +1,12 @@
+Jeden $\mathrm{z}$ wierzchołków trójkąta równobocznego wpisanego $\mathrm{w}$ okrąg $x^{2}+y^{2}=2$ znajduje się $\mathrm{w}$ punkcie $P(1,1)$. Wyznacz polozenie pozostałych wierzchołków i sporząd $\acute{\mathrm{z}}$ odpowiedni rysunek. 
+Zbadaj, dla jakiej wartości parametru $\alpha \in [0,2\pi]$ liczba 0 jest najwiekszą wartościa funkcji $f(x)=x^{2}\cos\alpha+x(1+\cos 2\alpha)-1$ $\mathrm{w}$ calej jej dziedzinie. 
+Wyznacz te argumenty funkcji $g(x)=16\cdot 2^{x^{4}}\cdot 243^{x^{2}}-81\cdot 3^{x^{4}}\cdot 32^{x^{2}}$ dla których funkcja ta przyjmuje wartości nieujemne. 
+Zakładając, $\dot{\mathrm{z}}\mathrm{e}x\in[0,2\pi]$, rozwiąz nierówność trygonometryczną 16 $\displaystyle \sin^{4}\frac{x}{2}-16\sin^{2}\frac{x}{2}+3\geq 0.$ 
+Wyznacz wszystkie punkty wspólne krzywych $y=\displaystyle \log_{\sqrt{2}}\sqrt{2x1}+\log_{\frac{1}{2}}\frac{1}{3x+1}$ oraz $y=1+2\log_{4}(x+1).$ 
+Narysuj wykres funkcji $f(x)=|2-|22^{|x|}||$ i precyzyjnie opisz zastosowaną metode jego konstrukcji. Na podstawie rysunku wskaz lokalne ekstrema funkcji oraz określ jej najmniejszą i największą wartość w cafej dziedzinie, 0 i1e one istnieją. 
+Jeden $\mathrm{z}$ wierzchołków sześciokąta foremnego wpisanego $\mathrm{w}$ okrąg $x^{2}+y^{2}=2$ znajduje się $\mathrm{w}$ punkcie $P(-1,-1)$. Wyznacz pofozenie pozostalych wierzchołków i \mathrm{s} porząd $\acute{\mathrm{z}}$ odpowiedni rysunek. 
+Rozwiąz nierówność $2^{3x^{3}+x^{2}-3x+1}\cdot 3^{6x^{4}-x^{2}}\geq 3^{x^{3}+6x^{2}-x1}\cdot 4^{3x^{4}+x^{3}-3x^{2}-x+1}$ 
+Określ dziedzinę i zbadaj, dla jakich argumentów funkcja $f(x)=\displaystyle \log_{x1}(x+2)+\log_{x+2}\frac{1}{x1}$ przyjmuje wartości dodatnie. 
+Rozwiąz nierówność $33\displaystyle \sin^{2}x+3\sin^{4}x3\sin^{6}x+\ldots\leq\frac{16\cos^{2}x16\cos^{4}x}{2-\cos^{2}x},$ której lewa strona jest suma wszystkich wyrazów nieskończonego ciągu geometrycznego. 
+Na stozku $0$ promieniu podstawy $R$ opisano ostrosłup prawidłowy czworokątny, a $\mathrm{w}$ sto- $\dot{\mathrm{z}}$ ek ten wpisano ostrosłup prawidlowy sześciok$\Phi$tny. Stosunek pól powierzchni bocznych obu ostrosfupów wynosi $k$. Wyznacz zakres zmienności parametru $k$, a dla $k=\displaystyle \frac{11}{8}$ oblicz wysokość stozka i wykonać staranne rysunki rozwazanych brył. 
+Określ dziedzinę, wyznacz wszystkie asymptoty, przedziały monotoniczności oraz wszystkie lokalne ekstrema funkcji $f(x)=\displaystyle \frac{x^{3}+x^{2}-x+2}{x^{2}+x2}.$ $\mathrm{s}_{\mathrm{P}^{\mathrm{o}\mathrm{r}\mathrm{z}}\Phi^{\mathrm{d}\acute{\mathrm{z}}}}$ staranny wykres. 

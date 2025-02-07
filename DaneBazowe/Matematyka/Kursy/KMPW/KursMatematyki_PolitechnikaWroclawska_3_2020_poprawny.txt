@@ -1,0 +1,12 @@
+;PP;1;-1;Punkty \(K\) i \(L\) są środkami boków \(AB\) i \(CD\) czworokąta \(ABCD\). Wykaż, że \(\vec{KL}=\frac{1}{2}(\vec{AD}+\vec{BC})\). Wykonaj rysunek.
+;PP;2;-1;W pewnym ciągu geometrycznym każdy (z wyjątkiem pierwszego) wyraz jest różnicą wyrazu następnego i poprzedniego. Znajdź iloraz tego ciągu.
+;PP;3;-1;Rozwiąż nierówność \([\log_{0,2}(x-1)]^{2}>4\).
+;PP;4;-1;Rozwiąż równanie \(\sin^{2}x+\frac{1}{2}\sin2x=1\).
+;PP;5;-1;Statek płynie prosto w kierunku klifu. Kąt elewacji (kąt utworzony przez linię Poziomą i odcinek łączący obserwatora na statku ze szczytem klifu) wynosi początkowo \(\alpha\), ale po przepłynięciu przez statek \(d\) metrów wzrasta do \(\beta\). Wyznacz wysokość klifu. Wykonaj obliczenia dla wartości \(\alpha=10^{\mathrm{o}}\), \(\beta=15^{\mathrm{o}}\), \(d=50\).
+;PP;6;-1;Obliczyć pole części wspólnej trzech kół o promieniach \(r\) w środkach ą wierzchołkach trójkąta równobocznego o boku \(r\sqrt{2}\).
+;PR;1;-1;Znajdź taki ciąg arytmetyczny, w którym suma pierwszych \(n\) wyrazów równa jest \(n^{2}\) dla wszystkich \(n\in \mathbb{N}\).
+;PR;2;-1;W sześciokącie foremnym \(ABCDEF\) punkty \(M\) i \(N\) są środkami boków \(CD\) i \(DE\). Wyznacz kat między wektorami \(\vec{AM}\) i \(\vec{BN}\).
+;PR;3;-1;Rozwiąż nierówność \(\log_{2x}(x^{2}-5x+6)<1\).
+;PR;4;-1;Rozwiąż równanie \(\cos2x-3\cos{x}=4\cos^{2}\frac{x}{2}\).
+;PR;5;-1;Znajdź najmniejszą wartość ilorazu pola powierzchni bocznej stożka i pola powierzchni kuli wpisanej w ten stożek oraz kąt rozwarcia stożka realizujący tę wartość najmniejszą.
+;PR;6;-1;Na dachu budynku stoi antena, której wysokość chcemy wyznaczyć nie wchodząc na górę. Urządzenie pomiarowe ustawione w pewnej odległości od budynku zmierzyło kąty między pionem a odcinkiem łączącym punkt pomiaru ze szczytem anteny oraz między pionem a odcinkiem łączącym punkt pomiaru z podstawą anteny. Otrzymano kąty \(a_{1}\) i \(b_{1}\) odpowiednio. Następnie przesunięto urządzenie o \(d\) metrów w kierunku budynku bez zmiany wysokości punktu pomiarowego i ponowiono pomiary, otrzymując kąty \(a_{2}\) i \(b_{2}\). Podaj wzór na wysokość anteny i wykonaj obliczenia dla kątów \(a_{1}=53^{\mathrm{o}}\), \(\beta_{1}=55^{\mathrm{o}}\), \(a_{2}=51^{\mathrm{o}}\), \(\beta_{2}=53.04^{\mathrm{o}}\), oraz \(d=5m\).

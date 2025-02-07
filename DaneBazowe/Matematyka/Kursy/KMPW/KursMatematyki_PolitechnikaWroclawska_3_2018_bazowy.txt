@@ -1,0 +1,12 @@
+Narysować wykres funkcji $f(x)=2\cos x-|\cos x|\mathrm{i}$ rozwiazać nierówność $f(x)<-\displaystyle \frac{3}{2}.$ 
+Znalez/ć punkt nalezący do paraboli $y^{2}=4x$, którego odleglość od punktu $A(3,0)$ jest najmniejsza. 
+Dany jest punkt $A(2,1)$ oraz dwie proste: $p$: $x+y+2=0, q$: $x2y-4=0.$ Znalez/ć taki punkt $B$ na prostej $q, \dot{\mathrm{z}}\mathrm{e}\mathrm{b}\mathrm{y}$ środek odcinka AB $\mathrm{l}\mathrm{e}\dot{\mathrm{z}}$ af $\mathrm{n}\mathrm{a}$ prostej $p$. Sporządzić rysunek. 
+Logarytmy liczb l, $3^{x}-2, 3^{x}+4$ tworzą ciąg arytmetyczny ($\mathrm{w}$ podanej kolejności). Obliczyć $x.$ 
+Kolejne środki boków czworokąta wypuklego ABCD polączono odcinkami otrzymując czworokqt EFGH. Jaka figurą jest czworokąt EFGH? Odpowied $\acute{\mathrm{z}}$ uzasadnić. Obliczyć pole czworokąta ABCD, wiedząc, że pole czworokąta EFGH jest równe 5. 
+Rozwiązać nierówność $f(x)\displaystyle \leq\frac{4}{f(x)},$ gdzie $f(x)=-\displaystyle \frac{4}{3}x^{2}+2x+\frac{4}{3}.$ 
+Narysować wykres funkcji $f(x)=2\displaystyle \cos^{2}x-\sin(2x-\frac{\pi}{2})\mathrm{i}$ rozwiazać nierówność $|f(x)|<2.$ 
+Znalez/ć punkt nalezący do paraboli $y^{2}=2x$, którego odlegfość od prostej $x2y+6=0$ jest najmniejsza. 
+Wielomian $w(x)=x^{4}+\alpha x^{3}+bx^{2}+cx+d$ jest podzielny przez trójmian $x^{2}-x2, \mathrm{a}$ jego wykres jest symetryczny względem osi $0y$. Wyznaczyć wartości parametrów $a, b, c, d$ i rozwiqzać nierówność $w(x+1)\leq w(x2).$ 
+Rozwiązać nierówność $\log x+\log^{3}x+\log^{5}x+\leq 2\sqrt{5}.$ 
+Punkt $S$ jest środkiem boku AB $\mathrm{w}$ trójkącie $ABC$. Ponadto $AC\neq BC$ oraz $\angle BAC+$ $\angle SCB=90^{\mathrm{o}}$ Niech $D$ bedzie punktem przeciecia symetralnej AB $\mathrm{z}$ prostą $AC$. Udowodnić, że na czworokącie SBDC można na opisać okrąg. Dlaczego musimy zalozyć, że $AC\neq BC$? 
+Wyznaczyć równanie zbioru wszystkich środków tych cięciw paraboli $y = x^{2}$, które przechodzą przez punkt $A(0,2).$ 

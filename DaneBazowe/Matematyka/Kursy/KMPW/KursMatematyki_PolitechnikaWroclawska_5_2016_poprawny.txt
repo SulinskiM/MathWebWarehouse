@@ -1,0 +1,12 @@
+;PP;1;-1;Udowodnić, że różnica kwadratów dwu dowolnych liczb całkowitych niepodzielnych przez 3 jest podzielna przez 3.
+;PP;2;-1;Rozwiązać równanie w przedziale \([0,2\pi]\). \(\sin^{2}{(\frac{\pi+x}{2})}-\sin{(\frac{\pi-x}{2})}=1\).
+;PP;3;-1;Dla jakiego parametru \(m\) równanie \((\log_{2}^{2}m-1)\cdot x^{2}+2(\log_{2}m-1)x+2=0\) ma tylko jedno rozwiązanie?
+;PP;4;-1;Jedna z krawędzi bocznych ostrosłupa, którego podstawą jest kwadrat o boku \(a\), jest prostopadła do podstawy. Najdłuższa krawędź boczna jest nachylona do podstawy pod kątem \(60^{\mathrm{o}}\). Obliczyć pole powierzchni całkowitej oraz sumę długości krawędzi ostrosłupa. Sporządzić rysunek.
+;PP;5;-1;Jaką krzywą tworzą punkty płaszczyzny, z których odcinek o końcach \(A(1,0)\) i \(B(0,1)\) jest widoczny pod kątem \(30^{\mathrm{o}}\).
+;PP;6;-1;Narysować wykres funkcji \(f(x)=\frac{|x+1|-1}{|x-1|}\) i na jego podstawie wyznaczyć przedziały jej monotoniczności oraz najmniejszą wartość w przedziale \([-2,\frac{1}{2}]\).
+;PR;1;-1;Udowodnić tożsamość \(x^{3}+y^{3}+z^{3}-3xyz=(x+y+z)(x^{2}+y^{2}+z^{2}-xy-xz-yz)\) i wykorzystując ją, usunąć niewymierność z mianownika ułamka \(\frac{1}{1+\sqrt[3]{2}+\sqrt[3]{4}}\).
+;PR;2;-1;Jaką krzywą tworzą środki wszystkich okręgów stycznych równocześnie do osi \(Ox\) i do okręgu \(x^{2}+(y-1)^{2}=1\)?
+;PR;3;-1;Wyznaczyć wszystkie styczne do wykresu funkcji \(f(x)=\frac{x-3}{x-2}\) prostopadłe do prostej \(4x+y+1=0\). Sporządzić staranne wykresy wszystkich rozważanych krzywych.
+;PR;4;-1;Narysować wykres funkcji \(f(x)=1-\frac{2^{x}}{1-2^{x}}+(\frac{2^{x}}{1-2^{x}})^{2}-(\frac{2^{x}}{1-2^{x}})^{3}+(\frac{2^{x}}{1-2^{x}})^{4}-\ldots\) bdcej sumą nieskończonego szeregu geometrycznego. Rozwiązać nierówność \(f(x)>4^{x}-21\cdot 2^{x-2}+2\).
+;PR;5;-1;Dla jakiego parametru \(m\) równanie \((log_{4}m+1)\cdot x^{2}+3\log_{4}m\cdot x+2\log_{4}m-1=0\) ma dwa pierwiastki \(x_{1}\), \(x_{2}\) spełniające warunki: \(x_{1}< x_{2}\), oraz \(2(x_{2}^{2}-x_{1}^{2})>x_{2}^{4}-x_{1}^{4}\)?
+;PR;6;-1;W ostrosłupie prawidłowym trójkątnym tangens kąta nachylenia ściany bocznej do podstawy jest równy \(2\sqrt{3}\). Obliczyć stosunek objętości kuli wpisanej do objętości kuli opisanej na ostrosłupie.

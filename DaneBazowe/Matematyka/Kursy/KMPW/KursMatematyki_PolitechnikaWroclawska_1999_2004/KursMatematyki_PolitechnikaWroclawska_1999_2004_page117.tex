@@ -1,0 +1,72 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{latexsym}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\pagestyle{plain}
+\usepackage{fancybox}
+\usepackage{bm}
+
+\begin{document}
+
+137
+
+Rozwiazanie zadania 2.1
+
+I sposób. Rozwazmy wielomian $p_{n}(y) =y^{2n-1}+1$. Poniewaz $2n-1$
+
+jest liczba nieparzysta dla $\mathrm{k}\mathrm{a}\dot{\mathrm{z}}$ dego $n\in N$, wiec $p(-1)=(-1)^{2n-1}+1=0.$
+
+$\mathrm{Z}$ twierdzenia Bézouta wynika wiec, $\dot{\mathrm{z}}\mathrm{e}p_{n}(y)$ jest podzielny przez dwumian
+
+$y+1, \mathrm{t}\mathrm{z}\mathrm{n}$. istnieje wielomian $q_{n}(y)$ stopnia $2n-2$ taki, $\dot{\mathrm{z}}\mathrm{e}$
+
+$p_{n}(y)=y^{2n-1}+1=(y+1)q_{n}(y).$
+
+(1)
+
+Zauwazmy, $\dot{\mathrm{z}}\mathrm{e} w_{n}(x) = x^{4n-2}+1 =p_{n}(x^{2})$. Stad $\mathrm{i} \mathrm{z}$ (l) wynika, $\dot{\mathrm{z}}\mathrm{e}$
+
+$w_{n}(x)=(x^{2}+1)q_{n}(x^{2})$. Poniewaz $q_{n}(x^{2})$ jest wielomianem stopnia $4n-4,$
+
+wiec równośč ta dowodzi prawdziwości tezy.
+
+Uwaga. Stosujac wzór skróconego mnozenia
+
+$\alpha^{2n-1}+b^{2n-1}=(\alpha+b)(\alpha^{2n-2}-\alpha^{2n-3}b+-\alpha b^{2n-3}+b^{2n-2})$
+
+$\mathrm{m}\mathrm{o}\dot{\mathrm{z}}$ na wielomian $q_{n}(y)$ napisač $\mathrm{w}$ postacijawnej. Niejest tojednak koniecz-
+
+ne dla poprawności dowodu.
+
+II sposób. Dowód indukcyjny. Rozwazmy funkcje zdaniowa zmien-
+
+nej naturalnej $n$
+
+$T(n)$ : $w_{n}(x)=x^{4n-2}+1$ jest podzielny przez $x^{2}+1.$
+
+Sprawdzimy teraz, $\dot{\mathrm{z}}\mathrm{e}$ dla $T(n)$ obydwa zalozenia zasady indukcji mate-
+
+matycznej sa spelnione.
+
+$1^{\mathrm{O}}$ Sprawdzenie prawdziwości zdania $T(1).$
+
+Mamy $w_{1}(x)=x^{4\cdot 1-2}+1=x^{2}+1$, czyli oczywiście dzieli $\mathrm{s}\mathrm{i}\mathrm{e}$ przez $x^{2}+1,$
+
+a wiec $T(1)$ jest prawdziwe.
+
+$2^{\circ}$ Wykazemy, $\dot{\mathrm{z}}\mathrm{e}$ implikacja $(T(n)\Rightarrow T(n+1))$ jest prawdziwa dla
+
+$\mathrm{k}\mathrm{a}\dot{\mathrm{z}}$ dego $n\in N.$
+
+Dowód. Niech $n$ bedzie dowolna ustalona liczba naturalna. Zalózmy,
+
+$\dot{\mathrm{z}}\mathrm{e}$ zdanie $T(n)$ jest prawdziwe $\mathrm{t}\mathrm{z}\mathrm{n}$. istnieje wielomian $v_{n}(x)$ taki, $\dot{\mathrm{z}}\mathrm{e}$
+
+$w_{n}(x) =x^{4n-2}+1 = (x^{2}+1)v_{n}(x)$. Wówczas korzystajac $\mathrm{z}$ tej równości
+
+mamy
+
+$w_{n+1}(x)=x^{4(n+1)-2}+1=x^{4n+2}+1=(x^{4n+2}+x^{4})-(x^{4}-1)$
+\end{document}

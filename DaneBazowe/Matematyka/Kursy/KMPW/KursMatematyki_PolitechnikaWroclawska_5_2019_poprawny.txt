@@ -1,0 +1,12 @@
+;PP;1;-1;Znaleźć stuelementowy ciąg arytmetyczny, w którym suma wyrazów o numerach nieparzystych jest dwa razy większa od sumy wyrazów 0 numerach parzystych i o 50 mniejsza od sumy wszystkich wyrazów.
+;PP;2;-1;Rozwiązać układ równań \(?\).
+;PP;3;-1;Narysować wykres funkcji \(f(x)=x|x|-4|x|+3\) i określić liczbę rozwiązań równania \(f(x)=m\) w zależności od parametru \(m\).
+;PP;4;-1;W romb \(ABCD\) o kącie ostrym \(\alpha\) wpisano czworokąt, którego boki są równoległe do przekątnych rombu. Jakie jest możliwie największe pole takiego czworokąta?
+;PP;5;-1;Znaleźć równania wspólnych stycznych do wykresów funkcji \(f(x)=-x^{2}+2x\) i \(g(x)=x^{2}+1\).
+;PP;6;-1;W stożek o promieniu podstawy \(R\) wpisano stożek o osiem razy mniejszej objętości. Wysokość małego stożka jest zawarta w wysokości dużego stożka, jego wierzchołek jest w środku podstawy, a okrąg ograniczający podstawę małego stożka jest zawarty w powierzchni bocznej dużego stożka. Obliczyć \(\frac{r}{R}\), gdzie \(r\) oznacza promień podstawy stożka wpisanego.
+;PR;1;-1;Rozwiązać układ równań \(?\).
+;PR;2;-1;Wyznaczyć równania wszystkich stycznych do wykresu funkcji \(f(x)=\frac{2x-1}{x+1}\), które są prostopadłe do prostej \(x+3y+1=0\).
+;PR;3;-1;Granicą ciągu o wyrazie ogólnym \(a_{n}=n^{2}-\sqrt{n^{4}-an^{2}+bn}\) jest większy z pierwiastków równania \(x^{\log_{2}x}-3=4x^{\log_{\frac{1}{2}}x}\). Wyznaczyć parametry \(a\) i \(b\).
+;PR;4;-1;Na boku \(BC\) trójkąta równobocznego obrano punkt \(D\) tak, że promień okręgu wpisanego w trójkąt \(ADC\) jest dwa razy mniejszy niż promień okręgu wpisanego w trójkąt \(ABD\). W jakim stosunku punkt \(D\) dzieli bok \(BC\)?
+;PR;5;-1;Rozwiązać nierówność \(1+\frac{\sin{x}}{\sqrt{3}+\sin{x}}+(\frac{\sin{x}}{\sqrt{3}+\sin{x}})^{2}+(\frac{\sin{x}}{\sqrt{3}+\sin{x}})^{3}+\cdots\leq \cos{x}\), której lewa strona jest sumą wszystkich wyrazów nieskończonego ciągu geometrycznego.
+;PR;6;-1;Jakie wymiary ma walec o możliwie największej objętości wpisany w sześcian o boku \(a\) w taki sposób, że jego oś jest zawarta w przekątnej sześcianu, a każda z podstaw jest styczna do trzech ścian wychodzących z jednego wierzchołka.

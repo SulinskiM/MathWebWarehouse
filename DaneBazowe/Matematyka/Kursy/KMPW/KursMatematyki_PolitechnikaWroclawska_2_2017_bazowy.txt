@@ -1,0 +1,12 @@
+Rozwiązać nierówność $2x2>\sqrt{74x}.$ 
+Dla jakich wartości parametru $m$ pierwiastkiem wielomianu $w(x)=2x^{3}-x^{2}-(m^{2}-2)x+m1$ jest $x=2$? Dla znalezionych wartości $m$ wyznaczyć pozostafe pierwiastki $w(x).$ 
+Narysować staranny wykres funkcji $f(x)=|\displaystyle \sin x|\cos x-\frac{1}{4}\mathrm{i}$ rozwiązać nierówność $f(x)\displaystyle \leq-\frac{1}{2}.$ 
+Rozwiązać równanie $4^{x+\sqrt{x^{2}-2}}-5\cdot 2^{x1+\sqrt{x^{2}-2}}=6.$ 
+W trójkącie równoramiennym $ABC0$ podstawie $AB$ dane $\mathrm{s}\Phi A(2,-1)$ oraz $B(-1,3).$ Środkowe poprowadzone $\mathrm{z}A\mathrm{i}\mathrm{z}B$ są prostopadłe. $\mathrm{Z}\mathrm{n}\mathrm{a}\mathrm{l}\mathrm{e}\mathrm{z}^{J}\text{ć}$ współrzędne punktu $C$ oraz obliczyć pole i obwód tego trójkqta. 
+W okrąg $0$ promieniu $R$ wpisano trzy jednakowe okręgi wzajemnie styczne $\mathrm{w}$ punktach $A, B, C\mathrm{i}$ styczne do danego okręgu. Obliczyć pole obszaru ograniczonego mniejszymi fukami AB, $BC\mathrm{i}CA.$ 
+Rozwiązać nierówność $\sqrt{2x^{2}-x}<54x.$ 
+Rozwiazać układ równań \begin{array}{l} xy\\ x^{\log y} \end{array} 400, 16. 
+Narysować staranny wykres funkcji $f(x)=|\sin x|-\cos x$, wyznaczyć jej zbior wartości oraz rozwiązać nierówność $\displaystyle \frac{1}{f(x)}\geq 1.$ 
+Reszta $\mathrm{z}$ dzielenia wielomianu $w(x)=x^{4}+ax^{3}-bx^{2}+bx$ przez trójmian $x^{2}-9$ wynosi $-5x+45$. Wyznaczyć wartości parametrów $a\mathrm{i}b$ oraz rozwiązać nierówność $w(x1)\geq w(x+1).$ 
+Dany jest punkt $A(2,1)$. Wyznaczyć i narysować zbiór tych wszystkich punktów $C$, dla których czworokąt ABCD jest prostokqtem takim, że punkty $B\mathrm{i}D\mathrm{l}\mathrm{e}\dot{\mathrm{z}}$ ą na osiach układu wspófrzędnych i nie $\mathrm{n}\mathrm{a}\mathrm{l}\mathrm{e}\mathrm{z}\Phi$ do tego samego boku $\mathrm{p}\mathrm{r}\mathrm{o}\mathrm{s}\mathrm{t}\mathrm{o}\mathrm{k}_{\Phi^{\mathrm{t}}}\mathrm{a}$. Wykonać rysunek. 
+Nad sześcianem $0$ krawędzi $a$ stojącym na pfaszczy $\acute{\mathrm{z}}\mathrm{n}\mathrm{i}\mathrm{e}$ umieszczono punktowe z/ródfo światła na wysokości $b>a$ (rzut prostopadły punktu, $\mathrm{w}$ którym jest z/ródło światła na tę pfaszczyznę, zawiera się $\mathrm{w}$ podstawie sześcianu). Obliczyć pole obszaru jaki zajmuje cień sześcianu lącznie $\mathrm{z}$ jego podstawą na tej płaszczyz/nie. 

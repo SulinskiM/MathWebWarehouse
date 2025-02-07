@@ -1,0 +1,12 @@
+;PP;1;-1;Prawdopodobieństwo, że w dowolnie wybranym przedziale pociągu relacji Warszawa - Wrocław podróżny znajdzie co najmniej jedno wolne miejsce wynosi \(\frac{1}{2}\). Podróżny szuka pierwszego wolnego miejsca, zaglądając do każdego kolejnego przedziału. Oblicz prawdopodobieństwo zdarzenia, że liczba odwiedzonych przez niego przedziałów nie przekroczy 4.
+;PP;2;-1;Rozwiąż nierówność wykładniczą \(2^{x^{3}}\cdot 9^{2x-1}<3^{x^{3}-2}\cdot 4^{2x}\).
+;PP;3;-1;W trójkącie równoramiennym \(\triangle ABC\) o ramionach \(AC\) i \(BC\) kąt przy podstawie \(AB\) ma miarę \(\alpha\). Na boku \(AC\) umieszczono punkt \(D\) w taki sposób, że trójkąty \(\triangle ABC\) i \(\triangle ABD\) są podobne. Wyznacz skalę podobieństwa tych trójkątów oraz warunki rozwiązalności zadania. Oblicz stosunek pól tych trójkątów oraz stosunek objętości stożków powstałych przez obrót tych trójkątów wokół ich osi symetrii.
+;PP;4;-1;Wyznacz wszystkie możliwe wartości kąta ostrego \(\alpha\) jeżeli wiadomo, że \(tg2\alpha+ctg2\alpha=-\frac{4\sqrt{3}}{3}\).
+;PP;5;-1;Niech \(x\in [0,2\pi]\). Rozwiąż nierówność \(\sin^{5}x+\cos^{5}x\geq\sin^{4}x\cdot \cosx+\cos^{4}x\cdot \sinx\).
+;PP;6;-1;Wyznacz wszystkie argumenty x, dla których funkcja \(f(x)=\log_{2}(x+2)-2\log_{4}\sqrt{x^{3}+8}\) przyjmuje wartości niedodatnie.
+;PR;1;-1;Rzucamy cztery razy jednorodną kostką do gry. Oblicz prawdopodobieństwo, że suma wyrzuconych oczek przekroczy 12, jeśli wiadomo, że suma oczek wyrzuconych w dwóch pierwszych rzutach wynosi 8.
+;PR;2;-1;Rozwiąż równanie trygonometryczne \(\frac{\sin{2x}\cdot\sin{x}-\cos{2x}\cdot\cos{x}}{\cos{2x}\cdot\sin{x}-\sin{2x}\cdot\cos{x}}=1\).
+;PR;3;-1;Rozwiąż równanie \(5^{tg^{2}x-1}+5^{3-tg^{2}x}=26\).
+;PR;4;-1;Rozwiąż nierówność logarytmiczną \(1+\log_{x-1}x<\log_{x-1}(x+6)\).
+;PR;5;-1;Wyznacz dziedzinę i miejsca zerowe funkcji \(f(x)=\log_{\sin(-x)}(4\sinx\cdot \cosx-1)\).
+;PR;6;-1;W trójkącie równoramiennym \(\triangle ABC\), którego podstawa \(AB\) ma długość 4, miara kąta pomiędzy ramionami \(AC\) i \(BC\) wynosi \(30^{\mathrm{o}}\). Oblicz objętość bryły powstałej przez obrót tego trójkąta względem jednego z jego ramion.

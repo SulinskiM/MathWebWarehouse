@@ -1,0 +1,12 @@
+;PP;1;-1;Niech \(\alpha\) będzie kątem ostrym takim, że \(\sin\alpha=\sqrt{15}\cos\alpha\). Wyznaczyć wszystkie wartości funkcji trygonometrycznych kątów \(\alpha\) oraz \(2\alpha\).
+;PP;2;-1;Rozwiązać nierówność \(x\geq2+\sqrt{10-3x}\).
+;PP;3;-1;Wykres trójmianu kwadratowego \(f(x)=ax^{2}+bx+c\) jest symetryczny względem prostej \(x=3\), a resztą z jego dzielenia przez wielomian \(x-2\) jest -1. Wiadomo też, że \(f(0)=3\). Znaleźć wartości współczynników \(a\), \(b\), \(c\) i rozwiązać nierówność \(\frac{1}{f(x)}\geq\frac{1}{3}\).
+;PP;4;-1;W ciągu arytmetycznym, w którym trzeci wyraz jest odwrotnością pierwszego, suma pierwszych ośmiu wyrazów wynosi 25. Obliczyć sumę pierwszych 10 wyrazów o numerach nieparzystych.
+;PP;5;-1;Pole trapezu równoramiennego, opisanego na okręgu o promieniu 1, wynosi 5. Obliczyć pole czworokąta, którego wierzchołkami są punkty styczności okręgu i trapezu.
+;PP;6;-1;Na szczycie góry, na którą wchodzi Agata po stoku o kacie nachylenia \(\beta\), stoi krowa o wysokości 150 cm. Dziewczynka widzi ją pod kątem \(\alpha\), przy czym przyjmujemy tutaj dla uproszczenia, że punkt obserwacji znajduje się na poziomie drogi. Na jakiej wysokości nad poziomem morza stoi Agata, jeżeli szczyt jest na wysokości 1520 m n.p.m? Podać wzór i następnie wykonać obliczenia dla \(\beta=43^{\mathrm{o}}\), \(\alpha=2^{\mathrm{o}}\).
+;PR;-1;-1;W punktach \(A(0,0)\), \(B(4,0)\) i \(C(0,4)\) ustawione są trzy znaczniki. Sensory robota pozwalają ustalić, że z miejsca, w którym znajduje się on obecnie odcinek AB widać pod kątem \(\alpha=90^{\mathrm{o}}\), a odcinek AC pod kątem \(\beta=60^{\mathrm{o}}\). Ustalić położenie robota w układzie współrzędnych.
+;PR;1;-1;W nieskończonym ciągu geometrycznym, którego suma równa jest 4, trzeci wyraz jest odwrotnością pierwszego. Wyznaczyć pierwszy wyraz i sumę wszystkich wyrazów 0 numerach parzystych.
+;PR;2;-1;Narysować wykres funkcji \(f(x)=\frac{\sin{x}}{\sqrt{1+tg^{2}x}}\) i rozwiązać nierówność \(f(x)\geq\frac{1}{4}\).
+;PR;3;-1;Rozwiązać nierówność \(\sqrt{\frac{4x-2}{x+4}}\leq \frac{2}{x-1}-1\).
+;PR;4;-1;Reszta z dzielenia wielomianu \(w(x)=ax^{5}+bx^{2}+c\) przez \(p(x)=x^{3}-x^{2}-2x\) jest wielomian \(r(x)=11x^{2}+12x+1\). Wyznaczyć wartości współczynników \(a\), \(b\), \(c\) oraz rozwiązać nierówność \(w(x)\geq(x+1)^{2}\).
+;PR;5;-1;Wyznaczyć pole trójkąta równobocznego, którego wierzchołki leżą na trzech różnych prostych równoległych, z których środkowa jest oddalona od skrajnych o \(a\) i \(b\).

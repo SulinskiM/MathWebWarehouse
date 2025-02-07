@@ -1,0 +1,12 @@
+Rozwiązać nierówność $x1>\sqrt{x^{2}-3}.$ 
+Rozwiązać równanie $\displaystyle \frac{1}{\sin 2x}+\frac{1}{\sin x}=0.$ 
+Narysować zbiór $\{(x,y):-1\leq\log_{\frac{1}{2}}|x|+\log_{2}|y|\leq 1,|x|+|y|\leq 3\}\mathrm{i}$ obliczyć jego pole. 
+Na prostej $l$ : $2xy-1=0$ wyznaczyć punkty, $\mathrm{z}$ których odcinek $0$ końcach $A(0,1)$ oraz $B(0,3)$ jest widoczny pod kątem $45^{\mathrm{o}}$ 
+W obszar ograniczony wykresem funkcji kwadratowej i osią $Ox$ wpisano prostokąt $0$ polu 24, którego jeden $\mathrm{z}$ boków zawarty jest $\mathrm{w}$ osi $Ox$, a dwa wierzchofki lezą na paraboli. Odległość między miejscami zerowymi funkcji wynosi 10. Wyznaczyć wzór tej funkcji, wiedzac, że wierzchofek paraboli $\mathrm{l}\mathrm{e}\dot{\mathrm{z}}\mathrm{y}$ na osi $Oy$ ijeden $\mathrm{z}$ boków prostokąta ma dfugość 6. Rozwiązanie zilustrować odpowiednim rysunkiem. 
+W ostrosłupie, którego podstawą jest romb $0$ boku $\alpha$, jedna $\mathrm{z}$ krawędzi bocznych równiez ma dfugość $a\mathrm{i}$ jest prostopadfa do podstawy. Wszystkie pozostałe krawędzie boczne są równe. Obliczyć objętość, pole powierzchni całkowitej ostrosłupa oraz sinus kąta nachylenia do podstawy jego pochyłych ścian bocznych. 
+Wyznaczyć dziedzinę funkcji $f(x)=\log_{2}(\sqrt{x1-\sqrt{x^{2}-3x4}}-1).$ 
+Rozwiązać równanie $\sin^{4}x+\cos^{4}x=\sin x\cos x.$ 
+Narysować zbiór $\{(x,y):|x|+|y|\leq 6,|y|\leq 2^{|x|},|y|\geq\log_{2}|x|\}\mathrm{i}$ napisać równaniajego osi symetrii. Podać odpowiednie uzasadnienie. 
+Niech $f(x) = \displaystyle \frac{2x1}{x2}, g(x) = (\sqrt{2})^{\log_{2}(2x1)^{2}+4\log_{\frac{1}{2}}\sqrt{2x}}$ Narysować wykres funkcji $h(x) = \displaystyle \max\{f(x),g(x)\}$. Czy można na podać wzór funkcji $h(x)$, wykorzystujac jedynie $f(x)$ ? 
+Punkt $A(1,1)$ jest wierzchołkiem rombu $0$ polu 10. Przekątna $AC$ rombu jest równoległa do wektora $\vec{v}=[1$, 2$]$. Wyznaczyć współrzędne pozostałych wierzchołków rombu, $\mathrm{w}\mathrm{i}\mathrm{e}\mathrm{d}_{\mathrm{Z}\otimes}\mathrm{c}, \dot{\mathrm{z}}\mathrm{e}$ jeden $\mathrm{z}$ nich $\mathrm{l}\mathrm{e}\dot{\mathrm{z}}\mathrm{y}$ na prostej $y=x2.$ 
+W ostrosłupie, którego podstawq jest romb $0$ boku $\alpha$, jedna $\mathrm{z}$ krawędzi bocznych równiez ma dlugość $a\mathrm{i}$ jest prostopadła do podstawy. Wszystkie pozostafe krawędzie boczne są równe. Wyznaczyć cosinusy kątów płaskich przy wierzchofku każdej ściany bocznej ostrosłupa oraz cosinusy katów między jego ścianami bocznymi 

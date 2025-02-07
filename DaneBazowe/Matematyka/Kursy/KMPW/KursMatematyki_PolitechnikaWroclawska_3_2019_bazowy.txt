@@ -1,0 +1,12 @@
+Znalez$\acute{}$ć największą wartość funkcji $f(x)=\displaystyle \frac{2}{\sqrt{4x^{2}-12x+11}}$ i rozwiqzać nierówność $f(x)\geq 1.$ 
+Rozwiązać równanie $(1+\cos 4x)\sin 2x=\cos^{2}2x.$ 
+Rozwiązać równanie $\log_{\sqrt{5}}(4^{x}-6)-\log_{\sqrt{5}}(2^{x}-2)=2.$ 
+Stosunek długości przekątnych rombu jest równy 5:l2. Obliczyć stosunek pola rombu do do pola koła wpisanego $\mathrm{w}$ ten romb. 
+Dane są punkty $A(1,1)\mathrm{i}B(7,4)$. Na paraboli $y=x^{2}+x+3$ znalez/ć taki punkt $C, \dot{\mathrm{z}}$ eby pole trójkąta $ABC$ było najmniejsze. Wykonać rysunek. 
+Ramiona trójk$\Phi$ta równoramiennego zawarte $\mathrm{s}\Phi^{\mathrm{W}}$ prostych $0$ równaniach $8xy+17=0$ oraz $4x+7y59 = 0$, a jego podstawa przechodzi przez punkt $P(0,2)$. Wyznaczyć równanie prostej zawierajacej podstawę i obliczyć pole tego trójkqta. 
+Dla jakich wartości parametru $m$ równanie $x^{2}-2(m4)x+m^{2}+5m+6=0$ ma dwa rózne pierwiastki rzeczywiste, których suma odwrotności jest dodatnia? 
+Rozwiązać równanie $\displaystyle \frac{1}{\sin^{2}2x}+\mathrm{t}\mathrm{g}x-$ ctg $x=2.$ 
+Rozwiązać układ równań \begin{array}{l} - 2\mathrm{l}\mathrm{o}\mathrm{l}\mathrm{o}\mathrm{g}\mathrm{g}2(- x- \mathrm{l}\mathrm{o}y\mathrm{g})(- x+1y)\\ - \mathrm{l}\mathrm{l}\mathrm{o}\mathrm{o}\mathrm{g}\mathrm{g}xy-- \mathrm{l}\mathrm{l}\mathrm{o}\mathrm{o}\mathrm{g}\mathrm{g}73 \end{array} $=1$ $=-1.$ 
+Dany jest trójkąt $ABC, \mathrm{w}$ którym $\displaystyle \angle ACB=\frac{2\pi}{3}$. Dwusieczna kąta $ACB$ przecina prostą przechodzqca przez punkt $A\mathrm{i}$ równoległq do boku $BC\mathrm{w}$ punkcie $P$, a prostq przechodzącą przez punkt $B\mathrm{i}$ równolegl$\Phi$ do boku $AC\mathrm{w}$ punkcie $Q$. Udowodnić, $\dot{\mathrm{z}}\mathrm{e}AQ=BP.$ 
+Wyznaczyć stosunek promienia okręgu wpisanego $\mathrm{w}$ {\it romb ABCD} $0$ kącie ostrym $\alpha=$ $\angle DAB$ do promienia okregu opisanego na trójkącie $ABD$. Sprawdzić dlajakiego kata $\alpha$ stosunek ten jest najwięszy. 
+Wyznaczyć równanie zbioru wszystkich środków tych cięciw paraboli $y = x^{2}$, które zaczynają się $\mathrm{w}$ punkcie $A(1,1)$. Rozwiązanie zilustrować rysunkiem. 

@@ -1,0 +1,12 @@
+Rozwiąz nierówność $x^{5}+x^{4}-8x^{2}+16\geq 8x^{3}-16x.$ 
+W przedziale $[\pi,2\pi]$ rozwiqz równaniecs oins 36{\it xx} $=$ 1. 
+Dane $\mathrm{s}\Phi$ trzy wektory ã$= (1,$ 1$), \vec{b}= (2,-1), \vec{c}= (5,2)$. Dobierz takie liczby $p, q$, aby $\mathrm{z}$ wektorów $p\vec{a}, q\vec{b}, \vec{c}\mathrm{m}\mathrm{o}\dot{\mathrm{z}}$ na było zbudować trójkqt. 
+W przedziale $[0,\pi]$ narysuj wykres funkcji $f(x)=\displaystyle \frac{1}{|\mathrm{t}\mathrm{g}x+\mathrm{c}\mathrm{t}\mathrm{g}x|}+\sin 2x,$ i rozwiąz nierówność $f(x)<\displaystyle \frac{3}{4}.$ 
+Na okręgu $x^{2}-2x+y^{2}+4y4 = 0$ wyznacz punkt, którego odleglość od prostej $x3y+6=0$ jest najmniejsza. 
+$\mathrm{P}\mathrm{r}\mathrm{z}\mathrm{e}\mathrm{k}_{\Phi}\mathrm{t}\mathrm{n}\mathrm{a}$ rombu $0$ polu 9 zawarta jest $\mathrm{w}$ prostej $x2y+3 = 0$, a jednym $\mathrm{z}$ jego wierzchofków jest punkt $A(2,-2)$. Wyznacz współrzędne pozostafych wierzchołków tego rombu. 
+Resztą $\mathrm{z}$ dzielenia wielomianu $w(x) =x^{4}+px^{3}-3x^{2}+qx14$ przez $x^{2}-x2$ jest $4x28$. Wyznacz współczynniki $p, q\mathrm{i}$rozwia $\dot{\mathrm{Z}}$ nierówność $w(x)\geq 0.$ 
+Wyznacz $\mathrm{n}\mathrm{a}\mathrm{j}\mathrm{m}\mathrm{n}\mathrm{i}\mathrm{e}\mathrm{j}\mathrm{s}\mathrm{z}\Phi$ wartość funkcji $f(x)=($tg $x+$ ctg $x)^{2}$ oraz $\mathrm{r}\mathrm{o}\mathrm{z}\mathrm{w}\mathrm{i}_{\Phi}\dot{\mathrm{z}}$ nierówność $f(x)\leq f(2x).$ 
+Rozwiąz równanie $\cos x+\cos 2x+2\cos 3x+\cos 4x+\cos 5x=0.$ 
+Znajdź kąt między wektorami $\vec{a}\mathrm{i}\vec{b}\mathrm{w}\mathrm{i}\mathrm{e}\mathrm{d}\mathrm{z}\text{ą} \mathrm{c}, \dot{\mathrm{z}}\mathrm{e}$ wektor $5\text{{\it ã}}-4\vec{b}\mathrm{j}\mathrm{e}\mathrm{s}\mathrm{t}$ prostopadły do wektora $2\vec{\alpha}+4\vec{b}$, a wektor $\text{{\it ã}}-5\vec{b}$ jest prostopadły do wektora $6\vec{\alpha}-2\vec{b}.$ 
+$\mathrm{Z}$ wierzchofka $O$ paraboli $y^{2}=2x$ poprowadzono dwie proste wzajemnie prostopadłe i przecinające parabolę $\mathrm{w}$ punktach $P\mathrm{i}Q$. Wyznacz zbiór punktów pfaszczyzny utworzony przez środki cięzkości trójkątów $OPQ.$ Sporząd $\acute{\mathrm{z}}$ rysunek. 
+W trójk$\Phi$cie $0$ wierzchofkach $A(-6,-7), B(8,-9), C(0,10)$ punkt $P$ jest środkiem boku $BC$, a punkt $S$ jest punktem przecięcia środkowej poprowadzonej $\mathrm{z}$ wierzcholka $A$ oraz wysokości opuszczonej na bok $AB$. Oblicz pole trójk$\Phi$ta $CSP$ oraz znajd $\acute{\mathrm{z}}$ równanie okręgu opisanego na nim. 

@@ -1,0 +1,12 @@
+;PP;1;-1;Trzy liczby naturalne o iloczynie 80 tworzą ciąg arytmetyczny. Jeżeli drugi wyraz tego ciągu zmniejszymy o 1, to liczby te (rozważane w tej samej kolejności) utworzą ciąg geometryczny. Jakie to liczby?
+;PP;2;-1;Liczby dodatnie \(a\), \(b\) spełniają warunek \(a^{2}+b^{2}=7ab\). Wykaż, że \(\log_{3}a+\log_{3}b+2=2\log_{3}(a+b)\).
+;PP;3;-1;Rozwiąż równanie \(tg^{2}x=\frac{1+\cos{x}}{1-\sin{x}}\).
+;PP;4;-1;Narysuj wykres funkcji \(f(x)=?\). Na jego podstawie wyznacz: zbiór wartości funkcji \(f(x)\) oraz liczbę rozwiązań równania \(f(x)=m\) w zależności od parametru \(m\).
+;PP;5;-1;Punkt \(A(0,0)\) jest wierzchołkiem ośmiokąta foremnego wpisanego w okrąg \(x^{2}-2x+y^{2}=0\). Wyznacz współrzędne pozostałych wierzchołków.
+;PP;6;-1;Przekrój ostrosłupa prawidłowego czworokątnego płaszczyzną przechodzącą przez wierzchołek i przekątną jego podstawy jest trójkątem równobocznym. W ostrosłup wpisano sześcian, którego dolna podstawa jest zawarta w podstawie ostrosłupa, a wierzchołki górnej podstawy sześcianu leżą na krawędziach ostrosłupa. Oblicz stosunek objętości sześcianu do objętości ostrosłupa.
+;PR;1;-1;Liczby dodatnie \(a\), \(b\), \(c\) spełniają warunki: \(c>b\), \(a\neq1\), \(c-b\neq1\), \(c+b\neq1\). Wykaż, że równość \(\log_{c+b}a\cdot \log_{c-b}a=\frac{\log_{c+b}a+\log_{c-b}a}{2}\) zachodzi wtedy i tylko wtedy, gdy \(a^{2}+b^{2}=c^{2}\).
+;PR;2;-1;Rozwiąż nierówność \(\sin^{4}x+\cos^{4}x\leq \frac{3}{4}\).
+;PR;3;-1;Oblicz sumę wyrazów nieskończonego ciągu geometrycznego, w którym \(a_{1}=1\), a każdy kolejny wyraz jest połową różnicy wyrazu następnego i poprzedniego..
+;PR;4;-1;Narysuj wykres funkcji \(f(x)=?\). Na podstawie wykresu wyznacz zbiór wartości funkcji \(f(x)\) i sprawdź, w jakich punktach jest ona ciągła. Odpowiedź poprzyj odpowiednim rachunkiem.
+;PR;5;-1;Okręgi o promieniach \(r<R\) są styczne zewnętrznie w punkcie \(M\) i styczne do prostej 1 w punktach \(A\) i \(B\). Wyznacz pole trójkąta \(ABM\) w zależności od \(r\) i \(R\).
+;PR;6;-1;W ostrosłupie prawidłowym trójkątnym krawędź boczna jest nachylona do podstawy pod kątem \(60^{\mathrm{o}}\). Oblicz stosunek objętości kuli wpisanej do objętości kuli opisanej na ostrosłupie.

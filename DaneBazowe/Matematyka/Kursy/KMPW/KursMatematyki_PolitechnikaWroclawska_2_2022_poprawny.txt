@@ -1,0 +1,12 @@
+;PP;1;-1;Rozwiąż nierówność \(1\leq \log_{\frac{1}{3}}\frac{1}{2x-1}<2\).
+;PP;2;-1;Średnia arytmetyczna czwartego, szóstego i dziesiątego wyrazu ciągu arytmetycznego \((a_{n})\), gdzie \(n\geq1\), wynosi 14, a ciąg \((a_{3},a_{5},a_{11})\) jest geometryczny. Uzasadnij, że ciąg \((a_{4},a_{6},a_{10})\) również jest geometryczny.
+;PP;3;-1;W ciągu arytmetycznym \((a_{n})\), określonym dla każdej liczby naturalnej \(n\geq1\), mamy \(a_{3}=0\) oraz \(a_{6}=7\sin^{2}\alpha\), gdzie \(tg\alpha=3\). Oblicz sumę 50 początkowych wyrazów tego ciągu, których indeksy są liczbami parzystymi.
+;PP;4;-1;Bank oferuje kredyt, który należy spłacić jednorazowo wraz z odsetkami po roku. Jaki jest całkowity koszt tego kredytu, jeśli co miesiąc bank nalicza odsetki w wysokości 2% aktualnego zadłużenia, a dodatkowo w chwili przyznania kredytu dolicza prowizję w wysokości 3% pożyczanej kwoty? jaką kwotę trzeba będzie spłacić, jeśli pożyczymy 20000 zł? Prowizja naliczana jest jednorazowo i powiększa kwotę, którą należy spłacić.
+;PP;5;-1;Zaznacz na osi liczbowej zbiór wszystkich wartości parametru \(t\), dla których funkcja \(f(x)=(\frac{2-t^{2}}{t-3})^{t-x}+1-t\) jest malejąca. Naszkicuj wykres funkcji \(f\) dla największej całkowitej wartości \(t\) z wyznaczonego zbioru.
+;PP;6;-1;Niech \(c>0\) i \(c\neq1\). Wyznacz najmniejszą liczbę naturalną \(m\), dla której suma \(m\) początkowych wyrazów ciągu \((a_{n})\), \(a_{n}=\log_{2}c^{n}\), przekracza liczbę \(\log_{2^{m}}c^{m^{2}}+16\log_{4}c^{2}\).
+;PR;1;-1;Uzasadnij, że ciąg \((a_{n})\), którego n-ty wyraz dany jest wzorem \(a_{n}=\frac{1}{2^{1}+3^{1}}+\frac{1}{2^{2}+3^{2}}+\frac{1}{2^{3}+3^{3}}+\cdots+\frac{1}{2^{n}+3^{n}}\), jest ograniczony.
+;PR;2;-1;Wyznacz dziedzinę \(D_{f}\) funkcji \(f(x)=\log_{10+3x-x^{2}}(8-\frac{7}{1-x})\).
+;PR;3;-1;Niech \(c>0\). Zbadaj monotoniczność oraz oblicz sumę wszystkich wyrazów nieskończonego ciągu \((a_{n})\), gdzie \(a_{n}=\log_{3^{3^{n}}}c\) dla każdego \(n\geq1\). Ustal, dla jakiej wartości parametru \(c\) suma ta jest nie mniejsza od liczby \(\log_{9}(c^{2}-2)\).
+;PR;4;-1;Rozwiąż nierówność \(\sqrt{\log_{\sqrt{x}}(x+2)}>\frac{1}{\log_{\sqrt{x+2}}\sqrt{x}}\).
+;PR;5;-1;Określ ilość rozwiązań równania \(|2^{x-1}-1|=m\cdot 2^{x+1}\) w zależności od wartości parametru \(m\).
+;PR;6;-1;Opisz metodę konstrukcji i starannie narysuj wykres funkcji \(f(x)=2+\log_{2}\frac{1}{2x}\). Następnie narysuj obraz tej krzywej w symetrii względem prostej \(x=y\). Wyprowadź wzór funkcji, której wykresem jest powstała w ten sposób krzywa.

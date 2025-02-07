@@ -1,0 +1,12 @@
+;PP;1;-1;Rozwiąż nierówność \(x^{5}+x^{4}-8x^{2}+16\geq8x^{3}-16x\).
+;PP;2;-1;W przedziale \([\pi,2\pi]\) rozwiąż równanie \(\frac{\sin3x}{\cos6x}=1\).
+;PP;3;-1;Dane są trzy wektory ã\(=(1\), 1\()\), \(\vec{b}=(2,-1)\), \(\vec{c}=(5,2)\). Dobierz takie liczby \(p\), q, aby z wektorów \(p\vec{a}\), \(q\vec{b}\), \(\vec{c}\) można było zbudować trójkąt.
+;PP;4;-1;W przedziale \([0,\pi]\) narysuj wykres funkcji \(f(x)=\frac{1}{|tgx+ctgx|}+\sin2x\), i rozwiąż nierówność \(f(x)<\frac{3}{4}\).
+;PP;5;-1;Na okręgu \(x^{2}-2x+y^{2}+4y-4=0\) wyznacz punkt, którego odległość od prostej \(x-3y+6=0\) jest najmniejsza.
+;PP;6;-1;Przekątna rombu o polu 9 zawarta jest w prostej \(x-2y+3=0\), a jednym z jego wierzchołków jest punkt \(A(2,-2)\). Wyznacz współrzędne pozostałych wierzchołków tego rombu.
+;PR;1;-1;Resztą z dzielenia wielomianu \(w(x)=x^{4}+px^{3}-3x^{2}+qx-14\) przez \(x^{2}-x-2\) jest \(4x-28\). Wyznacz współczynniki \(p\), \(q\) i rozwiaż nierówność \(w(x)\geq0\).
+;PR;2;-1;Wyznacz najmniejszą wartość funkcji \(f(x)=(tgx+ctgx)^{2}\) oraz rozwiąż nierówność \(f(x)\leq f(2x)\).
+;PR;3;-1;Rozwiąż równanie \(\cos{x}+\cos{2x}+2\cos{3x}+\cos{4x}+\cos{5x}=0\).
+;PR;4;-1;Znajdź kąt między wektorami \(\vec{a}\) i \(\vec{b}\) wiedząc, że wektor \(5\vec{a}-4\vec{b}\) jest prostopadły do wektora \(2\vec{a}+4\vec{b}\), wektor \(\vec{a}-5\vec{b}\) jest prostopadły do wektora \(6\vec{a}-2\vec{b}\).
+;PR;5;-1;Z wierzchołka O paraboli \(y^{2}=2x\) poprowadzono dwie proste wzajemnie prostopadłe i przecinające parabolę w punktach \(P\) i \(Q\). Wyznacz zbiór punktów płaszczyzny utworzony przez środki ciężkości trójkątów \(OPQ\). Sporządź rysunek.
+;PR;6;-1;W trójkącie o wierzchołkach \(A(-6,-7)\), \(B(8,-9)\), \(C(0,10)\) punkt \(P\) jest środkiem boku \(BC\), a punkt \(S\) jest punktem przecięcia środkowej poprowadzonej z wierzchołka \(A\) oraz wysokości opuszczonej na bok \(AB\). Oblicz pole trójkąta \(CSP\) oraz znajdź równanie okręgu opisanego na nim.

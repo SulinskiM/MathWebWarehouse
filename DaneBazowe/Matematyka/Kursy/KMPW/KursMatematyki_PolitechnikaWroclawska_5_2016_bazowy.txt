@@ -1,0 +1,12 @@
+Udowodnić, że róznica kwadratów dwu dowolnych liczb całkowitych niepodzielnych przez 3 jest podzielna przez 3. 
+Rozwiązać równanie $\mathrm{w}$ przedziale $[0,2\pi].$ sin2(-$\pi+$2{\it x})-sin(-$\pi$-2{\it x})$+$sin2(-$\pi$-2{\it x})$=$1 
+Dla jakiego parametru $m$ równanie $(\log_{2}^{2}m1)\cdot x^{2}+2$ (log2 $m1$)$\cdot x+2=0$ ma tylko jedno $\mathrm{r}\mathrm{o}\mathrm{z}\mathrm{w}\mathrm{i}_{\Phi}\mathrm{z}\mathrm{a}\mathrm{n}\mathrm{i}\mathrm{e}$? 
+Jedna $\mathrm{z}$ krawędzi bocznych ostrosfupa, którego podstawą jest kwadrat $0$ boku $a$, jest prostopadła do podstawy. Najdluzsza krawędz/ boczna jest nachylona do podstawy pod $\mathrm{k}_{\Phi}\mathrm{t}\mathrm{e}\mathrm{m}60^{\mathrm{o}}$. Obliczyć pole powierzchni calkowitej oraz sumę dfugości krawędzi ostrosfupa. Sporządzić rysunek. 
+$\mathrm{J}\mathrm{a}\mathrm{k}_{\Phi}\mathrm{k}\mathrm{r}\mathrm{z}\mathrm{y}\mathrm{w}\Phi^{\mathrm{t}\mathrm{w}\mathrm{o}\mathrm{r}\mathrm{Z}}\Phi$ punkty plaszczyzny, $\mathrm{z}$ których odcinek $0$ końcach $A(1,0)\mathrm{i}B(0,1)$ jest widoczny pod kątem $30^{\mathrm{o}}$ 
+Narysować wykres funkcji $f(x)=\displaystyle \frac{|x+1|-1}{|x1|}\mathrm{i}$ na jego podstawie wyznaczyć przedzialy jej monotoniczności oraz najmniejszą wartość $\mathrm{w}$ przedziale $[-2,\displaystyle \frac{1}{2}]$ 
+Udowodnić $\mathrm{t}\mathrm{o}\dot{\mathrm{z}}$ samość $x^{3}+y^{3}+z^{3}-3xyz=(x+y+z)(x^{2}+y^{2}+z^{2}-xyxz-yz)$ i wykorzystujqc ją, usunąć niewymierność $\mathrm{z}$ mianownika ułamka $\displaystyle \frac{1}{1+\sqrt[3]{2}+\sqrt[3]{4}}.$ 
+Jaką krzywą tworzą środki wszystkich okręgów stycznych równocześnie do osi $Ox\mathrm{i}$ do okręgu $x^{2}+(y1)^{2}=1$ ? 
+Wyznaczyć wszystkie styczne do wykresu funkcji $f(x)=\displaystyle \frac{x3}{x2}$ prostopadłe do prostej $4x+y+1=0$. Sporządzić staranne wykresy wszystkich rozwazanych krzywych. 
+Narysować wykres funkcji $ f(x)=1-\displaystyle \frac{2^{x}}{12^{x}}+(\frac{2^{x}}{12^{x}})^{2}-(\frac{2^{x}}{12^{x}})^{3}+(\frac{2^{x}}{12^{x}})^{4}-\ldots$ bdcej sumą nieskończonego szeregu geometrycznego. Rozwiązać nierówność $f(x)>4^{x}-21\cdot 2^{x2}+2.$ 
+Dla jakiego parametru $m$ równanie (log4 $m+1$)$\cdot x^{2}+3\log_{4}m\cdot x+2\log_{4}m1=0$ ma dwa pierwiastki $x_{1}, x_{2}$ spefniające warunki: $x_{1}<x_{2}$, oraz $2(x_{2}^{2}-x_{1}^{2})>x_{2}^{4}-x_{1}^{4}$? 
+W ostrosłupie prawidfowym trójkątnym tangens kąta nachylenia ściany bocznej do podstawy jest równy $2\sqrt{3}$. Obliczyć stosunek objętości kuli wpisanej do objętości kuli opisanej na ostrosfupie. 

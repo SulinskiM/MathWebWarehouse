@@ -1,0 +1,12 @@
+;PP;1;-1;Dwaj kolarze jeżdżą po torze w kształcie okręgu ze stałymi prędkościami. Jeżeli startują z tego samego punktu i jadą w tę samą stronę, to szybszy z nich pierwszy raz ponownie zrówna się z wolniejszym, wyprzedzając go o jedno okrążenie, po przejechaniu dokładnie 7 okrążeń. Ilu okrążeń potrzebuje szybszy kolarz żeby dogonić kolegę, jeżeli startują z przeciwległych stron toru (tzn. odcinek łączący punkty ich startu jest średnicą koła)?
+;PP;2;-1;Liczby o 16% mniejsza i o 43% większa od ułamka okresowego 0, (75) są pierwiastkami trójmianu kwadratowego o współczynnikach całkowitych względnie pierwszych. Obliczyć resztę z dzielenia tego trójmianu przez dwumian \((x-1)\).
+;PP;3;-1;Rozwiązać równanie \(\sin{x}+\cos{x}=\frac{1}{\sin{x}}\).
+;PP;4;-1;Rozwiązać nierówność \(\frac{\log_{2}(10-x^{2})}{\log_{2}(4-x)}>2\).
+;PP;5;-1;Dwa okręgi o promieniach \(r\) i \(R\) styczne zewnętrznie w punkcie \(C\), są styczne do prostej \(k\) w punktach \(A\) i \(B\). Wyznaczyć kąt \(\angle ACB\) i promień okręgu opisanego na trójkącie \(ABC\).
+;PP;6;-1;Dane są punkty \(A(2,-2)\) i \(B(8,1)\). Na paraboli \(y=x^{2}-x\) znaleźć taki punkt \(C\), żeby pole trójkąta \(ABC\) było najmniejsze. Wykonać rysunek.
+;PR;1;-1;Czy wieża zbudowana z sześciennych klocków o objętościach 1, 3, 9, 27, zmieści się na półce o wysokości \(\frac{15}{2}\)? Odpowiedź uzasadnić nie stosując obliczeń przybliżonych.
+;PR;2;-1;Rozwiązać równanie \(\cos2x=(\sqrt{3}-1)\sin{x}(\cos{x}+\sin{x})\).
+;PR;3;-1;Sporządzić staranny wykres funkcji \(f(x)=|2^{-|x|+1}-1|-\frac{1}{2}\). Opisać sposób postępowania. Rozwiązać nierówność \(f(x)>0\).
+;PR;4;-1;Rozwiązać nierówność \(\log_{2}x+\log_{2}^{3}x+\log_{2}^{5}x+…<\frac{20}{9}\).
+;PR;5;-1;Pod jakim kątem przecinają się okręgi o równaniach \((x-6)^{2}+y^{2}=9\), \(x^{2}+(y+4)^{2}=25\) (kątem miedzy dwoma okręgami nazywamy kąt między stycznymi w punkcie przecięcia)? Znaleźć równanie okręgu, którego środek leży na prostej \(2x-y=0\), i który przecina każdy z danych okręgów pod kątem prostym.
+;PR;6;-1;Boisko do gry w football amerykański ma kształt prostokąta o długości \(a\) i szerokości \(b<a\). Na środku krótszych boków stoją bramki o szerokości \(d<b\). Z którego miejsca linii bocznej boiska (czyli dłuższego boku prostokąta) widać bramkę pod największym możliwym kątem? Wyrazić odpowiedź za pomocą wzoru zawierającego symbole \(a\), \(b\), \(d\), a następnie wykonać obliczenia dla wartości \(a=110m\), \(b=49m\), \(d=5m\).

@@ -1,0 +1,12 @@
+Prawdopodobieństwo, $\dot{\mathrm{z}}\mathrm{e}\mathrm{w}$ dowolnie wybranym przedziale pociągu relacji WarszawaWrocfaw podrózny znajdzie co najmniej jedno wolne miejsce wynosi $\displaystyle \frac{1}{2}$. Podrózny szuka pierwszego wolnego miejsca, zaglądając do każdego kolejnego przedziafu. Oblicz prawdopodobieństwo zdarzenia, że liczba odwiedzonych przez niego przedziałów nie przekroczy 4. 
+Rozwiąz nierówność wykładniczą $2^{x^{3}}\cdot 9^{2x1}<3^{x^{3}-2}\cdot 4^{2x}$ 
+W trójkącie równoramiennym $\triangle ABC0$ ramionach $AC\mathrm{i}BC\mathrm{k}_{\Phi}\mathrm{t}$ przy podstawie $AB$ ma miarę $\alpha$. Na boku $AC$ umieszczono punkt $D\mathrm{w}$ taki sposób, że trójkąty $\triangle ABC\mathrm{i}\triangle ABD$ są podobne. Wyznacz skalę podobieństwa tych trójkątów oraz warunki rozwiązalności zadania. Oblicz stosunek pól tych trójkątów oraz stosunek objętości stozków powstałych przez obrót tych trójkątów wokół ich osi symetrii. 
+Wyznacz wszystkie można liwe wartości kąta ostrego $\alpha \mathrm{j}\mathrm{e}\dot{\mathrm{z}}$ eli wiadomo, że tg $2\alpha+$ ctg $2\displaystyle \alpha=-\frac{4\sqrt{3}}{3}.$ 
+Niech $x\in[0,2\pi]$. Rozwiąz nierówność $\sin^{5}x+\cos^{5}x\geq\sin^{4}x\cdot\cos x+\cos^{4}x\cdot\sin x.$ 
+Wyznacz wszystkie argumenty $x$, dla których funkcja $f(x)=\log_{2}(x+2)-2\log_{4}\sqrt{x^{3}+8}$ przyjmuje wartości niedodatnie. 
+Rzucamy cztery razy $\mathrm{j}\mathrm{e}\mathrm{d}\mathrm{d}\mathrm{n}\mathrm{k}\mathrm{o}\mathrm{s}\mathrm{t}\mathrm{k}_{\Phi}$ do gry. Oblicz prawdopodobieństwo, że suma wyrzuconych oczek przekroczy 12, jeś1i wiadomo, że suma oczek wyrzuconych $\mathrm{w}$ dwóch pierwszych rzutach wynosi 8. 
+[SKIP]Rozwiąz równanie trygonometrycznecsions22{\it xx}.. ssiinn{\it xx} --csoins 22{\it xx}.. ccooss {\it xx} $=$1.
+Rozwiąz równanie $5^{\mathrm{t}\mathrm{g}^{2}x1}+5^{3-\mathrm{t}\mathrm{g}^{2}x}=26.$ 
+Rozwiąz nierówność logarytmiczną $1+\log_{x1}x<\log_{x1}(x+6).$ 
+Wyznacz dziedzinę i miejsca zerowe funkcji $f(x)=\log_{\sin(-x)}(4\sin x\cdot\cos x1).$ 
+W trójk$\Phi$cie równoramiennym $\triangle ABC$, którego podstawa $AB$ ma dlugość 4, miara $\mathrm{k}_{\Phi^{\mathrm{t}\mathrm{a}}}$ pomiędzy ramionami $AC\mathrm{i}BC$ wynosi $30^{\mathrm{o}}$ Oblicz objętość bryly powstałej przez obrót tego trójkąta wzgledem jednego $\mathrm{z}$ jego ramion. 

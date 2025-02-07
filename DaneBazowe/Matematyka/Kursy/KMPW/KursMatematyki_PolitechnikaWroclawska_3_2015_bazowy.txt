@@ -1,0 +1,12 @@
+Rozwiązać równanie tg $x-\displaystyle \sin x=\frac{1-\cos x}{2\cos x}.$ 
+Narysować wykres funkcji $f(x)=2\sin x+|\sin x|\mathrm{i}$ rozwiązać nierówność $|f(x)|\displaystyle \leq\frac{3\sqrt{3}}{2}.$ 
+Odcinek $CD$ jest obrazem odcinka $0$ końcach $A(1,1)\mathrm{i}B(2,0)$ wjednokładności $0$ środku $S(1,-1)\mathrm{i}$ skali $k=-2$. Obliczyć pole czworokąta ABCD. Sporządzić rysunek. 
+Wielomian $W(x)=x^{3}+ax^{2}+bx+c$ jest podzielny przez dwumian $x+1$, ajego wykres jest symetryczny względem punktu $(0,0)$. Wyznaczyć $a, b, c\mathrm{i}$ rozwiązać nierówność $(x1)W(x+2)-(x2)W(x+1)\leq 0.$ 
+Punkty $\mathrm{A}(1,1), \mathrm{B}(0,3)$ są kolejnymi wierzchofkami rombu ABCD. Wyznaczyć pozostafe wierzchołki, wiedząc, że jeden $\mathrm{z}$ nich $\mathrm{l}\mathrm{e}\dot{\mathrm{z}}\mathrm{y}$ na prostej $xy-2=0$. Sporzqdzić rysunek. 
+W trójkąt równoramienny wpisano $\mathrm{o}\mathrm{k}\mathrm{r}\varpi \mathrm{g}\mathrm{o}$ promieniu $r$. Wyznaczyć pole trójk$\Phi$ta, jeżeli środek okręgu opisanego na tym trójkącie $\mathrm{l}\mathrm{e}\dot{\mathrm{z}}\mathrm{y}$ na okręgu wpisanym $\mathrm{w}$ ten trójkąt. Ile rozwiązań ma to zadanie? Sporządzić rysunek. 
+Narysować wykres funkcji $f(x)=\cos 2x-\sin^{2}x \mathrm{i}$ rozwiązać nierówność $f(x)\displaystyle \geq\frac{1}{4}.$ 
+Obliczyć pole trójkąta $ABC 0$ wierzcholkach $A(3,6), B(1,0)$, wiedząc, że wysokości przecinają się $\mathrm{w}$ punkcie (4, 4). Sporządzić rysunek. 
+Dla jakiego kąta ostrego $\alpha$ zachodzi równość $\log_{\sin\alpha}(2\cos^{2}\alpha+\sin\alpha\cos\alpha1)=2$? 
+Dla jakiego parametru $p$ wielomian $W(x) = x^{3}+px^{2}+11x6$ ma trzy pierwiastki, $\mathrm{z}$ których jeden jest średnią arytmetyczną pozostafych? Znalez/ć wielomian $0$ powyzszej własności, którego wszystkie pierwiastki są wymierne. 
+Wyznaczyć równania wszystkich prostych stycznych do każdej $\mathrm{z}$ parabol $y=(x+1)^{2}$ oraz $y=-(x3)^{2}-2$. Sporz$\Phi$dzić rysunek. 
+W trójkącie równoramiennym $ABC$ sinus kąta przy wierzcholku $C$ jest równy 3/5. Pod jakim $\mathrm{k}_{\Phi}\mathrm{t}\mathrm{e}\mathrm{m}$ przecinają się środkowe poprowadzone $\mathrm{z}$ wierzcholków podstawy AB? 

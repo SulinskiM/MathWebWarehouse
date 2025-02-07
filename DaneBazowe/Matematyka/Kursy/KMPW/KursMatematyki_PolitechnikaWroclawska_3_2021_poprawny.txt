@@ -1,0 +1,12 @@
+;PP;1;-1;Narysuj staranny wykres funkcji \(f(x)=|\sin{x}|\cos{x}\) i rozwiąż nierówność \(|f(x)|\leq \frac{1}{4}\).
+;PP;2;-1;Wyznacz dziedzinę funkcji \(f(x)=\log_{2}(\frac{3x-5}{x-2}+1)\) i sprawdź dla jakich argumentów funkcja ta przyjmuje wartości dodatnie.
+;PP;3;-1;W trójkącie dane są długości dwóch boków \(a\) i \(b\). Oblicz długość trzeciego boku, wiedząc, że suma wysokości poprowadzonych do boków \(a\) i \(b\) jest równa trzeciej wysokości.
+;PP;4;-1;Niech \(ABCDEF\) będzie sześciokątem foremnym. Wykaż, że \(\vec{AB}+\vec{AC}+\vec{AD}+\vec{AE}+\vec{AF}=3\vec{AD}\).
+;PP;5;-1;Na krzywej o równaniu \(y=\sqrt{2x}\) znajdź miejsce, które położone jest najbliżej punktu \(P(3,0)\). Sporządź rysunek.
+;PP;6;-1;Dla jakich wartości parametru \(m\) pierwiastkiem wielomianu \(w(x)=2x^{3}-7x^{2}-(m^{2}-12)x+m^{2}+m-6\) jest \(x=3\)? Dla znalezionych wartości \(m\) wyznacz pozostałe pierwiastki \(w(x)\).
+;PR;1;-1;Dany jest trójkąt o wierzchołkach \(A(-1,3)\), \(B(-4,-1)\), i \(C(3,0)\). Znajdź kąt pomiędzy wysokością tego trójkąta poprowadzoną z wierzchołka \(A\) i bokiem \(AC\). Oblicz pole tego trójkąta.
+;PR;2;-1;Narysuj wykres funkcji \(f(x)=\sin^{2}x-\cos2x\) i rozwiąż nierówność \(f(x)\geq-\frac{1}{4}\).
+;PR;3;-1;Zaznacz na płaszczyźnie zbiór punktów, których współrzędne spełniają nierówność \(\log_{y}(\log_{x}y)>0\).
+;PR;4;-1;Reszta z dzielenia wielomianu \(w(x)=x^{4}+ax^{3}+(b+2)x^{2}+bx+a-3\) przez trójmian \(x^{2}+2x-8\) wynosi \(-5x+40\). Wyznacz wartość parametrów \(a\) i \(b\) oraz rozwiąż nierówność \(w(x-1)\geq w(x+1)\).
+;PR;5;-1;Dany jest trapez \(ABCD\) o podstawach \(AB\) i \(CD\), w którym \(\angle ABC=90^{\mathrm{o}}\). Dwusieczna kąta \(BAD\) przecina odcinek \(BC\) w punkcie \(P\). Niech \(Q\) będzie rzutem prostopadłym punktu \(P\) na prostą \(AD\). Wykaż, że jeżeli pole czworokąta \(APCD\) jest równe polu trójkąta \(ABP\), to \(|PC|=|DQ|\).
+;PR;6;-1;Boisko do gry w piłkę ręczną jest prostokątem o długości 40m i szerokości 20m. Bramki mają szerokość 3m i stoją dokładnie na środku linii bramkowej (krótszego boku prostokąta). Z jakiego punktu linii bocznej (dłuższego boku prostokąta) widać bramkę pod największym możliwym kątem?

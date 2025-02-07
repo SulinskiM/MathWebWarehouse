@@ -1,0 +1,12 @@
+;PP;1;-1;Rozwiąż równanie \(\sin2x=\cos^{4}\frac{x}{2}-sin^{4}\frac{x}{2}\).
+;PP;2;-1;Rozwiąż nierówność \(\sqrt{4-x}\leq x+8\).
+;PP;3;-1;W ciągu geometrycznym \((a_{n})\) zachodzą równości: \(a_{4}-a_{2}=18\) oraz \(a_{5}-a_{3}=36\). Wyznacz \(a_{3}\).
+;PP;4;-1;Dla jakich wartości parametru \(m\) rozwiązaniem układu \begin{array}{l} 2x+3y=4\\ 4x+my=2m \end{array} jest para liczb dodatnich?
+;PP;5;-1;Przekrój poprzeczny dwuspadowego dachu pewnego budynku jest czworokątem \(ABCD\), w którym kąt \(DAB\) jest kątem prostym, \(|AB|=9m\), a obie (nierówne) połacie dachu, czyli odcinki \(BC\) i \(CD\), są nachylone pod kątem \(40^{\mathrm{o}}\) do poziomu (odcinka \(AB\)). Oblicz łączną długość (tzn. \(|BC|+|CD|\)) obu połaci dachu.
+;PP;6;-1;Wykaż, że miara kąta ostrego w rombie wynosi \(30^{\mathrm{o}}\) wtedy i tylko wtedy, gdy długość jego boku jest równa średniej geometrycznej jego przekątnych.
+;PR;1;-1;Rozwiąż równanie \(tgxtg(x+1)=1\).
+;PR;2;-1;Rozwiąż nierówność \(2-3x>\sqrt{\frac{x+4}{1-x}}\).
+;PR;3;-1;Huragan znad Oceanu Atlantyckiego zbliża się do wybrzeża Florydy. Jeżeli jego centrum znajdzie się w odległości mniejszej niż 60 km od centrum Miami, to miasto dozna poważnych zniszczeń. Meteorolog modeluje centrum miasta jako ustalony punkt o współrzędnych \((240, 200)\), gdzie jednostką układu współrzędnych jest kilometr. Przyjmuje natomiast, że centrum huraganu porusza się po prostej o równaniu \(y=kx+20\). Dla jakich wartości parametru \(k\) miasto nie dozna poważnych zniszczeń?
+;PR;4;-1;Zbadaj liczbę rozwiązań równania \(\frac{x^2+1}{a^{2}x-2a}-\frac{1}{2-ax}=\frac{x}{a}\) w zależności od parametru \(a\neq0\).
+;PR;5;-1;Pole rombu jest równe \(S\), a suma długości jego przekątnych wynosi \(m\). Wyznacz długość jego boku oraz cosinus kąta ostrego. Jakie warunki muszą spełniać parametry \(m\) i \(S\) żeby zadanie miało rozwiązanie?
+;PR;6;-1;Dany jest niestały ciąg arytmetyczny \((a_{n})\) taki, że iloraz \(\frac{a_{1}+a_{2}+\ldots+a_{n}}{a_{n+1}+a_{n+2}+\ldots+a_{2n}}\) jest liczbą stałą \(C\). Wyznacz wartość tej stalej oraz różnicę tego ciągu, jeśli wiadomo, że jego pierwszym wyrazem jest \(a_{1}=p\).

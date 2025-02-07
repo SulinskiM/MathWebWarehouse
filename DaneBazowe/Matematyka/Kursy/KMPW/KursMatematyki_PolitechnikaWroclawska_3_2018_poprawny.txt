@@ -1,0 +1,12 @@
+;PP;1;-1;Narysować wykres funkcji \(f(x)=2\cos{x}-|\cos{x}|\) i rozwiązać nierówność \(f(x)<-\frac{3}{2}\).
+;PP;2;-1;Znaleźć punkt należący do paraboli \(y^{2}=4x\), którego odległość od punktu \(A(3,0)\) jest najmniejsza.
+;PP;3;-1;Dany jest punkt \(A(2,1)\) oraz dwie proste: \(p\): \(x+y+2=0\), q: \(x-2y-4=0\). Znaleźć taki punkt \(B\) na prostej \(q\), żeby środek odcinka \(AB\) leżał na prostej \(p\). Sporządzić rysunek.
+;PP;4;-1;Logarytmy liczb 1, \(3^{x}-2\), \(3^{x}+4\) tworzą ciąg arytmetyczny (w podanej kolejności). Obliczyć \(x\).
+;PP;5;-1;Kolejne środki boków czworokąta wypukłego \(ABCD\) połączono odcinkami otrzymując czworokąt \(EFGH\). Jaka figurą jest czworokąt \(EFGH\)? Odpowiedź uzasadnić. Obliczyć pole czworokąta \(ABCD\), wiedząc, że pole czworokąta \(EFGH\) jest równe 5.
+;PP;6;-1;Rozwiązać nierówność \(f(x)\leq \frac{4}{f(x)}\), gdzie \(f(x)=-\frac{4}{3}x^{2}+2x+\frac{4}{3}\).
+;PR;1;-1;Narysować wykres funkcji \(f(x)=2\cos^{2}x-\sin(2x-\frac{\pi}{2})\) i rozwiązać nierówność \(|f(x)|<2\).
+;PR;2;-1;Znaleźć punkt należący do paraboli \(y^{2}=2x\), którego odległość od prostej \(x-2y+6=0\) jest najmniejsza.
+;PR;3;-1;Wielomian \(w(x)=x^{4}+ax^{3}+bx^{2}+cx+d\) jest podzielny przez trójmian \(x^{2}-x-2\), a jego wykres jest symetryczny względem osi \(0y\). Wyznaczyć wartości parametrów \(a\), \(b\), \(c\), \(d\) i rozwiązać nierówność \(w(x+1)\leq w(x-2)\).
+;PR;4;-1;Rozwiązać nierówność \(\log{x}+\log^{3}x+\log^{5}x+…\leq 2\sqrt{5}\).
+;PR;5;-1;Punkt \(S\) jest środkiem boku \(AB\) w trójkącie \(ABC\). Ponadto \(AC\neq BC\) oraz \(\angle BAC+\angle SCB=90^{\mathrm{o}}\) Niech \(D\) będzie punktem przecięcia symetralnej \(AB\) z prostą \(AC\). Udowodnić, że na czworokącie SBDC można na opisać okrąg. Dlaczego musimy założyć, że \(AC\neq BC\)?
+;PR;6;-1;Wyznaczyć równanie zbioru wszystkich środków tych cięciw paraboli \(y=x^{2}\), które przechodzą przez punkt \(A(0,2)\).

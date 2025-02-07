@@ -1,0 +1,12 @@
+Uprość wyrazenie $\displaystyle \frac{x^{-1}-a^{-1}}{a^{-1}-b(ax)^{-1}},$ jeśli $x=\displaystyle \frac{1}{(\alpha+b)^{-1}}- (\displaystyle \frac{a+b}{a^{2}+b^{2}})^{-1}$ 
+W jakim stosunku nalez $\mathrm{y}$ zmieszać dwa roztwory cukru $0$ stęzeniach 5\% oraz 23\%, aby otrzymać roztwór 17\%? 
+Rozwiąz nierówność $x-|5x2|<0.$ 
+Dla jakich wartości parametru $a$ nierówność $(a^{2}-1)x^{2}+2(a1)x+2>0$ jest spełniona dla każdego $x\in \mathbb{R}$? 
+$\mathrm{W}\mathrm{i}\mathrm{e}\mathrm{d}\mathrm{z}\Phi^{\mathrm{C}}, \dot{\mathrm{z}}\mathrm{e}1\mathrm{i}3$ są pierwiastkami równania $x^{3}+mx^{2}+23x+n=0,$ oblicz $m, n\mathrm{i}$ wyznacz trzeci pierwiastek równania. 
+[SKIP]Narysuj wykres funkcji $f(x)=$ dla dla $|2x2|\leq 4,$ $|2x2|>4.$ Wykorzystuj $\otimes \mathrm{C}$ wykres, wyznacz zbiór wartości funkcji $f(x)$ oraz $\mathrm{n}\mathrm{a}\mathrm{j}\mathrm{m}\mathrm{n}\mathrm{i}\mathrm{e}\mathrm{j}_{\mathrm{S}\mathrm{Z}\Phi}\mathrm{i}$ największą wartość funkcji $\mathrm{w}$ przedziale $[0$, 4$].$
+Dla jakich wartości parametru $a$ równanie $2x^{2}-ax+a+2=0$ ma pierwiastki spefniające warunek $|x_{2}-x_{1}|=1$? 
+W sali ustawiono krzesla i trzyosobowe ławki, $\mathrm{w}$ lącznej liczbie 268. Do sa1i weszło 480 osób. Po zajeciu wszystkich miejsc siedzących proporcja osób stojących do siedzących okazafa się większa $\displaystyle \mathrm{n}\mathrm{i}\dot{\mathrm{z}}\frac{39}{160}$, ale mniejsza $\displaystyle \mathrm{n}\mathrm{i}\dot{\mathrm{z}}\frac{41}{160}$. Ile fawek i ile krzesel bylo $\mathrm{w}$ sali? 
+Rozwiąz nierówność $|||||x|-1|-2|-1|-2|\leq 3.$ 
+Oblicz $x^{4}+y^{4}+z^{4},$ jeśli $x+y+z=0$ oraz $x^{2}+y^{2}+z^{2}=3.$ 
+Rozwiąz układ równań \begin{array}{l} x-|y+1|=1,\\ x^{2}+y=10. \end{array} Podaj jego interpretację geometryczną (narysuj starannie obie dane powyzszymi równaniami krzywe). 
+Wyznacz wartości parametru $p$, dla których równanie $(p1)x^{4}-2(p+4)x^{2}+p=0$ ma cztery pierwiastki rózne od 0. 

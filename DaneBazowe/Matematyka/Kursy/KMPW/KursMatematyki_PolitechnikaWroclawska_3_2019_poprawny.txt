@@ -1,0 +1,12 @@
+;PP;1;-1;Znaleźć największą wartość funkcji \(f(x)=\frac{2}{\sqrt{4x^{2}-12x+11}}\) i rozwiązać nierówność \(f(x)\geq1\).
+;PP;2;-1;Rozwiązać równanie \((1+\cos4x)\sin2x=\cos^{2}2x\).
+;PP;3;-1;Rozwiązać równanie \(\log_{\sqrt{5}}(4^{x}-6)-\log_{\sqrt{5}}(2^{x}-2)=2\).
+;PP;4;-1;Stosunek długości przekątnych rombu jest równy 5:12. Obliczyć stosunek pola rombu do do pola koła wpisanego w ten romb.
+;PP;5;-1;Dane są punkty \(A(1,1)\) i \(B(7,4)\). Na paraboli \(y=x^{2}+x+3\) znaleźć taki punkt \(C\), żeby pole trójkąta \(ABC\) było najmniejsze. Wykonać rysunek.
+;PP;6;-1;Ramiona trójkąta równoramiennego zawarte są w prostych o równaniach \(8x-y+17=0\) oraz \(4x+7y-59=0\), a jego podstawa przechodzi przez punkt \(P(0,2)\). Wyznaczyć równanie prostej zawierającej podstawę i obliczyć pole tego trójkąta.
+;PR;1;-1;Dla jakich wartości parametru \(m\) równanie \(x^{2}-2(m-4)x+m^{2}+5m+6=0\) ma dwa różne pierwiastki rzeczywiste, których suma odwrotności jest dodatnia?
+;PR;2;-1;Rozwiązać równanie \(\frac{1}{\sin^{2}2x}+tgx-ctgx=2\).
+;PR;3;-1;Rozwiązać układ równań \(?\).
+;PR;4;-1;Dany jest trójkąt \(ABC\), w którym \(\angle ACB=\frac{2\pi}{3}\). Dwusieczna kąta \(ACB\) przecina prostą przechodzącą przez punkt \(A\) i równoległa do boku \(BC\) w punkcie \(P\), a prostą przechodzącą przez punkt \(B\) i równoległa do boku \(AC\) w punkcie \(Q\). Udowodnić, że \(AQ=BP\).
+;PR;5;-1;Wyznaczyć stosunek promienia okręgu wpisanego w romb \(ABCD\) o kącie ostrym \(\alpha=\angle DAB\) do promienia okręgu opisanego na trójkącie \(ABD\). Sprawdzić dla jakiego kata \(\alpha\) stosunek ten jest największy.
+;PR;6;-1;Wyznaczyć równanie zbioru wszystkich środków tych cięciw paraboli \(y=x^{2}\), które zaczynają się w punkcie \(A(1,1)\). Rozwiązanie zilustrować rysunkiem.

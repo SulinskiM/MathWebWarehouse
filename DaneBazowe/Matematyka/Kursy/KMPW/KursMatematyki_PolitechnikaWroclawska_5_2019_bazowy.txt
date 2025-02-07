@@ -1,0 +1,12 @@
+Znalez$\acute{}$ć stuelementowy ciag arytmetyczny, w którym suma wyrazów 0 numerach nieparzystych jest dwa razy większa od sumy wyrazów 0 numerach parzystych io50 mniejsza od sumy wszystkich wyrazów. 
+Rozwiązać układ równań $2^{y1},$ $\log_{2}(x+2).$ 
+Narysować wykres funkcji $f(x) =x|x|-4|x|+3\mathrm{i}$ określić liczbę rozwiązań równania $f(x)=m\mathrm{w}$ zalezności od parametru $m.$ 
+W {\it romb ABCD} $0$ kącie ostrym $\alpha$ wpisano czworokąt, którego boki są równoległe do przekqtnych rombu. Jakie jest można liwie największe pole takiego czworokąta? 
+Znalez/ć równania wspólnych stycznych do wykresów funkcji $f(x)=-x^{2}+2x\mathrm{i}g(x)=x^{2}+1.$ 
+W stozek $0$ promieniu podstawy $R$ wpisano stozek $0$ osiem razy mniejszej objętości. Wysokość malego stozka jest zawarta $\mathrm{w}$ wysokości $\mathrm{d}\mathrm{u}\dot{\mathrm{z}}$ ego stozka, jego wierzchołek jest $\mathrm{w}$ środku podstawy, a okrąg ograniczający podstawę malego stozka jest zawarty $\mathrm{w}$ powierzchni bocznej $\mathrm{d}\mathrm{u}\dot{\mathrm{z}}$ ego stozka. Obliczyć $\displaystyle \frac{r}{R}$, gdzie $r$ oznacza promień podstawy stozka wpisanego. 
+Rozwiązać ukfad równań 16, 16 
+Wyznaczyć równania wszystkich stycznych do wykresu funkcji są prostopadłe do prostej $x+3y+1=0.$ $f(x) = \displaystyle \frac{2x1}{x+1},$ które 
+Granicą ciągu $0$ wyrazie ogólnym $a_{n}=n^{2}-\sqrt{n^{4}-an^{2}+bn}$ jest większy $\mathrm{z}$ pierwiastków równania $x^{\log_{2}x}-3=4x^{\log_{\frac{1}{2}}x}$ Wyznaczyć parametry a i b. 
+Na boku $BC$ trójkąta równobocznego obrano punkt $D\mathrm{t}\mathrm{a}\mathrm{k}, \dot{\mathrm{z}}\mathrm{e}$ promień okręgu wpisanego $\mathrm{w}$ trójkąt $ADC$ jest dwa razy mniejszy $\mathrm{n}\mathrm{i}\dot{\mathrm{z}}$ promień okręgu wpisanego $\mathrm{w}$ trójkąt $ABD.$ W jakim stosunku punkt $D$ dzieli bok $BC$? 
+Rozwiązać nierówność $1+\displaystyle \frac{\sin x}{\sqrt{3}+\sin x}+(\frac{\sin x}{\sqrt{3}+\sin x})^{2}+(\frac{\sin x}{\sqrt{3}+\sin x})^{3}+\cdots\leq\cos x,$ której lewa strona jest sumą wszystkich wyrazów nieskończonego ciągu geometrycznego. 
+Jakie wymiary ma walec $\mathrm{o}\mathrm{m}\mathrm{o}\dot{\mathrm{z}}$ liwie największej objętości wpisany $\mathrm{w}$ sześcian $0$ boku $a$ $\mathrm{w}$ taki sposób, że jego oś jest zawarta $\mathrm{w}$ przekątnej sześcianu, a $\mathrm{k}\mathrm{a}\dot{\mathrm{z}}$ da $\mathrm{z}$ podstaw jest styczna do trzech ścian wychodzących $\mathrm{z}$ jednego wierzchofka. 

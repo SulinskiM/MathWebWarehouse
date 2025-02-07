@@ -1,0 +1,12 @@
+Rozwiąz równanie $\displaystyle \sin 2x=\cos^{4}\frac{x}{2}$ -sin4 $\displaystyle \frac{x}{2}.$ 
+Rozwiąz nierówność $\sqrt{4x}\leq x+8.$ 
+W ciągu geometrycznym $(a_{n})\mathrm{z}\mathrm{a}\mathrm{c}\mathrm{h}\mathrm{o}\mathrm{d}\mathrm{z}\Phi$ równości: $a_{4}-a_{2}=18$ oraz $a_{5}-a_{3}=36$. Wyznacz $a_{3}.$ 
+Dla jakich wartości parametru $m$ rozwiązaniem ukladu \begin{array}{l} 2x+3y=4\\ 4x+my=2m \end{array} jest para liczb dodatnich? 
+Przekrój poprzeczny dwuspadowego dachu pewnego budynku jest czworokątem ABCD, $\mathrm{w}$ którym kąt $DAB$ jest kątem prostym, $|AB| =9m$, a obie (nierówne) połacie dachu, czyli odcinki $BC\mathrm{i}CD$, są nachylone pod kqtem $40^{\mathrm{o}}$ do poziomu (odcinka AB). Oblicz fączną dfugość (tzn. $|BC|+|CD|$) obu polaci dachu. 
+Wykaz, że miara kąta ostrego $\mathrm{w}$ rombie wynosi $30^{\mathrm{o}}$ wtedy i tylko wtdy, gdy długość jego boku jest równa średniej geometrycznej jego przekątnych. 
+Rozwiąz równanie tg $x\cdot \mathrm{t}\mathrm{g}(x+1)=1.$ 
+Rozwiąz nierówność $23x>\sqrt{\frac{x+4}{1x}}.$ 
+Huragan znad Oceanu Atlantyckiego zbliza się do wybrzeza Florydy. $\mathrm{J}\mathrm{e}\dot{\mathrm{z}}$ eli jego centrum znajdzie się $\mathrm{w}$ odległości mniejszej $\mathrm{n}\mathrm{i}\dot{\mathrm{z}}60$ km od centrum Miami, to miasto dozna powaznych zniszczeń. Meteorolog modeluje centrum miastajako ustalony punkt $0$ współrzędnych (240, 200), gdzie $\mathrm{j}\mathrm{e}\mathrm{d}\mathrm{n}\mathrm{o}\mathrm{s}\mathrm{t}\mathrm{k}_{\Phi}$ ukladu wspófrzędnych jest kilometr. Przyjmuje natomiast, że centrum huraganu porusza się po prostej $0$ równaniu $y=kx+20$. Dlajakich wartości parametru $k$ miasto nie dozna powaznych zniszczeń? 
+Zbadaj liczbę rozwiązań równania -{\it a}2{\it xx}2 $+$-21$\alpha$ - -21{\it ax} $=$ -{\it xa}' $\mathrm{w}$ zalezności od parametru $a\neq 0.$ 
+Pole rombu jest równe $S$, a suma długości jego przekątnych wynosi $m$. Wyznacz długość jego boku oraz cosinus kąta ostrego. Jakie warunki $\mathrm{m}\mathrm{u}\mathrm{s}\mathrm{z}\Phi$ spełniać parametry $m\mathrm{i}S\dot{\mathrm{z}}$ eby zadanie miało rozwiązanie? 
+Dany jest niestały ciag arytmetyczny $(a_{n})$ taki, że iloraz $\displaystyle \frac{\alpha_{1}+a_{2}+\ldots+\alpha_{n}}{a_{n+1}+a_{n+2}+\ldots+a_{2n}}$ jest liczbą stafą $C$. Wyznacz wartość tej stalej oraz róznicę tego ciqgu, jeśli wiadomo, że jego pierwszym wyrazem jest $\alpha_{1}=p.$ 

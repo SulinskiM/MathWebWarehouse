@@ -1,0 +1,12 @@
+;PP;1;-1;W szufladzie znajduje się 6 różnych par rękawiczek. Oblicz prawdopodobieństwo, że wśród 5 losowo wybranych rękawic jest co najmniej jedna para.
+;PP;2;-1;Wyznacz dziedzinę i zbadaj, dla jakich argumentów funkcja \(f(x)=\log_{\sqrt{3}}(x+3)-\log_{3}(9-x^{2})\) przyjmuje wartości ujemne.
+;PP;3;-1;Wśród prostokątów wpisanych w okrąg o promieniu \(R\) bez użycia metod rachunku różniczkowego wskaz ten, którego pole jest największe.
+;PP;4;-1;Rozwiąż nierówność \(4^{x^{3}-x+2}\cdot 5^{2x-3x^{2}}-2^{4-3x^{2}}\cdot 25^{x^{3}}\geq0\).
+;PP;5;-1;Powierzchnia boczna stożka po rozcięciu jest wycinkiem koła o kącie \(216^{\mathrm{o}}\). Obwód podstawy stożka wynosi \(6\pi\). Oblicz objętość kuli wpisanej w ten stożek.
+;PP;6;-1;Narysuj wykres funkcji \(f(x)=-1+2^{1-|1-x|}\) i precyzyjnie opisz zastosowaną metodę jego konstrukcji. Na podstawie rysunku wskaż przedziały monotoniczności funkcji oraz zbiór jej wartości.
+;PR;1;-1;Developer chce pomalować każde z 11 pięter nowo wybudowanego wieżowca na jeden z 3 kolorów występujących w jego logo, przy czym każdy kolor ma zostać wykorzystany co najmniej jeden raz. Obliczyć prawdopodobieństwo, że dwaj niezależni graficy, którym zlecono zaprojektowanie kolorystyki budynku, przedstawią ten sam projekt. Przyjąć, że wybór przez nich każdego takiego układu kolorów jest jednakowo prawdopodobny.
+;PR;2;-1;Rozwiąż równanie \(8x^{3}=1+6x\), stosując podstawienie \(x=\cos\alpha\).
+;PR;3;-1;Określ dziedzinę i zbadaj, dla jakich argumentów funkcja \(f(x)=\log_{x^{2}-1}(x^{2}-2x)-\log_{x^{2}-1}(2-\frac{4}{x})\) przyjmuje wartości nieujemne.
+;PR;4;-1;Rozwiąż nierówność \(1+tg^{2}2x-tg^{4}2x+tg^{6}2x-\ldots\leq 3\sin2x-\sin^{2}2x\).
+;PR;5;-1;Wśród prostopadłościanów o podstawie kwadratu wpisanych w kulę o promieniu \(R\) wskaz ten, którego objętość jest największa.
+;PR;6;-1;Określ dziedzinę, wyznacz przedziały monotoniczności oraz wszystkie lokalne ekstrema funkcji \(f(x)=\frac{(x+1)^{2}}{x(x-2)}\). Sporządź jej staranny wykres.

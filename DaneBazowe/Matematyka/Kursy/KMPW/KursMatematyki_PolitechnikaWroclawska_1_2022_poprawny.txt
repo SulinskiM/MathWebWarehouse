@@ -1,0 +1,12 @@
+;PP;1;-1;Uprość wyrażenie \(\frac{x^{-1}-a^{-1}}{a^{-1}-b(ax)^{-1}}\), jeśli \(x=\frac{1}{(a+b)^{-1}}-(\frac{a+b}{a^{2}+b^{2}})^{-1}\).
+;PP;2;-1;W jakim stosunku należy zmieszać dwa roztwory cukru o stężeniach 5% oraz 23%, aby otrzymać roztwór 17%?
+;PP;3;-1;Rozwiąż nierówność \(x-|5x-2|<0\).
+;PP;4;-1;Dla jakich wartości parametru \(a\) nierówność \((a^{2}-1)x^{2}+2(a-1)x+2>0\) jest spełniona dla każdego \(x\in \mathbb{R}\)?
+;PP;5;-1;Wiedząc, że 1 i 3 są pierwiastkami równania \(x^{3}+mx^{2}+23x+n=0\), oblicz \(m\), \(n\) i wyznacz trzeci pierwiastek równania.
+;PP;6;-1;Narysuj wykres funkcji \(f(x)=?\). Wykorzystując wykres, wyznacz zbiór wartości funkcji \(f(x)\) oraz najmniejszą i największą wartość funkcji w przedziale \([0, 4]\).
+;PR;1;-1;Dla jakich wartości parametru \(a\) równanie \(2x^{2}-ax+a+2=0\) ma pierwiastki spełniające warunek \(|x_{2}-x_{1}|=1\)?
+;PR;2;-1;W sali ustawiono krzesła i trzyosobowe ławki, w łącznej liczbie 268. Do sali weszło 480 osób. Po zajęciu wszystkich miejsc siedzących proporcja osób stojących do siedzących okazała się większa niż \(\frac{39}{160}\), ale mniejsza niż \(\frac{41}{160}\). Ile ławek i ile krzeseł było w sali?
+;PR;3;-1;Rozwiąż nierówność \(|||||x|-1|-2|-1|-2|\leq 3\).
+;PR;4;-1;Oblicz \(x^{4}+y^{4}+z^{4}\), jeśli \(x+y+z=0\) oraz \(x^{2}+y^{2}+z^{2}=3\).
+;PR;5;-1;Rozwiąż układ równań \begin{array}{l} x-|y+1|=1,\\ x^{2}+y=10. \end{array} Podaj jego interpretację geometryczną (narysuj starannie obie dane powyższymi równaniami krzywe).
+;PR;6;-1;Wyznacz wartości parametru \(p\), dla których równanie \((p-1)x^{4}-2(p+4)x^{2}+p=0\) ma cztery pierwiastki różne od 0.
