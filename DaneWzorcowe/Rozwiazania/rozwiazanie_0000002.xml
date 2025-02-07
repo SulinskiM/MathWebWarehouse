@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rozwiazanie>
+    <dotyczy>
+        <arkusz>F2_M_PR_M2018</arkusz>
+        <zadanie>14</zadanie>
+        <db_id></db_id>
+    </dotyczy>
+    <opis>
+        \section*{II sposób - syntetycznie - długości odcinków CE i CS}
+    </opis>
+    <tresc>
+        \begin{center}
+        \includegraphics[max width=\textwidth]{2025_02_07_a9ca9e8ec13abcca3690g-26}
+        \end{center}
+
+        Promień okrę̨u jest równy $r=\sqrt{10}$. Długość odcinka $S A$ jest równa
+
+        $$
+        |S A|=\sqrt{7^{2}+(-1)^{2}}=\sqrt{50}=5 \sqrt{2} .
+        $$
+
+        Z twierdzenia Pitagorasa dla trójkąta $A S E$ otrzymujemy
+
+        $$
+        \begin{gathered}
+        |S A|^{2}=|S E|^{2}+|E A|^{2}, \\
+        50=10+E A^{2}, \\
+        |E A|^{2}=40, \\
+        |E A|=\sqrt{40}=2 \sqrt{10} .
+        \end{gathered}
+        $$
+
+        Z twierdzenia o odcinkach stycznych otrzymujemy $|D A|=|E A|=2 \sqrt{10}$.\\
+        Trójkąty $C E S$ i $C D A$ są podobne, gdyż oba są prostokątne i mają wspólny kąt ostry przy wierzchołku $C$. Stąd wynika
+
+        $$
+        \begin{gathered}
+        \frac{|C E|}{|S E|}=\frac{|C D|}{|D A|} \text { oraz } \frac{|C S|}{|S E|}=\frac{|C A|}{|D A|}, \\
+        \frac{m}{\sqrt{10}}=\frac{n+\sqrt{10}}{2 \sqrt{10}} \text { oraz } \frac{n}{\sqrt{10}}=\frac{m+2 \sqrt{10}}{2 \sqrt{10}}, \\
+        2 m=n+\sqrt{10} \text { oraz } 2 n=m+\sqrt{10}, \\
+        n=2 m-\sqrt{10} \text { oraz } 2(2 m-\sqrt{10})=m+\sqrt{10} .
+        \end{gathered}
+        $$
+
+        Stąd
+
+        $$
+        \begin{gathered}
+        4 m-2 \sqrt{10}=m+\sqrt{10}, \\
+        m=\frac{4}{3} \sqrt{10}, \text { więc } n=2 \cdot \frac{4}{3} \sqrt{10}-\sqrt{10}=\frac{5}{3} \sqrt{10} .
+        \end{gathered}
+        $$
+
+        \section*{Uwaga}
+        Długości $m$ i $n$ możemy też obliczyć korzystając z twierdzenia Pitagorasa dla trójkątów $A C D$ i CSE. Otrzymujemy wtedy
+
+        $$
+        |C A|^{2}=|C D|^{2}+|D A|^{2} \text { oraz }|C S|^{2}=|C E|^{2}+|S E|^{2},
+        $$
+
+        $$
+        \begin{gathered}
+        (m+2 \sqrt{10})^{2}=(n+\sqrt{10})^{2}+(2 \sqrt{10})^{2} \text { oraz } n^{2}=m^{2}+(\sqrt{10})^{2}, \\
+        m^{2}+4 m \sqrt{10}+40=n^{2}+2 n \sqrt{10}+10+40 \text { oraz } n^{2}=m^{2}+10, \\
+        4 m \sqrt{10}=2 n \sqrt{10}+20 \text { oraz } n^{2}=m^{2}+10, \\
+        2 m-\sqrt{10}=n \text { oraz }(2 m-\sqrt{10})^{2}=m^{2}+10, \\
+        2 m-\sqrt{10}=n \text { oraz } 4 m^{2}-4 m \sqrt{10}+10=m^{2}+10, \\
+        2 m-\sqrt{10}=n \text { oraz } m=\frac{4}{3} \sqrt{10}, \\
+        n=\frac{5}{3} \sqrt{10} \text { oraz } m=\frac{4}{3} \sqrt{10} .
+        \end{gathered}
+        $$
+
+        Zatem długość ramienia $A C$ trójkąta $A B C$ jest równa
+
+        $$
+        |A C|=|C E|+|E A|=m+2 \sqrt{10}=\frac{4}{3} \sqrt{10}+2 \sqrt{10}=\frac{10}{3} \sqrt{10} .
+        $$
+
+        Niech $C=(x, y)$. Ponieważ $|A C|=\frac{10}{3} \sqrt{10}$ i $|C S|=\frac{5}{3} \sqrt{10}$, więc
+
+        $$
+        \begin{gathered}
+        |A C|^{2}=\frac{1000}{9} \text { i }|C S|^{2}=\frac{250}{9}, \\
+        (x-7)^{2}+(y+1)^{2}=\frac{1000}{9} \text { i } x^{2}+y^{2}=\frac{250}{9} .
+        \end{gathered}
+        $$
+
+        Pierwsze równanie możemy zapisać w postaci
+
+        $$
+        x^{2}+y^{2}-14 x+2 y+50=\frac{1000}{9} .
+        $$
+
+        Stąd i z drugiego równania otrzymujemy
+
+        $$
+        \begin{gathered}
+        \frac{250}{9}-14 x+2 y+50=\frac{1000}{9} \\
+        7 x-y+\frac{50}{3}=0 \\
+        y=7 x+\frac{150}{9} .
+        \end{gathered}
+        $$
+
+        Stąd i z pierwszego równania mamy
+
+        $$
+        \begin{gathered}
+        x^{2}+\left(7 x+\frac{50}{3}\right)^{2}=\frac{250}{9}, \\
+        x^{2}+49 x^{2}+\frac{700}{3} x+\frac{2500}{9}-\frac{250}{9}=0, \\
+        50 x^{2}+\frac{700}{3} x+\frac{2250}{9}=0, \\
+        x^{2}+\frac{14}{3} x+5=0, \\
+        3 x^{2}+14 x+15=0, \\
+        3 x^{2}+9 x+5 x+15=0, \\
+        3 x(x+3) x+5(x+3)=0, \\
+        (x+3)(3 x+5)=0, \\
+        x=-3 \text { lub } x=-\frac{5}{3} .
+        \end{gathered}
+        $$
+
+        Gdy $x=-3$, to $y=7 \cdot(-3)+\frac{50}{3}=-\frac{13}{3}$, a gdy $x=-\frac{5}{3}$, to $y=7 \cdot\left(-\frac{5}{3}\right)+\frac{50}{3}=5$.\\
+        Ponieważ obie współrzędne punktu $C$ są ujemne, więc $C=\left(-3,-\frac{13}{3}\right)$.
+
+        Niech $B=(x, y)$. Ponieważ $|B C|=|A C|=\frac{10}{3} \sqrt{10}$ i $|A B|=2 \cdot 2 \sqrt{10}=4 \sqrt{10}$, więc
+
+        $$
+        \begin{gathered}
+        |B C|^{2}=\frac{1000}{9} \text { i }|A B|^{2}=160 \\
+        (-3-x)^{2}+\left(-\frac{13}{3}-y\right)^{2}=\frac{1000}{9} \text { i }(x-7)^{2}+(y+1)^{2}=160 \\
+        x^{2}+y^{2}+6 x+\frac{26}{3} y-\frac{250}{3}=0 \text { i } x^{2}+y^{2}-14 x+2 y-110=0
+        \end{gathered}
+        $$
+
+        Stąd
+
+        $$
+        \begin{gathered}
+        x+\frac{1}{3} y+\frac{4}{3}=0 \text { i } x^{2}+y^{2}-14 x+2 y-110=0 \\
+        y=-3 x-4 \text { i } x^{2}+(-3 x-4)^{2}-14 x+2(-3 x-4)-110=0
+        \end{gathered}
+        $$
+
+        Drugie równanie możemy zapisać w postaci
+
+        $$
+        \begin{gathered}
+        10 x^{2}+4 x-102=0, \\
+        5 x^{2}+2 x-51=0 \\
+        \Delta=2^{2}-4 \cdot 5 \cdot(-51)=1024, \sqrt{\Delta}=32, \\
+        x=\frac{-2-32}{10}=-\frac{17}{5} \text { lub } x=\frac{-2+32}{10}=3,
+        \end{gathered}
+        $$
+
+        Gdy $x=-\frac{17}{5}$, to $y=-3 \cdot\left(-\frac{17}{5}\right)-4=\frac{31}{5}$, a gdy $x=3$, to $y=-3 \cdot 3-4=-13$.\\
+        Ponieważ punkt $B$ nie leży w czwartej ćwiartce układu wspórrzędnych, więc $B=\left(-\frac{17}{5}, \frac{31}{5}\right)$.
+    </tresc>
+</rozwiazanie>

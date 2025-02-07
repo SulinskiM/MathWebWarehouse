@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rozwiazanie>
+    <dotyczy>
+        <arkusz>F2_M_PR_M2018</arkusz>
+        <zadanie>7</zadanie>
+        <db_id></db_id>
+    </dotyczy>
+    <opis>
+        \section*{III sposób - równość promieni}
+    </opis>
+    <tresc>
+        <![CDATA[
+        Oznaczmy przez $O$ punkt przecięcia się dwusiecznych kątów trójkąta $A B C$, punkt wspólny dwusiecznej $d_{A}$ i odcinka $K L$ przez $P$, dwusiecznej $d_{C}$ i odcinka $L M$ przez $R$ oraz dwusiecznej $d_{B}$ i odcinka $M N$ przez $Q$.\\
+        \includegraphics[max width=\textwidth, center]{2025_02_07_a9ca9e8ec13abcca3690g-07}
+
+        Z definicji symetrii osiowej i z treści zadania wynika, że $|K P|=|L P|$ oraz $K L \perp A O$. Oznacza to, że trójkąty $O P K$ i $O P L$ są prostokątne, mają wspólną przyprostokątną $O P$ oraz pozostałe przyprostokątne są równej długości. Są to więc trójkąty przystające (na mocy cechy bkb przystawania trójkątów). Stąd wynika, że $|O L|=|O K|$. Analogicznie trójkąty $O R L$ i $O R M$ są przystające oraz trójkąty $O Q M$ i $O Q N$ są przystające, a w konsekwencji $|O L|=|O M|$ oraz $|O M|=|O N|$. Zatem punkt $O$ jest więc równooddalony od wszystkich wierzchołków czworokąta $K N M L$, a to oznacza, że na tym czworokącie można opisać okrąg.
+        ]]>
+    </tresc>
+</rozwiazanie>

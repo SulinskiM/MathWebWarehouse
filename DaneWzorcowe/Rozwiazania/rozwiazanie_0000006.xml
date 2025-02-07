@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rozwiazanie>
+    <dotyczy>
+        <arkusz>F2_M_PR_M2018</arkusz>
+        <zadanie>11</zadanie>
+        <db_id></db_id>
+    </dotyczy>
+    <opis>
+
+    </opis>
+    <tresc>
+        <![CDATA[
+        Przekształcamy równanie w sposób równoważny
+
+        $$
+        \begin{gathered}
+        \sin 6 x+\cos 3 x=2 \sin 3 x+1, \\
+        2 \sin 3 x \cos 3 x+\cos 3 x=2 \sin 3 x+1, \\
+        \cos 3 x(2 \sin 3 x+1)=2 \sin 3 x+1, \\
+        (2 \sin 3 x+1)(\cos 3 x-1)=0, \\
+        \sin 3 x=-\frac{1}{2} \text { lub } \cos 3 x=1,
+        \end{gathered}
+        $$
+
+        Stąd $3 x=\frac{7 \pi}{6}+2 k \pi$ lub $3 x=\frac{11 \pi}{6}+2 k \pi$ lub $3 x=2 k \pi, k-$ liczba całkowita.\\
+        Zatem $x=\frac{7 \pi}{18}+\frac{2 k \pi}{3}$ lub $x=\frac{11 \pi}{18}+\frac{2 k \pi}{3}$ lub $x=\frac{2 k \pi}{3}$.\\
+        W przedziale $\langle 0, \pi\rangle$ mamy następujące rozwiązania równania: $x=\frac{7 \pi}{18}, x=\frac{11 \pi}{18}, x=0, x=\frac{2 \pi}{3}$.
+        ]]>
+    </tresc>
+</rozwiazanie>

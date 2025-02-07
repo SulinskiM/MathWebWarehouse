@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rozwiazanie>
+    <dotyczy>
+        <arkusz>F2_M_PR_M2018</arkusz>
+        <zadanie>13</zadanie>
+        <db_id></db_id>
+    </dotyczy>
+    <opis>
+
+    </opis>
+    <tresc>
+        <![CDATA[
+        Niech $a_{1}$ będzie pierwszym wyrazem ciągu geometrycznego, zaś $q$ jego ilorazem.\\
+        Z treści zadania otrzymujemy układ równań:
+
+        $$
+        \begin{aligned}
+        & \left\{\begin{array}{l}
+        a_{1} q^{2}+a_{1} q^{5}=-84 \\
+        a_{1} q^{3}+a_{1} q^{6}=168
+        \end{array}\right. \\
+        & \left\{\begin{array}{l}
+        a_{1} q^{2}\left(1+q^{3}\right)=-84 \\
+        a_{1} q^{3}\left(1+q^{3}\right)=168
+        \end{array}\right.
+        \end{aligned}
+        $$
+
+        Dzieląc stronami te równania, co możemy zrobić, gdyż gdyby którakolwiek z liczb $a_{1}, q$, $1+q^{3}$ była równa 0 , to otrzymalibyśmy sprzeczność, otrzymujemy
+
+        $$
+        q=-2 .
+        $$
+
+        Zatem
+
+        $$
+        \begin{gathered}
+        a_{1}(-2)^{2}\left(1+(-2)^{3}\right)=-84, \\
+        -28 \cdot a_{1}=-84, \\
+        a_{1}=3 .
+        \end{gathered}
+        $$
+
+        Otrzymaliśmy ciąg geometryczny $\left(a_{n}\right)$, w którym:
+
+        $$
+        \left\{\begin{array}{l}
+        a_{1}=3 \\
+        q=-2
+        \end{array}\right.
+        $$
+
+        Wykorzystując wzór na sumę $n$ początkowych wyrazów ciągu geometrycznego, doprowadzamy do równania postaci
+
+        $$
+        \frac{3\left((-2)^{n}-1\right)}{-2-1}=32769
+        $$
+
+        Przekształcając to równanie, otrzymujemy $(-2)^{n}=-32768$. Ponieważ $(-2)^{n}=(-2)^{15}$, więc $n=15$.
+        ]]>
+    </tresc>
+</rozwiazanie>

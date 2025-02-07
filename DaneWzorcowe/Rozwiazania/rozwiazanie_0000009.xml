@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rozwiazanie>
+    <dotyczy>
+        <arkusz>F2_M_PR_M2018</arkusz>
+        <zadanie>7</zadanie>
+        <db_id></db_id>
+    </dotyczy>
+    <opis>
+        \section*{II sposób - symetralne}
+    </opis>
+    <tresc>
+        <![CDATA[
+        \begin{center}
+        \includegraphics[max width=\textwidth]{2025_02_07_a9ca9e8ec13abcca3690g-06}
+        \end{center}
+
+        Rozważmy trójkąt $K L M$. Z definicji symetrii osiowej wynika, że dwusieczna $d_{A}$ jest symetralną boku $K L$. Analogicznie dwusieczna $d_{C}$ jest symetralną boku LM. Symetralne boków trójkąta przecinają się w jednym punkcie, który jest środkiem okręgu opisanego na tym trójkącie - oznaczmy go przez $O$. Czyli punkt wspólny dwusiecznych $d_{A}$ i $d_{C}$ (symetralnych boków trójkąta $K L M$ ) jest środkiem okręgu, którego promieniem jest w szczególności odcinek $O L$.\\
+        Podobnie rozważmy trójkąt $L M N$. Z definicji symetrii osiowej wynika, że dwusieczna $d_{C}$ jest symetralną boku $L M$. Analogicznie dwusieczna $d_{B}$ jest symetralną boku $M N$. Punkt wspólny tych dwusiecznych (symetralnych) jest tym samym punktem, o którym była mowa wyżej i jest oczywiście środkiem okręgu opisanego na trójkącie $L M N$. Zatem musi to być ten sam okrąg. Wszystkie wierzchołki czworokąta KNML leżą na tym okręgu. To kończy dowód.
+        ]]>
+    </tresc>
+</rozwiazanie>

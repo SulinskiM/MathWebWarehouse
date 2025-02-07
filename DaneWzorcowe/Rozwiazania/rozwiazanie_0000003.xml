@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rozwiazanie>
+    <dotyczy>
+        <arkusz>F2_M_PR_M2018</arkusz>
+        <zadanie>15</zadanie>
+        <db_id></db_id>
+    </dotyczy>
+    <opis>
+
+    </opis>
+    <tresc>
+        <![CDATA[
+        Przyjmijmy oznaczenia jak na rysunku.\\
+        \includegraphics[max width=\textwidth, center]{2025_02_07_a9ca9e8ec13abcca3690g-31}
+
+        Wyznaczmy dziedzinę funkcji $L$. Z warunków zadania wynika, że $a>h$, więc $a>2-a$. Stąd $a>1$. Jeśli $a=1$, to czworokąt jest kwadratem. Ponadto $a<2$. Jeśli $a=2$, to $h=0$ i zamiast trapezu mamy do czynienia z odcinkiem o długości 2.\\
+        Rozważany trapez istnieje jedynie dla $a \in(1,2)$.\\
+        Z warunków zadania otrzymujemy
+
+        $$
+        a+h=2, \operatorname{skąd} h=2-a \text {. }
+        $$
+
+        Ponieważ w trapez można wpisać okrąg, więc
+
+        $$
+        a+b=2 c .
+        $$
+
+        Obwód $L$ trapezu jest więc równy
+
+        $$
+        L=a+b+2 c=2(a+b) .
+        $$
+
+        Trapez jest równoramienny, więc odcinki $A E$ i $F B$ mają tę samą długość równą
+
+        $$
+        p=\frac{a-b}{2} .
+        $$
+
+        Z twierdzenia Pitagorasa dla trójkąta $B C F$ otrzymujemy
+
+        $$
+        \begin{aligned}
+        p^{2}+h^{2} & =c^{2}, \\
+        \left(\frac{a-b}{2}\right)^{2}+h^{2} & =\left(\frac{a+b}{2}\right)^{2}, \\
+        \frac{a^{2}}{4}-\frac{a b}{2}+\frac{b^{2}}{4}+h^{2} & =\frac{a^{2}}{4}+\frac{a b}{2}+\frac{b^{2}}{4}, \\
+        h^{2} & =a b, \\
+        (2-a)^{2} & =a b,
+        \end{aligned}
+        $$
+
+        $$
+        b=\frac{(2-a)^{2}}{a}=\frac{a^{2}-4 a+4}{a} .
+        $$
+
+        Zatem
+
+        $$
+        L=a+b+2 c=2(a+b)=2\left(a+\frac{a^{2}-4 a+4}{a}\right)=2 \cdot \frac{2 a^{2}-4 a+4}{a},
+        $$
+
+        czyli
+
+        $$
+        L(a)=\frac{4 a^{2}-8 a+8}{a} \text { dla } a \in(1,2) .
+        $$
+
+        Pochodna funkcji $L$ jest równa\\
+        $L^{\prime}(a)=\frac{(8 a-8) \cdot a-\left(4 a^{2}-8 a+8\right) \cdot 1}{a^{2}}=\frac{4 a^{2}-8}{a^{2}}=\frac{4(a-\sqrt{2})(a+\sqrt{2})}{a^{2}}$ dla $a \in(1,2)$.\\
+        Ponieważ dla każdego $a \in(1,2)$ prawdziwa jest nierówność $\frac{4(a+\sqrt{2})}{a^{2}}>0$, więc\\
+        $L^{\prime}(a)=0 \Leftrightarrow a-\sqrt{2}=0 \wedge a \in(1,2) \Leftrightarrow a=\sqrt{2}$,\\
+        $L^{\prime}(a)>0 \Leftrightarrow a-\sqrt{2}>0 \wedge a \in(1,2) \Leftrightarrow a \in(\sqrt{2}, 2)$,\\
+        $L^{\prime}(a)<0 \Leftrightarrow a-\sqrt{2}<0 \wedge a \in(1,2) \Leftrightarrow a \in(1, \sqrt{2})$.\\
+        Oznacza to, że w przedziale $(1, \sqrt{2}\rangle$ funkcja $L$ jest malejąca, w przedziale $\langle\sqrt{2}, 2)$ jest rosnąca, a w punkcie $a=\sqrt{2}$ osiąga minimum lokalne, które jest zarazem jej najmniejszą wartością.\\
+        Tangens kąta ostrego trapezu o najmniejszym obwodzie jest równy
+
+        $$
+        \operatorname{tg} \Varangle A B C=\frac{h}{p}=\frac{2-a}{\frac{a-b}{2}}=\frac{2(2-a)}{a-\frac{a^{2}-4 a+4}{a}}=\frac{a(a-2)}{2(1-a)},
+        $$
+
+        więc dla $a=\sqrt{2}$ wartość tangensa jest równa
+
+        $$
+        \operatorname{tg} \Varangle A B C=\frac{\sqrt{2}(\sqrt{2}-2)}{2(1-\sqrt{2})}=\frac{2-2 \sqrt{2}}{2-2 \sqrt{2}}=1,
+        $$
+
+        co oznacza, że $\Varangle A B C=45^{\circ}$.
+        ]]>
+    </tresc>
+</rozwiazanie>
