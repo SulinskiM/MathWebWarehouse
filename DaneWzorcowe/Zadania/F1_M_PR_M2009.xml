@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL>https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2008-2/</sourceFileURL>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PR_M2009</filename>
+    <name>CKE maj  2009, formuła F1 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2008</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F1_KR_PR_M2008</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Funkcja liniowa \(f\) określona jest wzorem \(f(x)=a x+b\) dla \(x \in R\).</br>  a) Dla \(a=2008\) i \(b=2009\) zbadaj, czy do wykresu tej funkcji należy punkt \(P=\left(2009,2009^{2}\right)\).</br>  b) Narysuj w układzie współrzędnych zbiór  \[  A=\left\{(x, y): x \in\langle-1,3\rangle \text { i } y=-\frac{1}{2} x+b \text { i } b \in\langle-2,1\rangle\right\} .  \] ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja liniowa</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="2" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Przy dzieleniu wielomianu \(W(x)\) przez dwumian \((x-1)\) otrzymujemy iloraz \(Q(x)=8 x^{2}+4 x-14\) oraz resztę \(R(x)=-5\). Oblicz pierwiastki wielomianu \(W(x)\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Liczenie miejsc zerowych</tag>
+        <tag>Podzielność wielomianów</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Na rysunku przedstawiony jest wykres funkcji wykładniczej \(f(x)=a^{x}\) dla \(x \in R\).</br>  </br><img src="/static/zbiorzadan/images/2024_11_21_8bf32a7596bd08ca7a9fg-04.jpg" alt="Opis obrazka" /></br></br>  a) Oblicz \(a\).</br>  b) Narysuj wykres funkcji \(g(x)=|f(x)-2|\) i podaj wszystkie wartości parametru \(m \in R\), dla których równanie \(g(x)=m\) ma dokładnie jedno rozwiązanie.</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje wykładnicze</dzial>
+      </działy>
+      <tagi>
+        <tag>W zależności od parametru ilość rozwiązań</tag>
+        <tag>Przekształcenia funkcji</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W skarbcu królewskim było \(k\) monet. Pierwszego dnia rano skarbnik dorzucił 25 monet, a każdego następnego ranka dorzucał o 2 monety więcej niż dnia poprzedniego. Jednocześnie ze skarbca król zabierał w południe każdego dnia 50 monet. Oblicz najmniejszą liczbę \(k\), dla której w każdym dniu w skarbcu była co najmniej jedna moneta, a następnie dla tej wartości \(k\) oblicz, w którym dniu w skarbcu była najmniejsza liczba monet.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Ciąg arytmetyczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wykaż, że jeżeli \(A=3^{4 \sqrt{2}+2}\) i \(B=3^{2 \sqrt{2}+3}\), to \(B=9 \sqrt{A}\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Matematyka elementarna</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód</tag>
+        <tag>Potęgi</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz dziedzinę funkcji \(f(x)=\log _{2 \cos x}\left(9-x^{2}\right)\) i zapisz ją w postaci sumy przedziałów liczbowych.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje logarytmiczne</dzial>
+      </działy>
+      <tagi>
+        <tag>Dziedzina funkcji</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Ciag \((x-3, x+3,6 x+2, \ldots)\) jest nieskończonym ciagiem geometrycznym o wyrazach dodatnich. Oblicz iloraz tego ciagu i uzasadnij, że \(\frac{S_{19}}{S_{20}}<\frac{1}{4}\), gdzie \(S_{n}\) oznacza sumę \(n\) początkowych wyrazów tego ciagu.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Ciąg geometryczny</tag>
+        <tag>Szereg geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dwa okręgi o środkach \(A\) i \(B\) są styczne zewnętrznie i każdy z nich jest jednocześnie styczny do ramion tego samego kąta prostego (patrz rysunek). Udowodnij, że stosunek promienia większego z tych okręgów do promienia mniejszego jest równy \(3+2 \sqrt{2}\).</br>  </br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="9" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W układzie współrzędnych narysuj okrag o równaniu \((x+2)^{2}+(y-3)^{2}=4\) oraz zaznacz punkt \(A=(0,-1)\). Prosta o równaniu \(x=0\) jest jedną ze stycznych do tego okręgu przechodzących przez punkt \(A\). Wyznacz równanie drugiej stycznej do tego okręgu, przechodzacej przez punkt \(A\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W urnie znajdują się jedynie kule białe i czarne. Kul białych jest trzy razy więcej niż czarnych. Oblicz, ile jest kul w urnie, jeśli przy jednoczesnym losowaniu dwóch kul prawdopodobieństwo otrzymania kul o różnych kolorach jest większe od \(\frac{9}{22}\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadania z kulami</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest ostrosłup prawidłowy trójkatny, w którym krawędź podstawy ma długość a i krawędź boczna jest od niej dwa razy dłuższa. Oblicz cosinus kąta między krawędzią boczna i krawędzią podstawy ostrosłupa. Narysuj przekrój ostrosłupa płaszczyzną przechodzaca przez krawędź podstawy i środek przeciwległej krawędzi bocznej i oblicz pole tego przekroju.</br>  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+  </zadania>
+</zasob>

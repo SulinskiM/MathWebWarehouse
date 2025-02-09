@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL>https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2009-2/maj-2009/</sourceFileURL>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PP_M2009</filename>
+    <name>CKE maj  2009, formuła F1 - poziom podstawowy</name>
+    <description/>
+    <poziom>Poziom podstawowy</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2009</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F1_KR_PP_M2009</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Funkcja \(f\) określona jest wzorem \(f(x)=\left\{\begin{aligned} 2 x-3 & \text { dla } x<2 </br> 1 & \text { dla } 2 \leq x \leq 4\end{aligned}\right.\)</br>  a) Uzupełnij tabelę:  b) Narysuj wykres funkcji \(f\).</br>  c) Podaj wszystkie liczby całkowite \(x\), spełniające nierówność \(f(x) \geq-6\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje i jej właściwości</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="2" punkty="3" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dwaj rzemieślnicy przyjęli zlecenie wykonania wspólnie 980 detali. Zaplanowali, że każdego dnia pierwszy z nich wykona \(m\), a drugi \(n\) detali. Obliczyli, że razem wykonają zlecenie w ciagu 7 dni. Po pierwszym dniu pracy pierwszy z rzemieślników rozchorował się i wtedy drugi, aby wykonać całe zlecenie, musiał pracować o 8 dni dłużej niż planował, (nie zmieniając liczby wykonywanych codziennie detali). Oblicz \(m\) i \(n\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Inne - niezdefiniowana</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Wykres funkcji \(f\) danej wzorem \(f(x)=-2 x^{2}\) przesunięto wzdłuż osi \(O x\) o 3 jednostki w prawo oraz wzdłuż osi \(O y\) o 8 jednostek w góre, otrzymując wykres funkcji \(g\).</br>  a) Rozwiąz nierówność \(f(x)+5<3 x\).</br>  b) Podaj zbiór wartości funkcji \(g\).</br>  c) Funkcja \(g\) określona jest wzorem \(g(x)=-2 x^{2}+b x+c\). Oblicz \(b\) i \(c\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Przekształcenia funkcji</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="3" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Wykaż, że liczba \(3^{54}\) jest rozwiązaniem równania \(243^{11}-81^{14}+7 x=9^{27}\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Matematyka elementarna</dzial>
+      </działy>
+      <tagi>
+        <tag>Równanie</tag>
+        <tag>Dowód</tag>
+        <tag>Potęgi</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Wielomian \(W\) dany jest wzorem \(W(x)=x^{3}+a x^{2}-4 x+b\).</br>  a) Wyznacz \(a, b\) oraz \(c\) tak, aby wielomian \(W\) był równy wielomianowi \(P\), gdy \(P(x)=x^{3}+(2 a+3) x^{2}+(a+b+c) x-1\).</br>  b) Dla \(a=3\) i \(b=0\) zapisz wielomian \(W\) w postaci iloczynu trzech wielomianów stopnia pierwszego. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Rozkładanie wielomianu na czynniki</tag>
+        <tag>Równość wielomianów</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Miara jednego z kątów ostrych w trójkącie prostokątnym jest równa \(\alpha\).</br>  a) Uzasadnij, że spełniona jest nierówność \(\sin \alpha-\operatorname{tg} \alpha<0\).</br>  b) Dla \(\sin \alpha=\frac{2 \sqrt{2}}{3}\) oblicz wartość wyrażenia \(\cos ^{3} \alpha+\cos \alpha \cdot \sin ^{2} \alpha\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Trygonometria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="7" punkty="6" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dany jest ciag arytmetyczny \(\left(a_{n}\right)\) dla \(n \geq 1\), w którym \(a_{7}=1, a_{11}=9\).</br>  a) Oblicz pierwszy wyraz \(a_{1}\) i różnicę \(r\) ciągu \(\left(a_{n}\right)\).</br>  b) Sprawdź, czy ciąg \(\left(a_{7}, a_{8}, a_{11}\right)\) jest geometryczny.</br>  c) Wyznacz takie \(n\), aby suma \(n\) początkowych wyrazów ciagu \(\left(a_{n}\right)\) miała wartość najmniejsza.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Ciąg geometryczny</tag>
+        <tag>Zadanie optymalizacyjne</tag>
+        <tag>Ciąg arytmetyczny</tag>
+        <tag>Zależność między kolejnymi wyrazami ciągu</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[W trapezie \(A B C D\) długość podstawy \(C D\) jest równa 18, a długości ramion trapezu \(A D\) i \(B C\) są odpowiednio równe 25 i 15 . Kąty \(A D B\) i \(D C B\), zaznaczone na rysunku, mają równe miary. Oblicz obwód tego trapezu.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="9" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Punkty \(B=(0,10)\) i \(O=(0,0)\) są wierzchołkami trójkąta prostokątnego \(O A B\), w którym \(|\angle O A B|=90^{\circ}\). Przyprostokątna \(O A\) zawiera się w prostej o równaniu \(y=\frac{1}{2} x\). Oblicz współrzędne punktu \(A\) i długość przyprostokątnej \(O A\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="10" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Tabela przedstawia wyniki części teoretycznej egzaminu na prawo jazdy. Zdający uzyskał wynik pozytywny, jeżeli popełnił co najwyżej dwa błędy.  a) Oblicz średnią arytmetyczną liczby błędów popełnionych przez zdających ten egzamin. Wynik podaj w zaokragleniu do całości.</br>  b) Oblicz prawdopodobieństwo, że wśród dwóch losowo wybranych zdających tylko jeden uzyskał wynik pozytywny. Wynik zapisz w postaci ułamka zwykłego nieskracalnego.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+        <dzial>Statystyka</dzial>
+      </działy>
+      <tagi>
+        <tag>Średnia arytmetyczna</tag>
+        <tag>Prawdopodobieństwo</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Powierzchnia boczna walca po rozwinięciu na płaszczyznę jest prostokątem. Przekątna tego prostokąta ma długość 12 i tworzy z bokiem, którego długość jest równa wysokości walca, kat o mierze \(30^{\circ}\).</br>  a) Oblicz pole powierzchni bocznej tego walca.</br>  b) Sprawdź, czy objętość tego walca jest większa od \(18 \sqrt{3}\). Odpowiedź uzasadnij.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Walec</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>
