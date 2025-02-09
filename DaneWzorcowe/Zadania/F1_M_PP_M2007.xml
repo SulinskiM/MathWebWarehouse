@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL>https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2007-2/maj-2007/</sourceFileURL>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PP_M2007</filename>
+    <name>CKE maj  2007, formuła F1 - poziom podstawowy</name>
+    <description/>
+    <poziom>Poziom podstawowy</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2007</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+    <zalaczniki>
+    <zalacznik>F1_KR_PP_M2007</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Znajdź wzór funkcji kwadratowej \(y=f(x)\), której wykresem jest parabola o wierzchołku \((1,-9)\) przechodząca przez punkt o współrzędnych \((2,-8)\). Otrzymaną funkcję przedstaw w postaci kanonicznej. Oblicz jej miejsca zerowe i naszkicuj wykres.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Liczenie miejsc zerowych</tag>
+        <tag>Rysowanie wykresu funkcji</tag>
+        <tag>Funkcja kwadratowa</tag>
+        <tag>Wyznaczanie wzoru funkcji</tag>
+        <tag>Postać kanoniczna</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="3" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Wysokość prowizji, którą klient płaci w pewnym biurze maklerskim przy każdej zawieranej transakcji kupna lub sprzedaży akcji jest uzależniona od wartości transakcji. Zależność ta została przedstawiona w tabeli:  Klient zakupił za pośrednictwem tego biura maklerskiego 530 akcji w cenie \(25 \mathrm{zł}\) za jedna akcje. Po roku sprzedał wszystkie kupione akcje po 45 zł za jedną sztukę. Oblicz, ile zarobił na tych transakcjach po uwzględnieniu prowizji, które zapłacił.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>NIEZDEFINIOWANE</dzial>
+      </działy>
+      <tagi>
+        <tag>Brak</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Korzystając z danych przedstawionych na rysunku, oblicz wartość wyrażenia:</br>  \(\operatorname{tg}^{2} \beta-5 \sin \beta \cdot \operatorname{ctg} \alpha+\sqrt{1-\cos ^{2} \alpha}\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Trygonometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Liczenie funkcji trygonometrycznyc trójkąta prostokątnego</tag>
+        <tag>Wartość wyrażenia</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Samochód przebył w pewnym czasie 210 km . Gdyby jechał ze średnią prędkością o \(10 \mathrm{~km} / \mathrm{h}\) większa, to czas przejazdu skróciłby się o pół godziny. Oblicz, z jaką średnią prędkością jechał ten samochód.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Inne - niezdefiniowana</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Prędkość</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dany jest ciagg arytmetyczny \(\left(a_{n}\right)\), gdzie \(n \geq 1\). Wiadomo, że dla każdego \(n \geq 1\) suma \(n\) początkowych wyrazów \(S_{n}=a_{1}+a_{2}+\ldots+a_{n}\) wyraża się wzorem: \(S_{n}=-n^{2}+13 n\).</br>  a) Wyznacz wzór na \(n\)-ty wyraz ciagu \(\left(a_{n}\right)\).</br>  b) Oblicz \(a_{2007}\).</br>  c) Wyznacz liczbę \(n\), dla której \(a_{n}=0\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Suma ciągu arytmetycznego</tag>
+        <tag>Ciąg arytmetyczny</tag>
+        <tag>Równanie</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dany jest wielomian \(W(x)=2 x^{3}+a x^{2}-14 x+b\).</br>  a) Dla \(a=0\) i \(b=0\) otrzymamy wielomian \(W(x)=2 x^{3}-14 x\). Rozwiąż równanie \(2 x^{3}-14 x=0\).</br>  b) Dobierz wartości \(a\) i \(b\) tak, aby wielomian \(W(x)\) był podzielny jednocześnie przez \(x-2\) oraz przez \(x+3\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Podzielność wielomianu przez dwumian</tag>
+        <tag>Równanie</tag>
+        <tag>Wielomian</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dany jest punkt \(C=(2,3)\) i prosta o równaniu \(y=2 x-8\) będąca symetralną odcinka \(B C\).</br>  Wyznacz współrzędne punktu \(B\). Wykonaj obliczenia uzasadniające odpowiedź.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Symetralna odcinka</tag>
+        <tag>Wyznaczanie współrzędnych punktu</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Na stole leżało 14 banknotów: 2 banknoty o nominale \(100 \mathrm{zł}, 2\) banknoty o nominale \(50 \mathrm{zł}\) i 10 banknotów o nominale \(20 \mathrm{zł}\). Wiatr zdmuchnął na podłogę 5 banknotów. Oblicz prawdopodobieństwo tego, że na podłodze leży dokładnie \(130 \mathrm{zł}\). Odpowiedź podaj w postaci ułamka nieskracalnego.</br>]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Zadanie z nominałami</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="6" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Oblicz pole czworokąta wypukłego \(A B C D\), w którym kąty wewnętrzne mają odpowiednio miary: \(\angle A=90^{\circ}, \angle B=75^{\circ}, \angle C=60^{\circ}, \angle D=135^{\circ}\), a boki \(A B\) i \(A D\) mają długość 3 cm . Sporządź rysunek pomocniczy.</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Pole</tag>
+        <tag>Czworokąt</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dany jest graniastosłup czworokatny prosty ABCDEFGH o podstawach ABCD i EFGH oraz krawędziach bocznych \(A E, B F, C G, D H\). Podstawa \(A B C D\) graniastosłupa jest rombem o boku długości 8 cm i kątach ostrych \(A\) i \(C\) o mierze \(60^{\circ}\). Przekątna graniastosłupa \(C E\) jest nachylona do płaszczyzny podstawy pod kątem \(60^{\circ}\). Sporządź rysunek pomocniczy i zaznacz na nim wymienione w zadaniu kąty. Oblicz objętość tego graniastosłupa.</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Objętość</tag>
+        <tag>Kąt między prostą a płaszczyzną</tag>
+        <tag>Graniastosłup czworokątny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dany jest rosnący ciag geometryczny \(\left(a_{n}\right)\) dla \(n \geq 1\), w którym \(a_{1}=x, a_{2}=14, a_{3}=y\). Oblicz \(x\) oraz \(y\), jeżeli wiadomo, że \(x+y=35\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Ciąg geometryczny</tag>
+        <tag>Zależność między kolejnymi wyrazami ciągu</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

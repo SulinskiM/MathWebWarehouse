@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL>https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2007-2/maj-2007/</sourceFileURL>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PR_M2007</filename>
+    <name>CKE maj  2007, formuła F1 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2007</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F1_KR_PR_M2007</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dana jest funkcja \(f(x)=|x-1|-|x+2|\) dla \(x \in R\).</br>  a) Wyznacz zbiór wartości funkcji \(f\) dla \(x \in(-\infty,-2)\).</br>  b) Naszkicuj wykres tej funkcji.</br>  c) Podaj jej miejsca zerowe.</br>  d) Wyznacz wszystkie wartości parametru \(m\), dla których równanie \(f(x)=m\) nie ma rozwiązania.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje z wartością bezwględną</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Liczenie miejsc zerowych</tag>
+        <tag>Wartość bezwględna</tag>
+        <tag>Rysowanie wykresu funkcji</tag>
+        <tag>Zbiór wartości funkcji</tag>
+        <tag>W zależności od parametru ilość rozwiązań</tag>
+        <tag>Niezależne wartości bezwględne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż nierówność: \(\log _{\frac{1}{3}}\left(x^{2}-1\right)+\log _{\frac{1}{3}}(5-x)>\log _{\frac{1}{3}}(3(x+1))\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje logarytmiczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Logarytmy</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Kapsuła lądownika ma kształt stożka zakończonego w podstawie półkulą o tym samym promieniu co promień podstawy stożka. Wysokość stożka jest o 1 m większa niż promień półkuli. Objętość stożka stanowi \(\frac{2}{3}\) objętości całej kapsuły. Oblicz objętość kapsuły lądownika.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Objętość</tag>
+        <tag>Stożek</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest trójkąt o bokach długości \(1, \frac{3}{2}, 2\). Oblicz cosinus i sinus kąta leżącego naprzeciw najkrótszego boku tego trójkąta.  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\)</br>  \(\qquad\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Trójkąt</tag>
+        <tag>Twierdzenie cosinusow</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wierzchołki trójkąta równobocznego \(A B C\) są punktami paraboli \(y=-x^{2}+6 x\). Punkt \(C\) jest jej wierzchołkiem, a bok \(A B\) jest równoległy do osi Ox. Sporządź rysunek w układzie współrzędnych i wyznacz współrzędne wierzchołków tego trójkąta.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Wyznaczanie współrzędnych punktu</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Niech \(A, B\) będą zdarzeniami o prawdopodobieństwach \(P(A)\) i \(P(B)\). Wykaż, że jeżeli \(P(A)=0,85\) i \(P(B)=0,75\), to prawdopodobieństwo warunkowe spełnia nierówność \(P(A \mid B) \geq 0,8\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Prawdopodobieństwo warunkowe</tag>
+        <tag>Własności prawdopodobieństwa</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest układ równań: \(\left\{\begin{array}{l}m x-y=2 </br> x+m y=m\end{array}\right.\)</br>  Dla każdej wartości parametru \(m\) wyznacz parę liczb \((x, y)\), która jest rozwiązaniem tego układu równań. Wyznacz najmniejszą wartość sumy \(x+y\) dla \(m \in\langle 2,4\rangle\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dana jest funkcja \(f\) określona wzorem \(f(x)=\frac{\sin ^{2} x-|\sin x|}{\sin x}\) dla \(x \in(0, \pi) \cup(\pi, 2 \pi)\).</br>  a) Naszkicuj wykres funkcji \(f\).</br>  b) Wyznacz miejsca zerowe funkcji \(f\).</br>  </br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+      </działy>
+      <tagi>
+        <tag>Liczenie miejsc zerowych</tag>
+        <tag>Wartość bezwględna</tag>
+        <tag>Rysowanie wykresu funkcji</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Przedstaw wielomian \(W(x)=x^{4}-2 x^{3}-3 x^{2}+4 x-1\) w postaci iloczynu dwóch wielomianów stopnia drugiego o współczynnikach całkowitych i takich, że współczynniki przy drugich potęgach są równe jeden.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Rozkładanie wielomianu na czynniki</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Na kole opisany jest romb. Stosunek pola koła do pola rombu wynosi \(\frac{\pi \sqrt{3}}{8}\). Wyznacz miarę kąta ostrego rombu.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Okrąg wpisany w czworokąt</tag>
+        <tag>Wyznaczanie kąta figury</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Suma \(n\) początkowych wyrazów ciagu arytmetycznego \(\left(a_{n}\right)\) wyraża się wzorem \(S_{n}=2 n^{2}+n\) dla \(n \geq 1\).</br>  a) Oblicz sumę 50 początkowych wyrazów tego ciagu o numerach parzystych: \(a_{2}+a_{4}+a_{6}+\ldots+a_{100}\).</br>  b) Oblicz \(\lim _{n \rightarrow \infty} \frac{S_{n}}{3 n^{2}-2}\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Granica</tag>
+        <tag>Suma ciągu arytmetycznego</tag>
+        <tag>Ciąg arytmetyczny</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>
