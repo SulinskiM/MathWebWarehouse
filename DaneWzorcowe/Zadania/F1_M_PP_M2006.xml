@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL>https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2006-2/maj-2006/</sourceFileURL>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PP_M2006</filename>
+    <name>CKE maj  2006, formuła F1 - poziom podstawowy</name>
+    <description/>
+    <poziom>Poziom podstawowy</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2006</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F1_KR_PP_M2006</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="3" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dane są zbiory: \(A=\{x \in R:|x-4| \geq 7\}, B=\left\{x \in R: x^{2}>0\right\}\). Zaznacz na osi liczbowej:</br>  a) zbiór \(A\),</br>  b) zbiór \(B\),</br>  c) zbiór \(C=B \backslash A\).</br>  a)</br>  </br><img src="/static/zbiorzadan/images/2024_11_21_99a977d92f90f1d0fb7fg-02(2).jpg" alt="Opis obrazka" /></br></br>  b)</br>  </br><img src="/static/zbiorzadan/images/2024_11_21_99a977d92f90f1d0fb7fg-02(1).jpg" alt="Opis obrazka" /></br></br>  c)</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Matematyka elementarna</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Wartość bezwględna</tag>
+        <tag>Działania na przedziałach</tag>
+        <tag>Zbiory</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="3" poziom="PP" db_id="-1">
+      <tresc><![CDATA[W wycieczce szkolnej bierze udział 16 uczniów, wśród których tylko czworo zna okolicę. Wychowawca chce wybrać w sposób losowy 3 osoby, które mają pójść do sklepu. Oblicz prawdopodobieństwo tego, że wśród wybranych trzech osób będą dokładnie dwie znające okolicę.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Kostka masła produkowanego przez pewien zakład mleczarski ma nominalną mase 20 dag. W czasie kontroli zakładu zważono 150 losowo wybranych kostek masła. Wyniki badań przedstawiono w tabeli.  a) Na podstawie danych przedstawionych w tabeli oblicz średnią arytmetyczną oraz odchylenie standardowe masy kostki masła.</br>  b) Kontrola wypada pozytywnie, jeśli średnia masa kostki masła jest równa masie nominalnej i odchylenie standardowe nie przekracza 1 dag. Czy kontrola zakładu wypadła pozytywnie? Odpowiedź uzasadnij.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Statystyka</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Odchylenie standardowe</tag>
+        <tag>Brak</tag>
+        <tag>Średnia arytmetyczna</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dany jest rosnący ciag geometryczny, w którym \(a_{1}=12, a_{3}=27\).</br>  a) Wyznacz iloraz tego ciagu.</br>  b) Zapisz wzór, na podstawie którego można obliczyć wyraz \(a_{n}\), dla każdej liczby naturalnej \(n \geq 1\).</br>  c) Oblicz wyraz \(a_{6}\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Ciąg geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="3" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Wiedząc, że \(0^{\circ} \leq \alpha \leq 360^{\circ}, \sin \alpha<0\) oraz \(4 \operatorname{tg} \alpha=3 \sin ^{2} \alpha+3 \cos ^{2} \alpha\)</br>  a) oblicz \(\operatorname{tg} \alpha\),</br>  b) zaznacz w układzie współrzędnych kąt \(\alpha\) i podaj współrzędne dowolnego punktu, różnego od początku układu współrzędnych, który leży na końcowym ramieniu tego kąta.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Trygonometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Przechodzenie między funkcjami trygonometrycznymi</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="7" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Państwo Nowakowie przeznaczyli 26000 zł na zakup działki. Do jednej z ofert dołączono rysunek dwóch przylegających do siebie działek w skali 1:1000. Jeden metr kwadratowy gruntu w tej ofercie kosztuje 35 zł. Oblicz, czy przeznaczona przez państwa Nowaków kwota wystarczy na zakup działki \(P_{2}\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Podobieństwo pól</tag>
+        <tag>Skala</tag>
+        <tag>Trójkąt prostokątny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Szkic przedstawia kanał ciepłowniczy, którego przekrój poprzeczny jest prostokątem. Wewnątrz kanału znajduje się rurociąg składający się z trzech rur, każda o średnicy zewnętrznej 1 m . Oblicz wysokość i szerokość kanału ciepłowniczego. Wysokość zaokraglij do \(0,01 \mathrm{~m}\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Okręgi wpisane w figurę</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dana jest funkcja \(f(x)=-x^{2}+6 x-5\).</br>  a) Naszkicuj wykres funkcji \(f\) i podaj jej zbiór wartości.</br>  b) Podaj rozwiązanie nierówności \(f(x) \geq 0\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Rysowanie wykresu funkcji</tag>
+        <tag>Funkcja kwadratowa</tag>
+        <tag>Zbiór wartości funkcji</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="6" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dach wieży ma kształt powierzchni bocznej ostrosłupa prawidłowego czworokątnego, którego krawędź podstawy ma długość 4 m . Ściana boczna tego ostrosłupa jest nachylona do płaszczyzny podstawy pod kątem \(60^{\circ}\).</br>  a) Sporządź pomocniczy rysunek i zaznacz na nim podane w zadaniu wielkości.</br>  b) Oblicz, ile sztuk dachówek należy kupić, aby pokryć ten dach, wiedząc, że do pokrycia \(1 \mathrm{~m}^{2}\) potrzebne są 24 dachówki. Przy zakupie należy doliczyć \(8 \%\) dachówek na zapas.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Ostrosłup prawidłowy czworokątny</tag>
+        <tag>Kąt dwuścienny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="6" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Liczby 3 i -1 są pierwiastkami wielomianu \(W(x)=2 x^{3}+a x^{2}+b x+30\).</br>  a) Wyznacz wartości współczynników \(a\) i \(b\).</br>  b) Oblicz trzeci pierwiastek tego wielomianu.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Liczenie miejsc zerowych</tag>
+        <tag>Wielomian</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="3" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Sumę \(S=\frac{3}{1 \cdot 4}+\frac{3}{4 \cdot 7}+\frac{3}{7 \cdot 10}+\ldots+\frac{3}{301 \cdot 304}+\frac{3}{304 \cdot 307}\) można obliczyć w następujący sposób:</br>  a) sumę \(S\) zapisujemy w postaci  \[  S=\frac{4-1}{4 \cdot 1}+\frac{7-4}{7 \cdot 4}+\frac{10-7}{10 \cdot 7}+\ldots+\frac{304-301}{304 \cdot 301}+\frac{307-304}{307 \cdot 304}  \]  b) każdy składnik tej sumy przedstawiamy jako różnicę ułamków  \[  \begin{gathered}  S=\left(\frac{4}{4 \cdot 1}-\frac{1}{4 \cdot 1}\right)+\left(\frac{7}{7 \cdot 4}-\frac{4}{7 \cdot 4}\right)+\left(\frac{10}{10 \cdot 7}-\frac{7}{10 \cdot 7}\right)+\ldots+\left(\frac{304}{304 \cdot 301}-\frac{301}{304 \cdot 301}\right)+\left(\frac{307}{307 \cdot 304}-\frac{304}{307 \cdot 304}\right) </br>  stąd S=\left(1-\frac{1}{4}\right)+\left(\frac{1}{4}-\frac{1}{7}\right)+\left(\frac{1}{7}-\frac{1}{10}\right)+\ldots+\left(\frac{1}{301}-\frac{1}{304}\right)+\left(\frac{1}{304}-\frac{1}{307}\right) </br>  \quad \text { więc } S=1-\frac{1}{4}+\frac{1}{4}-\frac{1}{7}+\frac{1}{7}-\frac{1}{10}+\ldots+\frac{1}{301}-\frac{1}{304}+\frac{1}{304}-\frac{1}{307}  \end{gathered}  \]  c) obliczamy sumę, redukując parami wyrazy sąsiednie, poza pierwszym i ostatnim \(S=1-\frac{1}{307}=\frac{306}{307}\).</br>  Postępując w analogiczny sposób, oblicz sumę \(S_{1}=\frac{4}{1 \cdot 5}+\frac{4}{5 \cdot 9}+\frac{4}{9 \cdot 13}+\ldots+\frac{4}{281 \cdot 285}\).]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>NIEZDEFINIOWANE</dzial>
+      </działy>
+      <tagi>
+        <tag>Niezdefiniowane</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

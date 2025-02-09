@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL>https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2006-2/maj-2006/</sourceFileURL>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PR_M2006</filename>
+    <name>CKE maj  2006, formuła F1 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2006</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki/>
+  <zadania>
+    <zadanie numer="12" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Korzystając z zasady indukcji matematycznej wykaż, że dla każdej liczby naturalnej \(n \geq 1\) prawdziwy jest wzór: \(1 \cdot 3 \cdot(1!)^{2}+2 \cdot 4 \cdot(2!)^{2}+\cdots+n(n+2)(n!)^{2}=[(n+1)!]^{2}-1\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Matematyka elementarna</dzial>
+      </działy>
+      <tagi>
+        <tag>Zasada indukcji matematycznej</tag>
+        <tag>Dowód</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="13" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest ciąg \(\left(a_{n}\right)\), gdzie \(a_{n}=\frac{5 n+6}{10(n+1)}\) dla każdej liczby naturalnej \(n \geq 1\).</br>  a) Zbadaj monotoniczność ciągu \(\left(a_{n}\right)\).</br>  b) Oblicz \(\lim _{n \rightarrow \infty} a_{n}\).</br>  c) Podaj największą liczbę \(a\) i najmniejszą liczbę \(b\) takie, że dla każdego \(n\) spełniony jest warunek \(a \leq a_{n} \leq b\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Symbol nieoznaczony ∞ : ∞</tag>
+        <tag>Granica</tag>
+        <tag>Parametr</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="14" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[a) Naszkicuj wykres funkcji \(y=\sin 2 x\) w przedziale \(\langle-2 \pi, 2 \pi\rangle\).  b) Naszkicuj wykres funkcji \(y=\frac{|\sin 2 x|}{\sin 2 x}\) w przedziale \(\langle-2 \pi, 2 \pi\rangle\) i zapisz, dla których liczb z tego przedziału spełniona jest nierówność \(\frac{|\sin 2 x|}{\sin 2 x}<0\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Wartość bezwględna</tag>
+        <tag>Rysowanie wykresu funkcji</tag>
+        <tag>Trygonometria</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="15" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Uczniowie dojeżdżający do szkoły zaobserwowali, że spóźnienie autobusu zależy od tego, który z trzech kierowców prowadzi autobus. Przeprowadzili badania statystyczne i obliczyli, że w przypadku, gdy autobus prowadzi kierowca A, spóźnienie zdarza się w 5% jego kursów, gdy prowadzi kierowca B w 20% jego kursów, a gdy prowadzi kierowca C w \(50 %\) jego kursów. W ciagu 5-dniowego tygodnia nauki dwa razy prowadzi autobus kierowca A , dwa razy kierowca B i jeden raz kierowca C. Oblicz prawdopodobieństwo spóźnienia się szkolnego autobusu w losowo wybrany dzień nauki.</br>]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="16" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Obiekty \(A\) i \(B\) leża po dwóch stronach jeziora. W terenie dokonano pomiarów odpowiednich kątów i ich wyniki przedstawiono na rysunku. Odległość między obiektami \(B\) i \(C\) jest równa 400 m . Oblicz odległość w linii prostej między obiektami A i B i podaj wynik, zaokraglając go do jednego metra.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="17" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Na okręgu o promieniu \(r\) opisano trapez równoramienny \(A B C D\) o dłuższej podstawie \(A B\) i krótszej \(C D\). Punkt styczności \(S\) dzieli ramię \(B C\) tak, że \(\frac{|C S|}{|S B|}=\frac{2}{5}\).</br>  a) Wyznacz długość ramienia tego trapezu.</br>  b) Oblicz cosinus \(|\angle C B D|\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Okrąg wpisany w czworokąt</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="18" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wśród wszystkich graniastosłupów prawidłowych trójkątnych o objętości równej \(2 \mathrm{~m}^{3}\) istnieje taki, którego pole powierzchni całkowitej jest najmniejsze. Wyznacz długości krawędzi tego graniastosłupa. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+        <tag>Graniastosłup prawidłowy trójkątny</tag>
+        <tag>Pole powierzchni całkowitej</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="19" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Nieskończony ciag geometryczny \(\left(a_{n}\right)\) jest zdefiniowany wzorem rekurencyjnym: \(a_{1}=2, a_{n+1}=a_{n} \cdot \log _{2}(k-2)\), dla każdej liczby naturalnej \(n \geq 1\). Wszystkie wyrazy tego ciagu są różne od zera. Wyznacz wszystkie wartości parametru \(k\), dla których istnieje suma wszystkich wyrazów nieskończonego ciagu \(\left(a_{n}\right)\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Ciąg geometryczny</tag>
+        <tag>Szereg geometryczny</tag>
+        <tag>Ciąg rekurencyjny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="20" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dane są funkcje \(f(x)=3^{x^{2}-5 x}\) i \(g(x)=\left(\frac{1}{9}\right)^{-2 x^{2}-3 x+2}\).</br>  Oblicz, dla których argumentów \(x\) wartości funkcji \(f\) są większe od wartości funkcji \(g\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje wykładnicze</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Funkcja wykładnicza</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="21" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W trakcie badania przebiegu zmienności funkcji ustalono, że funkcja \(f\) ma następujące własności:  \begin{itemize}   \item jej dziedzina jest zbiór wszystkich liczb rzeczywistych,   \item \(f\) jest funkcją nieparzysta,   \item \(f\) jest funkcją ciagła</br>  oraz:</br>  \(f^{\prime}(x)<0\) dla \(x \in(-8,-3)\),</br>  \(f^{\prime}(x)>0\) dla \(x \in(-3,-1)\),</br>  \(f^{\prime}(x)<0\) dla \(x \in(-1,0)\),</br>  \(f^{\prime}(-3)=f^{\prime}(-1)=0\),</br>  \(f(-8)=0\),</br>  \(f(-3)=-2\),</br>  \(f(-2)=0\),</br>  \(f(-1)=1\).</br>  W prostokątnym układzie współrzędnych na płaszczyźnie naszkicuj wykres funkcji \(f\) w przedziale \(\langle-8,8\rangle\), wykorzystując podane powyżej informacje o jej własnościach.  \end{itemize}  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>NIEZDEFINIOWANE</dzial>
+      </działy>
+      <tagi>
+        <tag>Brak</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

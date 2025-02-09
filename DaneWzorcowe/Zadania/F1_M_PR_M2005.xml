@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL>https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2005-2/</sourceFileURL>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PR_M2005</filename>
+    <name>CKE maj  2005, formuła F1 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2005</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki/>
+  <zadania>
+    <zadanie numer="11" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz dziedzinę funkcji \(f(x)=\log _{x^{2}-3}\left(x^{3}+4 x^{2}-x-4\right)\) i zapisz ją w postaci sumy przedziałów liczbowych. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje logarytmiczne</dzial>
+      </działy>
+      <tagi>
+        <tag>Dziedzina funkcji</tag>
+        <tag>Logarytm</tag>
+        <tag>Funkcja</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="12" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dana jest funkcja: \(f(x)=\cos x-\sqrt{3} \sin x, \quad x \in R\).</br>  a) Naszkicuj wykres funkcji \(f\).</br>  b) Rozwiąż równanie: \(f(x)=1\).</br>  </br><img src="/static/zbiorzadan/images/2024_11_21_329849874421c145957fg-03.jpg" alt="Opis obrazka" /></br></br>  \(\qquad\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+      </działy>
+      <tagi>
+        <tag>Funkcja</tag>
+        <tag>Rysowanie wykresu funkcji</tag>
+        <tag>Równanie</tag>
+        <tag>SIN</tag>
+        <tag>COS</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="13" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rzucamy \(n\) razy dwiema symetrycznymi sześciennymi kostkami do gry. Oblicz, dla jakich \(n\) prawdopodobieństwo otrzymania co najmniej raz tej samej liczby oczek na obu kostkach jest mniejsze od \(\frac{671}{1296}\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z kostkami</tag>
+        <tag>Nierówność</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="14" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Oblicz: \(\lim _{n \rightarrow \infty} \frac{1+4+7+\ldots+(3 n-2)}{5+7+9+\ldots+(2 n+3)}\).</br>]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Symbol nieoznaczony ∞ : ∞</tag>
+        <tag>Suma ciągu arytmetycznego</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="15" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W dowolnym trójkącie \(A B C\) punkty \(M\) i \(N\) są odpowiednio środkami boków \(A C\) i \(B C\) (Rys. 1).</br>  </br><img src="/static/zbiorzadan/images/2024_11_21_329849874421c145957fg-06.jpg" alt="Opis obrazka" /></br>  \section*{Zapoznaj się uważnie z następującym rozumowaniem:}  Korzystając z własności wektorów i działań na wektorach, zapisujemy równości:  \[  \overrightarrow{M N}=\overrightarrow{M A}+\overrightarrow{A B}+\overrightarrow{B N}  \]  oraz  \[  \overrightarrow{M N}=\overrightarrow{M C}+\overrightarrow{C N}  \]  Po dodaniu równości (1) i (2) stronami otrzymujemy:  \[  2 \cdot \overrightarrow{M N}=\overrightarrow{M A}+\overrightarrow{M C}+\overrightarrow{A B}+\overrightarrow{B N}+\overrightarrow{C N}  \]  Ponieważ \(\overrightarrow{M C}=-\overrightarrow{M A}\) oraz \(\overrightarrow{C N}=-\overrightarrow{B N}\), więc:  \[  2 \cdot \overrightarrow{M N}=\overrightarrow{M A}-\overrightarrow{M A}+\overrightarrow{A B}+\overrightarrow{B N}-\overrightarrow{B N}  \]  \[  \begin{aligned}  & 2 \cdot \overrightarrow{M N}=\overrightarrow{0}+\overrightarrow{A B}+\overrightarrow{0} </br>  & \overrightarrow{M N}=\frac{1}{2} \cdot \overrightarrow{A B} .  \end{aligned}  \]  Wykorzystując własności iloczynu wektora przez liczbę, ostatnią równość można zinterpretować następująco:</br>  odcinek lączący środki dwóch boków dowolnego trójkąta jest równoległy do trzeciego boku tego trójkąta, zaś jego dlugość jest równa połowie długości tego boku.  Przeprowadzając analogiczne rozumowanie, ustal związek pomiędzy wektorem \(\overrightarrow{M N}\) oraz wektorami \(\overrightarrow{A B}\) i \(\overrightarrow{D C}\), wiedząc, że czworokąt \(A B C D\) jest dowolnym trapezem, zaś punkty \(M\) i \(N\) są odpowiednio środkami ramion \(A D\) i \(B C\) tego trapezu (Rys. 2).  Rys. 2</br>  </br><img src="/static/zbiorzadan/images/2024_11_21_329849874421c145957fg-06(1).jpg" alt="Opis obrazka" /></br>  Podaj interpretację otrzymanego wyniku.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy/>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="16" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Sześcian o krawędzi długości a przecięto płaszczyzną przechodzącą przez przekątną podstawy i nachyloną do płaszczyzny podstawy pod kątem \(\frac{\pi}{3}\). Sporządź odpowiedni rysunek. Oblicz pole otrzymanego przekroju. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Sześcian</tag>
+        <tag>Przekroje brył</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="17" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wykaż, bez użycia kalkulatora i tablic, że \(\sqrt[3]{5 \sqrt{2}+7}-\sqrt[3]{5 \sqrt{2}-7}\) jest liczbą całkowita. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Matematyka elementarna</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód</tag>
+        <tag>Dowód całkowitości liczby</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="18" punkty="8" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Pary liczb \((x, y)\) spełniające układ równań:  \[  \left\{\begin{array}{c}  -4 x^{2}+y^{2}+2 y+1=0 </br>  -x^{2}+y+4=0  \end{array}\right.  \]  są współrzędnymi wierzchołków czworokąta wypukłego \(A B C D\).</br>  a) Wyznacz współrzędne punktów: \(A, B, C, D\).</br>  b) Wykaż, że czworokąt \(A B C D\) jest trapezem równoramiennym.</br>  c) Wyznacz równanie okręgu opisanego na czworokącie \(A B C D\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Układ równań</tag>
+        <tag>Okrąd opisany na czworokącie</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="19" punkty="10" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dane jest równanie: \(x^{2}+(m-5) x+m^{2}+m+\frac{1}{4}=0\).</br>  Zbadaj, dla jakich wartości parametru \(m\) stosunek sumy pierwiastków rzeczywistych równania do ich iloczynu przyjmuje wartość najmniejsza. Wyznacz tę wartość.  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>
