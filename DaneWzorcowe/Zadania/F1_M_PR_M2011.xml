@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL/>
+    <directory/>
+    <filename>F1_M_PR_M2011</filename>
+    <name>CKE maj  2011, formuła F1 - poziom rozszerzony</name>
+    <description/>
+    <poziom/>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok/>
+      <miesiac/>
+    </okres>
+  </metryka>
+  <zalaczniki/>
+  <zadania>
+    <zadanie numer="1" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Uzasadnij, że dla każdej liczby całkowitej \(k\) liczba \(k^{6}-2 k^{4}+k^{2}\) jest podzielna przez 36 .</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wyrażenia algebraiczne</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód na podzielność</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Uzasadnij, że jeżeli \(a \neq b, a \neq c, b \neq c\) i \(a+b=2 c\), to \(\frac{a}{a-c}+\frac{b}{b-c}=2\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wyrażenia algebraiczne</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód algebraiczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie wartości parametru \(m\), dla których równanie \(x^{2}-4 m x-m^{3}+6 m^{2}+m-2=0\) ma dwa różne pierwiastki rzeczywiste \(x_{1}, x_{2}\) takie, że \(\left(x_{1}-x_{2}\right)^{2}<8(m+1)\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wzory Vieta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie \(2 \sin ^{2} x-2 \sin ^{2} x \cos x=1-\cos x\) w przedziale \(\langle 0,2 \pi\rangle\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Równanie</tag>
+        <tag>Rozwiązania w przedziale</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[O ciagu ( \(x_{n}\) ) dla \(n \geq 1\) wiadomo, że:</br>  a) ciagg \(\left(a_{n}\right)\) określony wzorem \(a_{n}=3^{x_{n}}\) dla \(n \geq 1\) jest geometryczny o ilorazie \(q=27\).</br>  b) \(x_{1}+x_{2}+\ldots+x_{10}=145\).  Oblicz \(x_{1}\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Ciąg geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Podstawa \(A B\) trójkąta równoramiennego \(A B C\) ma długość 8 oraz \(|\angle B A C|=30^{\circ}\). Oblicz długość środkowej \(A D\) tego trójkąta.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="7" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Oblicz miarę kąta między stycznymi do okręgu \(x^{2}+y^{2}+2 x-2 y-3=0\) poprowadzonymi przez punkt \(A=(2,0)\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Styczne do okręgu</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wśród wszystkich graniastosłupów prawidłowych sześciokątnych, w których suma długości wszystkich krawędzi jest równa 24 , jest taki, który ma największe pole powierzchni bocznej. Oblicz długość krawędzi podstawy tego graniastosłupa.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Oblicz, ile jest liczb ośmiocyfrowych, w zapisie których nie występuje zero, natomiast występują dwie dwójki i występują trzy trójki.</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Kombinatoryka</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z cyframi</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest czworokąt wypukły \(A B C D\) niebędący równoległobokiem. Punkty \(M, N\) są odpowiednio środkami boków \(A B\) i \(C D\). Punkty \(P, Q\) są odpowiednio środkami przekątnych \(A C\) i \(B D\). Uzasadnij, że \(M Q \| P N\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="11" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest ostrosłup prawidłowy czworokątny \(A B C D S\) o podstawie \(A B C D\). W trójkącie równoramiennym \(A S C\) stosunek długości podstawy do długości ramienia jest równy \(|A C|:|A S|=6: 5\). Oblicz sinus kąta nachylenia ściany bocznej do płaszczyzny podstawy.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="12" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[\(A, B\) są zdarzeniami losowymi zawartymi w \(\Omega\). Wykaż, że jeżeli \(P(A)=0,9\) i \(P(B)=0,7\), to \(P\left(A \cap B^{\prime}\right) \leq 0,3\) ( \(B^{\prime}\) oznacza zdarzenie przeciwne do zdarzenia \(B\) ).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Własności prawdopodobieństwa</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>
