@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL>https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2005-2/</sourceFileURL>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PP_M2005</filename>
+    <name>CKE maj  2005, formuła F1 - poziom podstawowy</name>
+    <description/>
+    <poziom>PP</poziom>
+    <typ/>
+    <okres>
+      <rok>2005</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F1_KR_PP_M2005</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="3" poziom="PP" db_id="-1">
+      <tresc><![CDATA[W pudełku są trzy kule białe i pięć kul czarnych. Do pudełka można albo dołożyć jedną kulę białą albo usunać z niego jedną kulę czarna, a następnie wylosować z tego pudełka jedną kulę. W którym z tych przypadków wylosowanie kuli białej jest bardziej prawdopodobne? Wykonaj odpowiednie obliczenia. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadania z kulami</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dany jest ciag \(\left(a_{n}\right)\), gdzie \(a_{n}=\frac{n+2}{3 n+1}\) dla \(n=1,2,3 \ldots\) Wyznacz wszystkie wyrazy tego ciagu większe od \(\frac{1}{2}\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Dowolny ciąg</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dany jest wielomian \(W(x)=x^{3}+k x^{2}-4\).</br>  a) Wyznacz współczynnik \(k\) tego wielomianu wiedząc, że wielomian ten jest podzielny przez dwumian \(x+2\).</br>  b) Dla wyznaczonej wartości \(k\) rozłóż wielomian na czynniki i podaj wszystkie jego pierwiastki. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Rozkładanie wielomianu na czynniki</tag>
+        <tag>Liczenie miejsc zerowych</tag>
+        <tag>Podzielność wielomianu przez dwumian</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Na trzech półkach ustawiono 76 płyt kompaktowych. Okazało się, że liczby płyt na półkach górnej, środkowej i dolnej tworzą rosnacy ciąg geometryczny. Na środkowej półce stoją 24 płyty. Oblicz, ile płyt stoi na półce górnej, a ile płyt stoi na półce dolnej. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Ciąg geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Sklep sprowadza z hurtowni kurtki płacąc po \(100 \mathrm{zł}\) za sztukę i sprzedaje średnio 40 sztuk miesięcznie po \(160 \mathrm{zł}\). Zaobserwowano, że każda kolejna obniżka ceny sprzedaży kurtki o 1 zł zwiększa sprzedaż miesięczną o 1 sztukę. Jaką cenę kurtki powinien ustalić sprzedawca, aby jego miesięczny zysk był największy? ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="6" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dane sa zbiory liczb rzeczywistych:</br>  \(A=\{x:|x+2|<3\}\)</br>  \(B=\left\{x:(2 x-1)^{3} \leq 8 x^{3}-13 x^{2}+6 x+3\right\}\)</br>  Zapisz w postaci przedziałów liczbowych zbiory \(A, B, A \cap B\) oraz \(B-A\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Matematyka elementarna</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Wartość bezwględna</tag>
+        <tag>Działania na przedziałach</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[W poniższej tabeli przedstawiono wyniki sondażu przeprowadzonego w grupie uczniów, dotyczącego czasu przeznaczanego dziennie na przygotowanie zadań domowych.  </br><img src="/static/zbiorzadan/images/2024_11_21_42dc6c582c3640899dfeg-08.jpg" alt="Opis obrazka" /></br></br>  a) Naszkicuj diagram słupkowy ilustrujący wyniki tego sondażu.</br>  b) Oblicz średnią liczbę godzin, jaką uczniowie przeznaczaja dziennie na przygotowanie zadań domowych.</br>  c) Oblicz wariancje i odchylenie standardowe czasu przeznaczonego dziennie na przygotowanie zadań domowych. Wynik podaj z dokładnością do 0,01 .</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Statystyka</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Diagram słupkowy</tag>
+        <tag>Średnia</tag>
+        <tag>Wariancja</tag>
+        <tag>Odchylenie standardowe</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="6" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Z kawałka materiału o kształcie i wymiarach czworokąta \(A B C D\) (patrz na rysunek obok) wycięto okragłą serwetkę o promieniu 3 dm . Oblicz, ile procent całego materiału stanowi jego niewykorzystana część. Wynik podaj \(z\) dokładnością do 0,01 procenta.</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Okrąg wpisany w czworokąt</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="6" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Rodzeństwo w wieku 8 i 10 lat otrzymało razem w spadku 84100 zł. Kwotę tę złożono w banku, który stosuje kapitalizację roczną przy rocznej stopie procentowej 5%. Każde z dzieci otrzyma swoją częśc spadku z chwilą osiagnięcia wieku 21 lat. Życzeniem spadkodawcy było takie podzielenie kwoty spadku, aby w przyszłości obie wypłacone części spadku zaokraglone do 1 zł były równe. Jak należy podzielić kwotę \(84100 \mathrm{zł}\) między rodzeństwo? Zapisz wszystkie wykonywane obliczenia.</br>]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy/>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Lokata bankowa</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="7" poziom="PP" db_id="-1">
+      <tresc><![CDATA[W ostrosłupie czworokątnym prawidłowym wysokości przeciwległych ścian bocznych poprowadzone z wierzchołka ostrosłupa mają długości \(h\) i tworzą kąt o mierze \(2 \alpha\). Oblicz objętość tego ostrosłupa.  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Ostrosłup prawidłowy czworokątny</tag>
+        <tag>Objętość</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>
