@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL>https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2008-2/</sourceFileURL>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PP_M2008</filename>
+    <name>CKE maj  2008, formuła F1 - poziom podstawowy</name>
+    <description/>
+    <poziom>Poziom podstawowy</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2008</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F1_KR_PP_M2008</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Na poniższym rysunku przedstawiono łamaną \(A B C D\), która jest wykresem funkcji \(y=f(x)\).</br>  </br><img src="/static/zbiorzadan/images/2024_11_21_2f72fc0c2faed8928619g-02.jpg" alt="Opis obrazka" /></br>  Korzystajac z tego wykresu:</br>  a) zapisz w postaci przedziału zbiór wartości funkcji \(f\),</br>  b) podaj wartość funkcji \(f\) dla argumentu \(x=1-\sqrt{10}\),</br>  c) wyznacz równanie prostej \(B C\),</br>  d) oblicz długość odcinka \(B C\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje i jej właściwości</dzial>
+      </działy>
+      <tagi>
+        <tag>Zbiór wartości funkcji</tag>
+        <tag>Opisywanie własności funkcji</tag>
+        <tag>Wyznaczanie wzoru prostej</tag>
+        <tag>Długość odcinka</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Liczba przekątnych wielokąta wypukłego, w którym jest \(n\) boków i \(n \geq 3\) wyraża się wzorem \(P(n)=\frac{n(n-3)}{2}\).</br>  Wykorzystując ten wzór:</br>  a) oblicz liczbę przekątnych w dwudziestokacie wypukłym.</br>  b) oblicz, ile boków ma wielokąt wypukły, w którym liczba przekątnych jest pięć razy większa od liczby boków.</br>  c) sprawdź, czy jest prawdziwe następujące stwierdzenie:  Każdy wielokat wypukly o parzystej liczbie boków ma parzystq liczbę przekatnych. Odpowiedź uzasadnij.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="3" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie \(4^{23} x-32^{9} x=16^{4} \cdot\left(4^{4}\right)^{4}\).</br>  Zapisz rozwiązanie tego równania w postaci \(2^{k}\), gdzie \(k\) jest liczbą całkowitą.</br>]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje wykładnicze</dzial>
+      </działy>
+      <tagi>
+        <tag>Równanie</tag>
+        <tag>Potęgi</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="3" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Koncern paliwowy podnosił dwukrotnie w jednym tygodniu cenę benzyny, pierwszy raz o \(10 \%\), a drugi raz o \(5 \%\). Po obu tych podwyżkach jeden litr benzyny, wyprodukowanej przez ten koncern, kosztuje 4,62 zł. Oblicz cenę jednego litra benzyny przed omawianymi podwyżkami.</br>]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Matematyka elementarna</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Procenty</tag>
+        <tag>Zadania z obniżkami;podwyżkami</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Nieskończony ciąg liczbowy \(\left(a_{n}\right)\) jest określony wzorem \(a_{n}=2-\frac{1}{n}, n=1,2,3, \ldots\).</br>  a) Oblicz, ile wyrazów ciągu \(\left(a_{n}\right)\) jest mniejszych od \(1,975\).</br>  b) Dla pewnej liczby \(x\) trzywyrazowy ciag \(\left(a_{2}, a_{7}, x\right)\) jest arytmetyczny. Oblicz \(x\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Zależność między kolejnymi wyrazami ciągu</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Prosta o równaniu \(5 x+4 y-10=0\) przecina oś \(O x\) układu współrzędnych w punkcie \(A\) oraz oś \(O y\) w punkcie \(B\). Oblicz współrzędne wszystkich punktów \(C\) leżących na osi \(O x\) i takich, że trójkąt \(A B C\) ma pole równe 35 .</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Wyznaczanie współrzędnych punktu</tag>
+        <tag>Pole trójkąta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dany jest trapez, w którym podstawy mają długość 4 cm i 10 cm oraz ramiona tworzą z dłuższą podstawą kąty o miarach \(30^{\circ}\) i \(45^{\circ}\). Oblicz wysokość tego trapezu.</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="8" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Dany jest wielomian \(W(x)=x^{3}-5 x^{2}-9 x+45\).</br>  a) Sprawdź, czy punkt \(A=(1,30)\) należy do wykresu tego wielomianu.</br>  b) Zapisz wielomian \(W\) w postaci iloczynu trzech wielomianów stopnia pierwszego.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Rozkładanie wielomianu na czynniki</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Oblicz najmniejszą i największą wartość funkcji kwadratowej \(f(x)=(2 x+1)(x-2)\) w przedziale \(\langle-2,2\rangle\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Wyznaczanie min max</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="3" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Rysunek przedstawia fragment wykresu funkcji \(h\), określonej wzorem \(h(x)=\frac{a}{x}\) dla \(x \neq 0\).</br>  Wiadomo, że do wykresu funkcji \(h\) należy punkt \(P=(2,5)\).</br>  a) Oblicz wartość współczynnika \(a\).</br>  b) Ustal, czy liczba \(h(\pi)-h(-\pi)\) jest dodatnia czy ujemna.</br>  c) Rozwią̇̇ nierówność \(h(x)>5\).</br>  </br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje wymierne</dzial>
+      </działy>
+      <tagi>
+        <tag>Funkcja homograficzna</tag>
+        <tag>Prosty parametr</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="5" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Pole powierzchni bocznej ostrosłupa prawidłowego trójkątnego równa się \(\frac{a^{2} \sqrt{15}}{4}\), gdzie a oznacza długość krawędzi podstawy tego ostrosłupa. Zaznacz na poniższym rysunku kąt nachylenia ściany bocznej ostrosłupa do płaszczyzny jego podstawy. Miarę tego kąta oznacz symbolem \(\beta\). Oblicz \(\cos \beta\) i korzystajac z tablic funkcji trygonometrycznych odczytaj przybliżoną wartość \(\beta\) z dokładnością do \(1^{\circ}\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Kąt dwuścienny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="12" punkty="4" poziom="PP" db_id="-1">
+      <tresc><![CDATA[Rzucamy dwa razy symetryczną sześcienną kostką do gry. Oblicz prawdopodobieństwo każdego z następujących zdarzeń:</br>  a) \(A-w\) każdym rzucie wypadnie nieparzysta liczba oczek.</br>  b) \(B\) - suma oczek otrzymanych w obu rzutach jest liczbą większą od 9 .</br>  c) \(C\) - suma oczek otrzymanych w obu rzutach jest liczbą nieparzystą i większą od 9 .</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z kostkami</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

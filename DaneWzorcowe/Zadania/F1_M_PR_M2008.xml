@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL>https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2008-2/</sourceFileURL>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PR_M2008</filename>
+    <name>CKE maj  2008, formuła F1 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2008</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F1_KR_PR_M2008</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wielomian \(f\), którego fragment wykresu przedstawiono na poniższym rysunku spełnia warunek \(f(0)=90\). Wielomian \(g\) dany jest wzorem \(g(x)=x^{3}-14 x^{2}+63 x-90\). Wykaż, że \(g(x)=-f(-x)\) dla \(x \in R\).</br>  </br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="2" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż nierówność \(|x-2|+|3 x-6|<|x|\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Wartość bezwględna</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Liczby \(x_{1}=5+\sqrt{23}\) i \(x_{2}=5-\sqrt{23}\) są rozwiązaniami równania \(x^{2}-\left(p^{2}+q^{2}\right) x+(p+q)=0\) z niewiadomą \(x\). Oblicz wartości \(p\) i \(q\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wzory Vieta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie \(4 \cos ^{2} x=4 \sin x+1 \mathrm{w}\) przedziale \(\langle 0,2 \pi\rangle\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Równanie</tag>
+        <tag>Trygonometria</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dane jest równanie \(\left|\frac{2}{x}+3\right|=p\) z niewiadomą \(x\). Wyznacz liczbę rozwiązań tego równania w zależności od parametru \(p\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje wymierne</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>W zależności od parametru ilość rozwiązań</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Udowodnij, że jeżeli ciąg \((a, b, c)\) jest jednocześnie arytmetyczny i geometryczny, to \(a=b=c\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Ciąg geometryczny</tag>
+        <tag>Ciąg arytmetyczny</tag>
+        <tag>Zależność między kolejnymi wyrazami ciągu</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Uzasadnij, że każdy punkt paraboli o równaniu \(y=\frac{1}{4} x^{2}+1\) jest równoodległy od osi \(O x\) i od punktu \(F=(0,2)\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="8" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz współrzędne środka jednokładności, w której obrazem okręgu o równaniu \((x-16)^{2}+y^{2}=4\) jest okrag o równaniu \((x-6)^{2}+(y-4)^{2}=16\), a skala tej jednokładności jest liczbą ujemna.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Jednokładność</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz dziedzinę i najmniejszą wartość funkcji \(f(x)=\log _{\frac{\sqrt{2}}{2}}\left(8 x-x^{2}\right)\).</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje logarytmiczne</dzial>
+      </działy>
+      <tagi>
+        <tag>Dziedzina funkcji</tag>
+        <tag>Wyznaczanie min max</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Z pewnej grupy osób, w której jest dwa razy więcej mężczyzn niż kobiet, wybrano losowo dwuosobową delegację. Prawdopodobieństwo tego, że w delegacji znajdą się tylko kobiety jest równe 0,1 . Oblicz, ile kobiet i ilu mężczyzn jest w tej grupie. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W ostrosłupie prawidłowym czworokątnym dane sa: \(H\)-wysokość ostrosłupa oraz \(\alpha\) - miara kạta utworzonego przez krawędź boczną i krawędź podstawy ( \(45^{\circ}<\alpha<90^{\circ}\) ).</br>  a) Wykaż, że objętość \(V\) tego ostrosłupa jest równa \(\frac{4}{3} \cdot \frac{H^{3}}{\operatorname{tg}^{2} \alpha-1}\).</br>  b) Oblicz miarę kąta \(\alpha\), dla której objętość \(V\) danego ostrosłupa jest równa \(\frac{2}{9} H^{3}\). Wynik podaj w zaokragleniu do całkowitej liczby stopni.</br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="12" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W trójkącie prostokątnym \(A B C\) przyprostokątne mają długości: \(|B C|=9,|C A|=12\). Na boku \(A B\) wybrano punkt \(D\) tak, że odcinki \(B C\) i \(C D\) mają równe długości. Oblicz długość odcinka \(A D\).  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+  </zadania>
+</zasob>
