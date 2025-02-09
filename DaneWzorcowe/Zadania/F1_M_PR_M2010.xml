@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL>https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2010-2/maj-2010/</sourceFileURL>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PR_M2010</filename>
+    <name>CKE maj  2010, formuła F1 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2010</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F1_KR_PR_M2010</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="-1" punkty="-1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rysunek przedstawia fragment wykresu funkcji \(f(x)=\frac{1}{x^{2}}\). Przeprowadzono prostą równoległą do osi \(O x\), która przecięła wykres tej funkcji w punktach \(A\) i \(B\). Niech \(C=(3,-1)\). Wykaż, że pole trójkąta \(A B C\) jest większe lub równe 2.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="-1" punkty="-1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Bok kwadratu \(A B C D\) ma długość 1 . Na bokach \(B C\) i \(C D\) wybrano odpowiednio punkty \(E\) i \(F\) umieszczone tak, by \(|C E|=2|D F|\). Oblicz wartość \(x=|D F|\), dla której pole trójkąta \(A E F\) jest najmniejsze.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="-1" punkty="-1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie wartości parametru \(m\), dla których równanie \(x^{2}+m x+2=0\) ma dwa różne pierwiastki rzeczywiste takie, że suma ich kwadratów jest większa od \(2 m^{2}-13\).]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wzory Vieta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="1" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż nierówność \(|2 x+4|+|x-1| \leq 6\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Wartość bezwględna</tag>
+        <tag>Niezależne wartości bezwględne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie rozwiązania równania \(2 \cos ^{2} x-5 \sin x-4=0\) należące do przedziału \(\langle 0,2 \pi\rangle\).]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Rozwiązania w przedziale</tag>
+        <tag>Równanie trygonometryczne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wartości \(a\) i \(b\) współczynników wielomianu \(W(x)=x^{3}+a x^{2}+b x+1\) wiedząc, że \(W(2)=7\) oraz, że reszta z dzielenia \(W(x)\) przez \((x-3)\) jest równa 10.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Twierdzenie Bezouta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[O liczbach \(a, b, c\) wiemy, że ciąg \((a, b, c)\) jest arytmetyczny i \(a+c=10\), zaś ciag \((a+1, b+4, c+19)\) jest geometryczny. Wyznacz te liczby.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Ciąg geometryczny</tag>
+        <tag>Ciąg arytmetyczny</tag>
+        <tag>Zależność między kolejnymi wyrazami ciągu</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Punkt \(A=(-2,5)\) jest jednym z wierzchołków trójkąta równoramiennego \(A B C\), w którym \(|A C|=|B C|\). Pole tego trójkąta jest równe 15 . Bok \(B C\) jest zawarty w prostej o równaniu \(y=x+1\). Oblicz współrzędne wierzchołka \(C\).]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Pole powierzchni całkowitej</tag>
+        <tag>Wyznaczanie współrzędnych punktu</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Na bokach \(B C\) i \(C D\) równoległoboku \(A B C D\) zbudowano kwadraty \(C D E F\) i \(B C G H\) (zobacz rysunek). Udowodnij, że \(|A C|=|F G|\).</br><img src="/static/zbiorzadan/images/2024_11_21_915ec38c066c6dfe4afcg-19.jpg" alt="Opis obrazka" />]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Oblicz prawdopodobieństwo tego, że w trzech rzutach symetryczną sześcienną kostką do gry suma kwadratów liczb uzyskanych oczek będzie podzielna przez 3.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z kostkami</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W ostrosłupie prawidłowym trójkątnym krawędź podstawy ma długość \(a\). Ściany boczne są trójkątami ostrokątnymi. Miara kąta między sąsiednimi ścianami bocznymi jest równa \(2 \alpha\). Wyznacz objętość tego ostrosłupa.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Objętość</tag>
+        <tag>Ostrosłup prawidłowy trójkątny</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>
