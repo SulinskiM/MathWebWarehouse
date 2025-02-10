@@ -1,0 +1,1347 @@
+% This LaTeX document needs to be compiled with XeLaTeX.
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{ucharclasses}
+\usepackage{graphicx}
+\usepackage[export]{adjustbox}
+\graphicspath{ {./images/} }
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[version=4]{mhchem}
+\usepackage{stmaryrd}
+\usepackage{multirow}
+\usepackage[fallback]{xeCJK}
+\usepackage{polyglossia}
+\usepackage{fontspec}
+\IfFontExistsTF{Noto Serif CJK KR}
+{\setCJKmainfont{Noto Serif CJK KR}}
+{\IfFontExistsTF{Apple SD Gothic Neo}
+  {\setCJKmainfont{Apple SD Gothic Neo}}
+  {\IfFontExistsTF{UnDotum}
+    {\setCJKmainfont{UnDotum}}
+    {\setCJKmainfont{Malgun Gothic}}
+}}
+
+\setmainlanguage{polish}
+\setotherlanguages{hindi, thai}
+\IfFontExistsTF{Noto Serif Devanagari}
+{\newfontfamily\hindifont{Noto Serif Devanagari}}
+{\IfFontExistsTF{Kohinoor Devanagari}
+  {\newfontfamily\hindifont{Kohinoor Devanagari}}
+  {\IfFontExistsTF{Devanagari MT}
+    {\newfontfamily\hindifont{Devanagari MT}}
+    {\IfFontExistsTF{Lohit Devanagari}
+      {\newfontfamily\hindifont{Lohit Devanagari}}
+      {\IfFontExistsTF{FreeSerif}
+        {\newfontfamily\hindifont{FreeSerif}}
+        {\newfontfamily\hindifont{Arial Unicode MS}}
+}}}}
+\IfFontExistsTF{Noto Serif Thai}
+{\newfontfamily\thaifont{Noto Serif Thai}}
+{\IfFontExistsTF{Thonburi}
+  {\newfontfamily\thaifont{Thonburi}}
+  {\IfFontExistsTF{FreeSerif}
+    {\newfontfamily\thaifont{FreeSerif}}
+    {\IfFontExistsTF{Tahoma}
+      {\newfontfamily\thaifont{Tahoma}}
+      {\newfontfamily\thaifont{Arial Unicode MS}}
+}}}
+\IfFontExistsTF{CMU Serif}
+{\newfontfamily\lgcfont{CMU Serif}}
+{\IfFontExistsTF{DejaVu Sans}
+  {\newfontfamily\lgcfont{DejaVu Sans}}
+  {\newfontfamily\lgcfont{Georgia}}
+}
+\setDefaultTransitions{\lgcfont}{}
+\setTransitionsForDevanagari{\hindifont}{\rmfamily}
+\setTransitionsFor{Thai}{\thaifont}{\lgcfont}
+
+\newcommand\Varangle{\mathop{{<\!\!\!\!\!\text{\small)}}\:}\nolimits}
+
+\begin{document}
+CENTRALNA\\
+KOMISJA\\
+EGZAMINACYJNA
+
+Arkusz zawiera informacje prawnie chronione do momentu rozpoczęcia egzaminu.
+
+\section*{Miejsce na naklejkę.}
+ Sprawdż, czy kod na naklejce to M-100.Jeżeli tak - przyklej naklejke. Jeżeli nie - zgłoś to nauczycielowi.
+
+\section*{Egzamin maturalny}
+\section*{MATEMATYKA}
+\section*{Poziom podstawowy}
+Symbol arkusza\\
+MMAP-P0-100-2306
+
+\section*{Data: 2 czerwca 2023 r. Godzina rozpoczęcia: 9:00}
+ Czas trwania: 180 minut\section*{WYPELNIA ZESPÓŁ NADZORUJACY}
+Uprawnienia zdającego do:\\
+dostosowania zasad oceniania dostosowania w zw. z dyskalkulią nieprzenoszenia zaznaczeń na kartę.
+
+\section*{LICZBA PUNKTÓW do uZySkania: 46}
+Przed rozpoczęciem pracy z arkuszem egzaminacyjnym
+
+\begin{enumerate}
+  \item Sprawdź, czy nauczyciel przekazał Ci właściwy arkusz egzaminacyjny, tj. arkusz we właściwej formule, z właściwego przedmiotu na właściwym poziomie.
+  \item Jeżeli przekazano Ci niewłaściwy arkusz - natychmiast zgłoś to nauczycielowi. Nie rozrywaj banderol.
+  \item Jeżeli przekazano Ci właściwy arkusz - rozerwij banderole po otrzymaniu takiego polecenia od nauczyciela. Zapoznaj się z instrukcją na stronie 2.\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-02}
+\end{enumerate}
+
+\section*{Instrukcja dla zdającego}
+\begin{enumerate}
+  \item Sprawdź, czy arkusz egzaminacyjny zawiera 34 strony (zadania 1-33). Ewentualny brak zgłoś przewodniczącemu zespołu nadzorującego egzamin.
+  \item Na pierwszej stronie arkusza oraz na karcie odpowiedzi wpisz swój numer PESEL i przyklej naklejkę z kodem.
+  \item Symbol 띠ํ zamieszczony w nagłówku zadania oznacza, że rozwiązanie zadania zamkniętego musisz przenieść na kartę odpowiedzi.
+  \item Odpowiedzi do zadań zamkniętych zaznacz na karcie odpowiedzi w części karty przeznaczonej dla zdającego. Zamaluj \(\square\) pola do tego przeznaczone. Błędne zaznaczenie otocz kółkiem © i zaznacz właściwe.
+  \item Pamiętaj, że pominięcie argumentacji lub istotnych obliczeń w rozwiązaniu zadania otwartego może spowodować, że za to rozwiązanie nie otrzymasz pełnej liczby punktów.
+  \item Rozwiązania zadań i odpowiedzi wpisuj w miejscu na to przeznaczonym.
+  \item Pisz czytelnie i używaj tylko długopisu lub pióra z czarnym tuszem lub atramentem.
+  \item Nie używaj korektora, a błędne zapisy wyraźnie przekreśl.
+  \item Pamiętaj, że zapisy w brudnopisie nie będą oceniane.
+  \item Możesz korzystać z Wybranych wzorów matematycznych, cyrkla i linijki oraz kalkulatora prostego. Upewnij się, czy przekazano Ci broszurę z okładką taką jak widoczna poniżej.\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-02(1)}
+\end{enumerate}
+
+\section*{Zadania egzaminacyjne są wydrukowane na następnych stronach.}
+Zadanie 1. (0-1)\\
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Wszystkich liczb całkowitych dodatnich spełniających nierówność \(|x+5|<15\) jest\\
+A. 9\\
+B. 10\\
+C. 20\\
+D. 21
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{4}{|l|}{Brudnopis} &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & - &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Zadanie 2. (0-1) 두}
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Dla każdej dodatniej liczby rzeczywistej \(x\) iloczyn \(\sqrt{x} \cdot \sqrt[3]{x} \cdot \sqrt[6]{x}\) jest równy\\
+A. \(x\)\\
+B. \(\sqrt[10]{x}\)\\
+C. \(\sqrt[18]{x}\)\\
+D. \(x^{2}\)
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ & Brudnopid & opis &  &  &  &  &  &  &  &  &  &  &  &  & - &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+Zadanie 3. (0-2)\\
+Wykaż, że dla każdej liczby całkowitej \(k\) reszta z dzielenia liczby \(49 \boldsymbol{k}^{\mathbf{2}}+\mathbf{7 k} \mathbf{- 2}\) przez 7 jest równa 5.\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-05}
+
+\section*{Zadanie 4. (0-1)}
+Klient wpłacił do banku 30000 zł na lokatę dwuletnią. Po każdym rocznym okresie oszczędzania bank dolicza odsetki w wysokości 7\% od kwoty bieżącego kapitału znajdującego się na lokacie.
+
+\section*{Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.}
+Po dwóch latach oszczędzania łączna wartość doliczonych odsetek na tej lokacie (bez uwzględniania podatków) jest równa\\
+A. \(2100 \mathrm{zł}\)\\
+B. \(2247 \mathrm{zł}\)\\
+C. \(4200 \mathrm{zł}\)\\
+D. \(4347 \mathrm{zł}\)
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{4}{|l|}{Brudnopis} &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & , &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Zadanie 5. (0-1) ㄸ..}
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Liczba \(\log _{2} \frac{1}{8}+\log _{2} 4\) jest równa\\
+A. \((-1)\)\\
+B. \(\frac{1}{2}\)\\
+C. 2\\
+D. 5\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-06}
+
+Zadanie 6. (0-1)\\
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Liczba \((1+\sqrt{5})^{2}-(1-\sqrt{5})^{2}\) jest równa\\
+A. 0\\
+B. \((-10)\)\\
+C. \(4 \sqrt{5}\)\\
+D. \(2+2 \sqrt{5}\)\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-07}
+
+\section*{Zadanie 7. (0-1)}
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Dla każdej liczby rzeczywistej \(x\) różnej od 0 i 2 wyrażenie \(\frac{x^{2}+x}{(x-2)^{2}} \cdot \frac{x-2}{x}\) jest równe\\
+A. \(\frac{x^{2}+1}{x-2}\)\\
+B. \(\frac{x+1}{2}\)\\
+C. \(\frac{x^{2}}{(x-2)^{2}}\)\\
+D. \(\frac{x+1}{x-2}\)\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-07(1)}
+
+Zadanie 8. (0-2)\\
+Rozwiąż nierówność
+
+\[
+x(2 x-1)<2 x
+\]
+
+\section*{Zapisz obliczenia.}
+\begin{center}
+\includegraphics[max width=\textwidth]{2025_02_10_cff3f1d0cff33ba627b6g-08}
+\end{center}
+
+Zadanie 9. (0-3)\\
+Rozwiąż równanie
+
+\[
+x^{3}+4 x^{2}-9 x-36=0
+\]
+
+\section*{Zapisz obliczenia.}
+\begin{center}
+\includegraphics[max width=\textwidth]{2025_02_10_cff3f1d0cff33ba627b6g-09}
+\end{center}
+
+Zadanie 10. (0-1) 뚱\\
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Równanie \(\frac{\left(x^{2}-3 x\right)(x+2)}{x^{2}-4}=0 \mathrm{w}\) zbiorze liczb rzeczywistych ma dokładnie\\
+A. jedno rozwiązanie.\\
+B. dwa rozwiązania.\\
+C. trzy rozwiązania.\\
+D. cztery rozwiązania.
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ & Brudno & opis &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Zadanie 11. (0-1) 뚬}
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+W kartezjańskim układzie współrzędnych \((x, y)\) wykresy funkcji liniowych \(f(x)=(2 m+3) x+5\) oraz \(g(x)=-x\) nie mają punktów wspólnych dla\\
+A. \(m=-2\)\\
+B. \(m=-1\)\\
+C. \(m=1\)\\
+D. \(m=2\)
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{5}{|l|}{Brudnopis} &  &  &  &  &  &  & , &  & - &  &  & - & - & - &  & - &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Zadanie 12. (0-1) वाँच}
+W kartezjańskim układzie współrzędnych \((x, y)\) prosta o równaniu \(y=a x+b\) przechodzi przez punkty \(A=(-3,-1)\) oraz \(B=(4,3)\).
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Współczynnik a w równaniu tej prostej jest równy\\
+A. \((-4)\)\\
+B. \(\left(-\frac{1}{2}\right)\)\\
+C. 2\\
+D. \(\frac{4}{7}\)\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-11}
+
+\section*{Zadanie 13.}
+W kartezjańskim układzie współrzędnych \((x, y)\) narysowano wykres funkcji \(y=f(x)\) (zobacz rysunek).\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-12(1)}
+
+Zadanie 13.1. (0-2)\\
+Uzupełnij tabelę. Wpisz w każdą pustą komórkę tabeli właściwą odpowiedź, wybraną spośród oznaczonych literami A-F.
+
+\begin{center}
+\begin{tabular}{|l|l|}
+\hline
+Dziedziną funkcji \(f\) jest zbiór &  \\
+\hline
+Zbiorem wartości funkcji \(f\) jest zbiór &  \\
+\hline
+\end{tabular}
+\end{center}
+
+A. \([-3,-1] \cup[1,3]\)\\
+B. \((-3,3)\)\\
+C. \((-3,-1) \cup(1,3)\)\\
+D. \([-5,-1] \cup[1,5]\)\\
+E. \((-5,5)\)\\
+F. \((-5,-1) \cup(1,5)\)\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-12}
+
+Zadanie 13.2. (0-1)\\
+Zapisz poniżej zbiór wszystkich rozwiązań nierówności \(f(x)<-1\).\\
+\(\qquad\)
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{5}{|l|}{Brudnopis} &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Zadanie 14. (0-1) 뚜ํ}
+Funkcja kwadratowa \(f\) jest określona wzorem \(f(x)=a x^{2}+b x+1\), gdzie \(a\) oraz \(b\) sa pewnymi liczbami rzeczywistymi, takimi, że \(a<0\) i \(b>0\). Na jednym z rysunków A-D przedstawiono fragment wykresu tej funkcji w kartezjańskim układzie współrzędnych ( \(x, y\) ).
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Fragment wykresu funkcji \(f\) przedstawiono na rysunku\\
+A.\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-14(1)}\\
+B.\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-14}\\
+D.\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-14(2)}\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-14(3)}
+
+\section*{Zadanie 15.}
+Masa \(m\) leku \(\mathcal{L}\) zażytego przez chorego zmienia się w organizmie zgodnie z zależnością wykładniczą
+
+\[
+m(t)=m_{0} \cdot(0,6)^{0,25 t}
+\]
+
+gdzie:\\
+\(m_{0}\) - masa (wyrażona w mg) przyjętej w chwili \(t=0\) dawki leku,\\
+\(t\) - czas (wyrażony w godzinach) liczony od momentu \(t=0\) zażycia leku.
+
+\section*{Zadanie 15.1. (0-1)}
+Chory przyjął jednorazowo lek \(\mathcal{L}\) w dawce 200 mg.\\
+Oblicz, ile mg leku \(\mathcal{L}\) pozostanie worganizmie chorego po 12 godzinach od momentu przyjęcia dawki. Zapisz obliczenia.
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Zadanie 15.2. (0-1)}
+Liczby \(m(2,5), m(4,5), m(6,5)\) w podanej kolejności tworzą ciąg geometryczny.\\
+Oblicz iloraz tego ciągu. Zapisz obliczenia.\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-15}
+
+Zadanie 16. (0-1)\\
+Ciąg \(\left(a_{n}\right)\) jest określony wzorem \(a_{n}=\frac{n-2}{3}\) dla każdej liczby naturalnej \(n \geq 1\).\\
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Liczba wyrazów tego ciągu mniejszych od 10 jest równa\\
+A. 28\\
+B. 31\\
+C. 32\\
+D. 27
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{5}{|l|}{Brudnopis} &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \includegraphics[max width=\textwidth]{2025_02_10_cff3f1d0cff33ba627b6g-16}
+ \\
+\hline
+\end{tabular}
+\end{center}
+
+Zadanie 17. (0-1) 뚜\\
+Trzywyrazowy ciąg ( \(1,4, a+5\) ) jest arytmetyczny.\\
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Liczba a jest równa\\
+A. 0\\
+B. 7\\
+C. 2\\
+D. 11
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{6}{|l|}{Brudnopis} &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+Zadanie 18. (0-1) 뚜\\
+Ciąg geometryczny \(\left(a_{n}\right)\) jest określony dla każdej liczby naturalnej \(n \geq 1\). W tym ciągu \(a_{1}=3,75\) oraz \(a_{2}=-7,5\).
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Suma trzech początkowych wyrazów ciągu \(\left(a_{n}\right)\) jest równa\\
+A. 11,25\\
+B. \((-18,75)\)\\
+C. 15\\
+D. \((-15)\)
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{4}{|l|}{Brudnopis} &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Zadanie 19. (0-1)}
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Dla każdego kąta ostrego \(\alpha\) wyrażenie \(\cos \alpha-\cos \alpha \cdot \sin ^{2} \alpha\) jest równe\\
+A. \(\cos ^{3} \alpha\)\\
+B. \(\sin ^{2} \alpha\)\\
+C. \(1-\sin ^{2} \alpha\)\\
+D. \(\cos \alpha\)\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-17}
+
+\section*{Zadanie 20. (0-2)}
+Dany jest trójkąt, którego kąty mają miary \(30^{\circ}, 45^{\circ}\) oraz \(105^{\circ}\). Długości boków trójkąta, leżących naprzeciwko tych kątów są równe - odpowiednio - \(a, b\) oraz \(c\) (zobacz rysunek).\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-18}
+
+Uzupełnij zdanie. Wybierz dwie właściwe odpowiedzi spośród oznaczonych literami A-F i wpisz te litery w wykropkowanych miejscach.
+
+Pole tego trójkąta poprawnie określają wyrażenia oznaczone literami:\\
+\(\qquad\) oraz \(\qquad\) .. .\\
+A. \(\frac{\sqrt{2}}{2} \cdot a \cdot c\)\\
+B. \(\frac{1}{4} \cdot a \cdot c\)\\
+C. \(\frac{\sqrt{2}}{4} \cdot a \cdot c\)\\
+D. \(\frac{\sqrt{3}}{4} \cdot b \cdot c\)\\
+E. \(\frac{1}{2} \cdot b \cdot c\)\\
+F. \(\frac{1}{4} \cdot b \cdot c\)\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-18(1)}
+
+\section*{Zadanie 21. (0-1) 뚜}
+Odcinek \(A B\) jest średnicą okręgu o środku \(S\). Prosta \(k\) jest styczna do tego okręgu w punkcie \(A\). Prosta \(l\) przecina ten okrąg w punktach \(B\) i \(C\). Proste \(k\) i \(l\) przecinają się w punkcie \(D\), przy czym \(|B C|=4\) i \(|C D|=3\) (zobacz rysunek).\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-19}
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Odległość punktu \(A\) od prostej \(l\) jest równa\\
+A. \(\frac{7}{2}\)\\
+B. 5\\
+C. \(\sqrt{12}\)\\
+D. \(\sqrt{3}+2\)\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-19(1)}
+
+Zadanie 22. (0-1)\\
+W trapezie \(A B C D\) o podstawach \(A B\) i \(C D\) przekątne przecinają się w punkcie \(E\) (zobacz rysunek).\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-20}
+
+Oceń prawdziwość poniższych stwierdzeń. Wybierz \(P\), jeśli stwierdzenie jest prawdziwe, albo F - jeśli jest fałszywe.
+
+\begin{center}
+\begin{tabular}{|l|c|c|}
+\hline
+Trójkąt \(A B E\) jest podobny do trójkąta \(C D E\). & \(\mathbf{P}\) & \(\mathbf{F}\) \\
+\hline
+Pole trójkąta \(A C D\) jest równe polu trójkąta \(B C D\). & \(\mathbf{P}\) & \(\mathbf{F}\) \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{5}{|l|}{Brudnopis} &  & - &  & - &  & - & - & - & - & - &  & T & - &  & - & - &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+Zadanie 23. (0-1)\\
+Na łukach \(A B\) i \(C D\) okręgu są oparte kąty wpisane \(A D B\) i \(D B C\), takie, że \(|\Varangle A D B|=20^{\circ}\) i \(|\Varangle D B C|=40^{\circ}\) (zobacz rysunek). Cięciwy \(A C\) i \(B D\) przecinają się w punkcie \(K\).\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-21}
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Miara kąta \(D K C\) jest równa\\
+A. \(80^{\circ}\)\\
+B. \(60^{\circ}\)\\
+C. \(50^{\circ}\)\\
+D. \(40^{\circ}\)
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{5}{|l|}{Brudnopis} &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Zadanie 24. (0-1) 뚱}
+Pole trójkąta równobocznego \(T_{1}\) jest równe \(\frac{(1,5)^{2} \cdot \sqrt{3}}{4}\). Pole trójkąta równobocznego \(T_{2}\) jest równe \(\frac{(4,5)^{2} \cdot \sqrt{3}}{4}\).
+
+Dokończ zdanie tak, aby było prawdziwe. Wybierz odpowiedź A albo B oraz jej uzasadnienie 1., 2. albo 3.
+
+Trójkąt \(T_{2}\) jest podobny do trójkąta \(T_{1} \mathrm{w}\) skali
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|l|}
+\hline
+\multirow{2}{*}{A.} & 3, &  & 1. & każdy z tych trójkątów ma dokładnie trzy osie symetrii. \\
+\cline { 4 - 5 }
+ &  & ponieważ & 2. & \begin{tabular}{l}
+pole trójkąta \(T_{2}\) jest 9 razy większe od pola \\
+trójkąta \(T_{1}\). \\
+\end{tabular} \\
+\hline
+B. & 9, & 3. & \begin{tabular}{l}
+bok trójkąta \(T_{2}\) jest o 3 dłuższy od boku \\
+trójkąta \(T_{1}\). \\
+\end{tabular} &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{4}{|l|}{Brudnopis} &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+Zadanie 25. (0-1)\\
+Pole równoległoboku \(A B C D\) jest równe \(40 \sqrt{6}\). Bok \(A D\) tego równoległoboku ma długość 10, a kąt \(A B C\) równoległoboku ma miarę \(135^{\circ}\) (zobacz rysunek).\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-23}
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Długość boku \(A B\) jest równa\\
+A. \(8 \sqrt{3}\)\\
+B. \(8 \sqrt{2}\)\\
+C. \(16 \sqrt{2}\)\\
+D. \(16 \sqrt{3}\)\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-23(1)}
+
+Zadanie 26. (0-1)\\
+Funkcja liniowa \(f\) jest określona wzorem \(f(x)=-x+1\). Funkcja \(g\) jest liniowa.\\
+W kartezjańskim układzie współrzędnych \((x, y)\) wykres funkcji \(g\) przechodzi przez punkt \(P=(0,-1)\) i jest prostopadły do wykresu funkcji \(f\).
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Wzorem funkcji \(g\) jest\\
+A. \(g(x)=x+1\)\\
+B. \(g(x)=-x-1\)\\
+C. \(g(x)=-x+1\)\\
+D. \(g(x)=x-1\)\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-24(1)}
+
+\section*{Zadanie 27. (0-1)}
+W kartezjańskim układzie współrzędnych \((x, y)\) punkty \(A=(-1,5)\) oraz \(C=(3,-3)\) są przeciwległymi wierzchołkami kwadratu \(A B C D\).
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Pole kwadratu \(A B C D\) jest równe\\
+A. \(8 \sqrt{10}\)\\
+B. \(16 \sqrt{5}\)\\
+C. 40\\
+D. 80\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-24}
+
+Zadanie 28. (0-1) 뚱\\
+W kartezjańskim układzie współrzędnych \((x, y)\) dane są punkty \(A=(1,7)\) oraz \(P=(3,1)\). Punkt \(P\) dzieli odcinek \(A B\) tak, że \(|A P|:|P B|=1: 3\).
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Punkt \(B\) ma współrzędne\\
+A. \((9,-5)\)\\
+B. \((9,-17)\)\\
+C. \((7,-11)\)\\
+D. \((5,-5)\)
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{4}{|l|}{Brudnopis} &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Zadanie 29.}
+Dany jest ostrosłup, którego podstawą jest kwadrat o boku 6. Jedna z krawędzi bocznych tego ostrosłupa ma długość 12 i jest prostopadła do płaszczyzny podstawy.
+
+\section*{Zadanie 29.1. (0-1)}
+Uzupełnij zdanie. Wpisz odpowiednią wartość liczbową w wykropkowanym miejscu.
+
+Objętość tego ostrosłupa jest równa \(\qquad\)
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ & Brudn & nopis &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Zadanie 29.2. (0-1) 뚬}
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Tangens kąta nachylenia najdłuższej krawędzi bocznej tego ostrosłupa do płaszczyzny podstawy jest równy\\
+A. \(\sqrt{2}\)\\
+B. \(\frac{\sqrt{6}}{3}\)\\
+C. \(\frac{\sqrt{2}}{2}\)\\
+D. \(\frac{\sqrt{3}}{3}\)\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-26}
+
+Zadanie 30. (0-1)\\
+Dany jest graniastosłup prawidłowy sześciokątny \(A B C D E F A^{\prime} B^{\prime} C^{\prime} D^{\prime} E^{\prime} F^{\prime}\), w którym krawędź podstawy ma długość 5. Przekątna \(A D^{\prime}\) tego graniastosłupa jest nachylona do płaszczyzny podstawy pod kątem \(45^{\circ}\) (zobacz rysunek).\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-27}
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Pole ściany bocznej tego graniastosłupa jest równe\\
+A. 12,5\\
+B. 25\\
+C. 50\\
+D. 100\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-27(1)}
+
+\section*{Zadanie 31. (0-1) 뚜ํ}
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\\
+Wszystkich liczb naturalnych trzycyfrowych o sumie cyfr równej 3 jest\\
+A. 8\\
+B. 4\\
+C. 5\\
+D. 6
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{4}{|l|}{Brudnopis} &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+Zadanie 32. (0-2)\\
+Ze zbioru ośmiu kolejnych liczb naturalnych - od 1 do 8 - losujemy kolejno bez zwracania dwa razy po jednej liczbie.\\
+Niech \(A\) oznacza zdarzenie polegające na tym, że suma wylosowanych liczb jest dzielnikiem liczby 8.
+
+Oblicz prawdopodobieństwo zdarzenia \(A\). Zapisz obliczenia.
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+- &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+- &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+- &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+- &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+- &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+Zadanie 33. (0-4)\\
+Działka ma kształt trapezu. Podstawy \(A B\) i \(C D\) tego trapezu mają długości \(|A B|=400 \mathrm{~m}\) oraz \(|C D|=100 \mathrm{~m}\). Wysokość trapezu jest równa 75 m , a jego kąty \(D A B\) i \(A B C\) są ostre.\\
+Z działki postanowiono wydzielić plac w kształcie prostokąta z przeznaczeniem na parking. Dwa z wierzchołków tego prostokąta mają leżeć na podstawie \(A B\) tego trapezu, a dwa pozostałe - \(E\) oraz \(F\) - na ramionach \(A D\) i \(B C\) trapezu (zobacz rysunek).\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-30}
+
+Wyznacz długości boków prostokąta, dla których powierzchnia wydzielonego placu będzie największa. Wyznacz tę największą powierzchnię. Zapisz obliczenia.
+
+Wskazówka:\\
+Aby powiązać ze sobą wymiary prostokąta, skorzystaj z tego, że pole trapezu ABCD jest sumą pól trapezów ABFE oraz EFCD:
+
+\[
+P_{A B C D}=P_{A B F E}+P_{E F C D}
+\]
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\includegraphics[max width=\textwidth]{2025_02_10_cff3f1d0cff33ba627b6g-31}
+\end{center}
+
+BRUDNOPIS (nie podlega ocenie)
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ & - &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+ &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+\hline
+\end{tabular}
+\end{center}
+
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-33}\\
+\includegraphics[max width=\textwidth, center]{2025_02_10_cff3f1d0cff33ba627b6g-34}
+
+\section*{MATEMATYKA}
+\section*{Poziom podstawowy}
+Formuła 2023
+
+\section*{MATEMATYKA}
+\section*{Poziom podstawowy}
+Formuła 2023
+
+\section*{MATEMATYKA}
+\section*{Poziom podstawowy}
+Formuła 2023
+
+
+\end{document}
