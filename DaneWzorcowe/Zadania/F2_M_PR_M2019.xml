@@ -1,0 +1,220 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL/>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F2_M_PR_M2019</filename>
+    <name>CKE maj  2019, formuła F2 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2019</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F2_SC_M_M2019</zalacznik>
+    <zalacznik>F2_SS_M_M2019</zalacznik>
+    <zalacznik>F2_KR_PR_M2019</zalacznik>
+    <zalacznik>F2_SM_M_M2019</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dla dowolnych liczb \(x>0, x \neq 1, y>0, y \neq 1\) wartość wyrażenia \(\left(\log _{\frac{1}{x}} y\right) \cdot\left(\log _{\frac{1}{y}} x\right)\) jest równa</br>  A. \(x \cdot y\)</br>  B. \(\frac{1}{x \cdot y}\)</br>  C. -1</br>  D. 1 ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje logarytmiczne</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="2" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Liczba \(\cos ^{2} 105^{\circ}-\sin ^{2} 105^{\circ}\) jest równa</br>  A. \(-\frac{\sqrt{3}}{2}\)</br>  B. \(-\frac{1}{2}\)</br>  C. \(\frac{1}{2}\)</br>  D. \(\frac{\sqrt{3}}{2}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Trygonometria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="3" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Na rysunku przedstawiono fragment wykresu funkcji \(y=f(x)\), który jest złożony z dwóch półprostych \(A D\) i \(C E\) oraz dwóch odcinków \(A B\) i \(B C\), gdzie \(A=(-1,0), B=(1,2)\), \(C=(3,0), D=(-4,3), E=(6,3)\).</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_9df891ea1c7ef9791261g-02.jpg" alt="Opis obrazka" /></br>  Wzór funkcji \(f\) to</br>  A. \(f(x)=|x+1|+|x-1|\)</br>  B. \(f(x)=||x-1|-2|\)</br>  C. \(f(x)=||x-1|+2|\)</br>  D. \(f(x)=|x-1|+2\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje z wartością bezwględną</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="4" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Zdarzenia losowe \(A\) i \(B\) zawarte \(\mathrm{w} \quad \Omega\) są takie, że prawdopodobieństwo \(P\left(B^{\prime}\right)\) zdarzenia \(B^{\prime}\), przeciwnego do zdarzenia \(B\), jest równe \(\frac{1}{4}\). Ponadto prawdopodobieństwo warunkowe \(P(A \mid B)=\frac{1}{5}\). Wynika stąd, że</br>  A. \(P(A \cap B)=\frac{1}{20}\)</br>  B. \(P(A \cap B)=\frac{4}{15}\)</br>  C. \(P(A \cap B)=\frac{3}{20}\)</br>  D. \(P(A \cap B)=\frac{4}{5}\)   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Własności prawdopodobieństwa</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="2" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Oblicz granicę  \[  \lim _{n \rightarrow \infty}\left(\frac{9 n^{3}+11 n^{2}}{7 n^{3}+5 n^{2}+3 n+1}-\frac{n^{2}}{3 n^{2}+1}\right)  \]  Wpisz w poniższe kratki - od lewej do prawej - trzy kolejne cyfry po przecinku rozwinięcia dziesiętnego otrzymanego wyniku.</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_9df891ea1c7ef9791261g-04.jpg" alt="Opis obrazka" /></br> ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Granica</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozważamy wszystkie liczby naturalne pięciocyfrowe zapisane przy użyciu cyfr \(1,3,5,7,9\), bez powtarzania jakiejkolwiek cyfry. Oblicz sumę wszystkich takich liczb.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Kombinatoryka</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z cyframi</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="2" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Punkt \(P=(10,2429)\) leży na paraboli o równaniu \(y=2 x^{2}+x+2219\). Prosta o równaniu kierunkowym \(y=a x+b\) jest styczna do tej paraboli w punkcie \(P\). Oblicz współczynnik \(b\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Styczna do funkcji</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Udowodnij, że dla dowolnych dodatnich liczb rzeczywistych \(x\) i \(y\), takich że \(x < y\), i dowolnej dodatniej liczby rzeczywistej \(a\), prawdziwa jest nierówność \(\frac{x+a}{y+a}+\frac{y}{x}>2\).</br>]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód algebraiczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest trójkąt równoramienny \(A B C\), w którym \(|A C|=|B C|\). Na ramieniu \(A C\) tego trójkąta wybrano punkt \(M(M \neq A\) i \(M \neq C)\), a na ramieniu \(B C\) wybrano punkt \(N\), w taki sposób, że \(|A M|=|C N|\). Przez punkty \(M\) i \(N\) poprowadzono proste prostopadłe do podstawy \(A B\) tego trójkąta, które wyznaczają na niej punkty \(S\) i \(T\). Udowodnij, że \(|S T|=\frac{1}{2}|A B|\).</br>  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Punkt \(D\) leży na boku \(A B\) trójkąta \(A B C\) oraz \(|A C|=16,|A D|=6,|C D|=14\) i \(|B C|=|B D|\). Oblicz obwód trójkąta \(A B C\).</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Geometria obliczeniowe</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dane są okręgi o równaniach \(x^{2}+y^{2}-12 x-8 y+43=0\) i \(x^{2}+y^{2}-2 a x+4 y+a^{2}-77=0\). Wyznacz wszystkie wartości parametru \(a\), dla których te okręgi mają dokładnie jeden punkt wspólny. Rozważ wszystkie przypadki.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Równanie okręgu</tag>
+        <tag>Wzajemne położenie okręgów</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="12" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Trzywyrazowy ciąg \((a, b, c)\) o wyrazach dodatnich jest arytmetyczny, natomiast ciąg \(\left(\frac{1}{a}, \frac{2}{3 b}, \frac{1}{2 a+2 b+c}\right)\) jest geometryczny. Oblicz iloraz ciągu geometrycznego.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Ciąg geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="13" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wielomian określony wzorem \(W(x)=2 x^{3}+\left(m^{3}+2\right) x^{2}-11 x-2(2 m+1)\) jest podzielny przez dwumian \((x-2)\) oraz przy dzieleniu przez dwumian \((x+1)\) daje resztę 6 . Oblicz \(m\) i dla wyznaczonej wartości \(m\) rozwiąż nierówność \(W(x) \leq 0\).</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Podzielność wielomianu przez dwumian</tag>
+        <tag>Parametr</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="14" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie \((\cos x)\left[\sin \left(x-\frac{\pi}{3}\right)+\sin \left(x+\frac{\pi}{3}\right)\right]=\frac{1}{2} \sin x\).</br>  \(\qquad\)</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Równanie trygonometryczne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="15" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozważmy wszystkie graniastosłupy prawidłowe trójkątne o objętości \(V=2\). Wyznacz długości krawędzi tego z rozważanych graniastosłupów, którego pole powierzchni całkowitej jest najmniejsze. Oblicz to najmniejsze pole.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

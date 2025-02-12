@@ -1,0 +1,231 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL/>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F2_M_PR_M2023</filename>
+    <name>CKE maj  2023, formuła F2 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2023</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F2_SC_M_M2023</zalacznik>
+    <zalacznik>F2_SS_M_M2023</zalacznik>
+    <zalacznik>F2_KR_PR_M2023</zalacznik>
+    <zalacznik>F2_SM_M_M2023</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Granica \(\lim _{x \rightarrow 1} \frac{x^{3}-1}{(x-1)(x+2)}\) jest równa</br>  A. \((-1)\)</br>  B. 0</br>  C. \(\frac{1}{3}\)</br>  D. 1 ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Granica</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dane są wektory \(\vec{u}=[4,-5]\) oraz \(\vec{v}=[-1,-5]\). Długość wektora \(\vec{u}-4 \vec{v}\) jest równa</br>  A. 7</br>  B. 15</br>  C. 17</br>  D. 23 ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Wektory</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Punkty \(A, B, C, D, E\) leżą na okręgu o środku \(S\). Miara kąta \(B C D\) jest równa \(110^{\circ}\), a miara kąta \(B D A\) jest równa \(35^{\circ}\) (zobacz rysunek).  Wtedy kąt \(D E A\) ma miarę równą</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_c7c9035d1be6a2a9f3d4g-04.jpg" alt="Opis obrazka" /></br></br>  A. \(100^{\circ}\)</br>  B. \(105^{\circ}\)</br>  C. \(110^{\circ}\)</br>  D. \(115^{\circ}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="4" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest zbiór trzynastu liczb \(\{1,2,3,4,5,6,7,8,9,10,11,12,13\}\) z z którego losujemy jednocześnie dwie liczby. Wszystkich różnych sposobów wylosowania z tego zbioru dwóch liczb, których iloczyn jest liczbą parzystą, jest</br>  A. \(\binom{7}{2}+49\)</br>  B. \(\binom{6}{1} \cdot\binom{7}{1}+49\)</br>  C. \(\binom{13}{2}-\binom{7}{2}\)</br>  D. \(\binom{13}{2}-\binom{6}{2}\)  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="5" punkty="2" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wielomian \(W(x)=7 x^{3}-9 x^{2}+9 x-2\) ma dokładnie jeden pierwiastek rzeczywisty. Oblicz ten pierwiastek.  W poniższe kratki wpisz kolejno - od lewej do prawej - pierwszą, drugą oraz trzecią cyfrę po przecinku nieskończonego rozwinięcia dziesiętnego otrzymanego wyniku.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="6" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Liczby rzeczywiste \(x\) oraz \(y\) spełniają jednocześnie równanie \(x+y=4\) i nierówność \(x^{3}-x^{2} y \leq x y^{2}-y^{3}\). Wykaż, że \(x=2\) oraz \(y=2\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód algebraiczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest trójkąt prostokątny \(A B C\), w którym \(|\angle A B C|=90^{\circ}\) oraz \(|\angle C A B|=60^{\circ}\). Punkty \(K\) i \(L\) leżą na bokach - odpowiednio \(-A B\) i \(B C\) tak, że \(|B K|=|B L|=1\) (zobacz rysunek). Odcinek \(K L\) przecina wysokość \(B D\) tego trójkąta w punkcie \(N\), a ponadto \(|A D|=2\).</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_c7c9035d1be6a2a9f3d4g-08.jpg" alt="Opis obrazka" /></br>  Wykaż, że \(|N D|=\sqrt{3}+1\).</br>  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W pojemniku jest siedem kul: pięć kul białych i dwie kule czarne. Z tego pojemnika losujemy jednocześnie dwie kule bez zwracania. Następnie - z kul pozostałych w pojemniku losujemy jeszcze jedną kulę. Oblicz prawdopodobieństwo wylosowania kuli czarnej w drugim losowaniu. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z kulami</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Funkcja \(f\) jest określona wzorem \(f(x)=\frac{3 x^{2}-2 x}{x^{2}+2 x+8}\) dla każdej liczby rzeczywistej \(x\). Punkt \(P=\left(x_{0}, 3\right)\) należy do wykresu funkcji \(f\). Oblicz \(x_{0}\) oraz wyznacz równanie stycznej do wykresu funkcji \(f\) w punkcie \(P\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Styczna do funkcji</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż nierówność  \[  \sqrt{x^{2}+4 x+4}<\frac{25}{3}-\sqrt{x^{2}-6 x+9}  \]  Wskazówka: skorzystaj z tego, że \(\sqrt{a^{2}}=|a|\) dla każdej liczby rzeczywistej \(a\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Niezależne wartości bezwględne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Określamy kwadraty \(K_{1}, K_{2}, K_{3}, \ldots\) następująco:   \(K_{1}\) jest kwadratem o boku długości \(a\) \(K_{2}\) jest kwadratem, którego każdy wierzchołek leży na innym boku kwadratu \(K_{1}\) i dzieli ten bok w stosunku 1:3 \(K_{3}\) jest kwadratem, którego każdy wierzchołek leży na innym boku kwadratu \(K_{2}\) i dzieli ten bok w stosunku 1:3</br>  i ogólnie, dla każdej liczby naturalnej \(n \geq 2\), \(K_{n}\) jest kwadratem, którego każdy wierzchołek leży na innym boku kwadratu \(K_{n-1}\) i dzieli ten bok w stosunku 1:3.</br>  Obwody wszystkich kwadratów określonych powyżej tworzą nieskończony ciąg geometryczny.</br>  Na rysunku przedstawiono kwadraty utworzone w sposób opisany powyżej.</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_c7c9035d1be6a2a9f3d4g-14.jpg" alt="Opis obrazka" /></br>  Oblicz sumę wszystkich wyrazów tego nieskończonego ciągu.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Szereg geometryczny</tag>
+        <tag>Rekurencja</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="12" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie \(3 \sin ^{2} x-\sin ^{2}(2 x)=0 \mathrm{w}\) przedziale \(\langle\pi, 2 \pi\rangle\).</br>  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Rozwiązania w przedziale</tag>
+        <tag>Równanie trygonometryczne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="13" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Czworokąt \(A B C D\), w którym \(|B C|=4\) i \(|C D|=5\), jest opisany na okręgu. Przekątna \(A C\) tego czworokąta tworzy z bokiem \(B C\) kąt o mierze \(60^{\circ}\), natomiast z bokiem \(A B\)-kąt ostry, którego sinus jest równy \(\frac{1}{4}\). Oblicz obwód czworokąta \(A B C D\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Geometria obliczeniowe</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="14" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest sześcian ABCDEFGH o krawędzi długości 6. Punkt \(S\) jest punktem przecięcia przekątnych \(A H\) i \(D E\) ściany bocznej \(A D H E\) (zobacz rysunek).</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_c7c9035d1be6a2a9f3d4g-20.jpg" alt="Opis obrazka" /></br>  Oblicz wysokość trójkąta SBH poprowadzoną z punktu \(S\) na bok BH tego trójkąta.</br>  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="15" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie wartości parametru \(m \neq 2\), dla których równanie  \[  x^{2}+4 x-\frac{m-3}{m-2}=0  \]  ma dwa różne rozwiązania rzeczywiste \(x_{1}, x_{2}\) spełniające warunek \(x_{1}^{3}+x_{2}^{3}>-28\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wzory Vieta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="16" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozważamy trójkąty \(A B C\), w których \(A=(0,0), B=(m, 0)\), gdzie \(m \in(4,+\infty)\), a wierzchołek \(C\) leży na prostej o równaniu \(y=-2 x\). Na boku \(B C\) tego trójkąta leży punkt \(D=(3,2)\).</br>  a) Wykaż, że dla \(m \in(4,+\infty)\) pole \(P\) trójkąta \(A B C\), jako funkcja zmiennej \(m\), wyraża się wzorem  \[  P(m)=\frac{m^{2}}{m-4}  \]  b) Oblicz tę wartość \(m\), dla której funkcja \(P\) osiąga wartość najmniejszą. Wyznacz równanie prostej \(B C\), przy której funkcja \(P\) osiąga tę najmniejszą wartość.</br>  </br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL/>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F2_M_PR_M2016</filename>
+    <name>CKE maj  2016, formuła F2 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2016</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F2_SC_M_M2016</zalacznik>
+    <zalacznik>F2_SS_M_M2016</zalacznik>
+    <zalacznik>F2_KR_PR_M2016</zalacznik>
+    <zalacznik>F2_SM_M_M2016</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W rozwinięciu wyrażenia \((2 \sqrt{3} x+4 y)^{3}\) współczynnik przy iloczynie \(x y^{2}\) jest równy</br>  A. \(32 \sqrt{3}\)</br>  B. 48</br>  C. \(96 \sqrt{3}\)</br>  D. 144 ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wyrażenia algebraiczne</dzial>
+      </działy>
+      <tagi>
+        <tag>Wzory skróconego mnożenia stopnia 3</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wielomian \(W(x)=6 x^{3}+3 x^{2}-5 x+p\) jest podzielny przez dwumian \(x-1\) dla \(p\) równego</br>  A. 4</br>  B. -2</br>  C. 2</br>  D. -4 ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Podzielność wielomianu przez dwumian</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Na rysunku przedstawiono fragment wykresu funkcji homograficznej \(y=f(x)\), której dziedziną jest zbiór \(D=(-\infty, 3) \cup(3,+\infty)\).</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_054c332d5c02f869c372g-02.jpg" alt="Opis obrazka" /></br>  Równanie \(|f(x)|=p\) z niewiadomą \(x\) ma dokładnie jedno rozwiązanie</br>  A. w dwóch przypadkach: \(p=0\) lub \(p=3\).</br>  B. w dwóch przypadkach: \(p=0\) lub \(p=2\).</br>  C. tylko wtedy, gdy \(p=3\).</br>  D. tylko wtedy, gdy \(p=2\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje wymierne</dzial>
+      </działy>
+      <tagi>
+        <tag>Funkcja homograficzna</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Funkcja \(f(x)=\frac{3 x-1}{x^{2}+4}\) jest określona dla każdej liczby rzeczywistej \(x\). Pochodna tej funkcji jest określona wzorem</br>  A. \(f^{\prime}(x)=\frac{-3 x^{2}+2 x+12}{\left(x^{2}+4\right)^{2}}\)</br>  B. \(f^{\prime}(x)=\frac{-9 x^{2}+2 x-12}{\left(x^{2}+4\right)^{2}}\)</br>  C. \(f^{\prime}(x)=\frac{3 x^{2}-2 x-12}{\left(x^{2}+4\right)^{2}}\)</br>  D. \(f^{\prime}(x)=\frac{9 x^{2}-2 x+12}{\left(x^{2}+4\right)^{2}}\)  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Pochodna ułamka</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Granica \(\lim _{n \rightarrow \infty} \frac{\left(p n^{2}+4 n\right)^{3}}{5 n^{6}-4}=-\frac{8}{5}\). Wynika stąd, że</br>  A. \(\quad p=-8\)</br>  B. \(p=4\)</br>  C. \(p=2\)</br>  D. \(p=-2\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Prosty parametr</tag>
+        <tag>Granica</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="2" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wśród 10 tysięcy mieszkańców pewnego miasta przeprowadzono sondaż dotyczący budowy przedszkola publicznego. Wyniki sondażu przedstawiono w tabeli.  Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że losowo wybrana osoba, spośród ankietowanych, popiera budowę przedszkola, jeśli wiadomo, że jest mężczyzną. Zakoduj trzy pierwsze cyfry po przecinku nieskończonego rozwinięcia dziesiętnego otrzymanego wyniku.</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_054c332d5c02f869c372g-04.jpg" alt="Opis obrazka" /></br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Brak tabelki</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="2" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest ciąg geometryczny \(\left(a_{n}\right)\) określony wzorem \(a_{n}=\left(\frac{1}{2 x-371}\right)^{n}\) dla \(n \geq 1\). Wszystkie wyrazy tego ciągu są dodatnie. Wyznacz najmniejszą liczbę całkowitą \(x\), dla której nieskończony szereg \(a_{1}+a_{2}+a_{3}+\ldots\) jest zbieżny.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Szereg geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wykaż, że dla dowolnych dodatnich liczb rzeczywistych \(x\) i \(y\) takich, że \(x^{2}+y^{2}=2\), prawdziwa jest nierówność \(x+y \leq 2\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód algebraiczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest prostokąt \(A B C D\). Okrąg wpisany w trójkąt \(B C D\) jest styczny do przekątnej \(B D\) w punkcie \(N\). Okrąg wpisany w trójkąt \(A B D\) jest styczny do boku \(A D\) w punkcie \(M\), a środek \(S\) tego okręgu leży na odcinku \(M N\), jak na rysunku.</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_054c332d5c02f869c372g-08.jpg" alt="Opis obrazka" /></br>  Wykaż, że \(|M N|=|A D|\).</br>  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie wartości parametru \(a\), dla których wykresy funkcji \(f\) i \(g\), określonych wzorami \(f(x)=x-2\) oraz \(g(x)=5-a x\), przecinają się w punkcie o obu współzzędnych dodatnich.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja liniowa</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="11" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż nierówność \(\frac{2 \cos x-\sqrt{3}}{\cos ^{2} x}<0\) w przedziale \(\langle 0,2 \pi\rangle\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność trygonometryczna</tag>
+        <tag>Rozwiązania w przedziale</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="12" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest trójmian kwadratowy \(f(x)=x^{2}+2(m+1) x+6 m+1\). Wyznacz wszystkie rzeczywiste wartości parametru \(m\), dla których ten trójmian ma dwa różne pierwiastki \(x_{1}, x_{2}\) tego samego znaku, spełniające warunek \(\left|x_{1}-x_{2}\right|<3\).</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wzory Vieta</tag>
+        <tag>Rozwiązania tego samego znaku</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="13" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Punkty \(A=(30,32)\) i \(B=(0,8)\) są sąsiednimi wierzchołkami czworokąta \(A B C D\) wpisanego w okrąg. Prosta o równaniu \(x-y+2=0\) jest jedyną osią symetrii tego czworokąta i zawiera przekątną \(A C\). Oblicz współrzędne wierzchołków \(C\) i \(D\) tego czworokąta.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Wyznaczanie współrzędnych punktu</tag>
+        <tag>Okrąd opisany na czworokącie</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="14" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozpatrujemy wszystkie liczby naturalne dziesięciocyfrowe, w zapisie których mogą występować wyłącznie cyfry \(1,2,3\), przy czym cyfra 1 występuje dokładnie trzy razy. Uzasadnij, że takich liczb jest 15360.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Kombinatoryka</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z cyframi</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="15" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W ostrosłupie prawidłowym czworokątnym \(A B C D S\) o podstawie \(A B C D\) wysokość jest równa 5, a kąt między sąsiednimi ścianami bocznymi ostrosłupa ma miarę \(120^{\circ}\). Oblicz objętość tego ostrosłupa.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Kąt dwuścienny</tag>
+        <tag>Ostrosłup</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="16" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Parabola o równaniu \(y=2-\frac{1}{2} x^{2}\) przecina oś \(O x\) układu współrzędnych w punktach \(A=(-2,0)\) i \(B=(2,0)\). Rozpatrujemy wszystkie trapezy równoramienne \(A B C D\), których dłuższą podstawą jest odcinek \(A B\), a końce \(C\) i \(D\) krótszej podstawy leżą na paraboli (zobacz rysunek).</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_054c332d5c02f869c372g-20.jpg" alt="Opis obrazka" /></br>  Wyznacz pole trapezu \(A B C D\) w zależności od pierwszej współrzędnej wierzchołka \(C\). Oblicz współrzędne wierzchołka \(C\) tego z rozpatrywanych trapezów, którego pole jest największe.  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL/>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F2_M_PR_M2020</filename>
+    <name>CKE maj  2020, formuła F2 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2020</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F2_SC_M_M2020</zalacznik>
+    <zalacznik>F2_SS_M_M2020</zalacznik>
+    <zalacznik>F2_KR_PR_M2020</zalacznik>
+    <zalacznik>F2_SM_M_M2020</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wielomian \(W\) określony wzorem \(W(x)=x^{2019}-3 x^{2000}+2 x+6\)</br>  A. jest podzielny przez \((x-1)\) i z dzielenia przez \((x+1)\) daje resztę równą 6 .</br>  B. jest podzielny przez \((x+1)\) i z dzielenia przez \((x-1)\) daje resztę równą 6 .</br>  C. jest podzielny przez \((x-1)\) i jest podzielny przez \((x+1)\).</br>  D. nie jest podzielny ani przez \((x-1)\), ani przez \((x+1)\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Podzielność wielomianu przez dwumian</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Ciąg \(\left(a_{n}\right)\) jest określony wzorem \(a_{n}=\frac{3 n^{2}+7 n-5}{11-5 n+5 n^{2}}\) dla każdej liczby naturalnej \(n \geq 1\). Granica tego ciągu jest równa</br>  A. 3</br>  B. \(\frac{1}{5}\)</br>  C. \(\frac{3}{5}\)</br>  D. \(-\frac{5}{11}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Granica</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Mamy dwie urny. W pierwszej są 3 kule białe i 7 kul czarnych, w drugiej jest jedna kula biała i 9 kul czarnych. Rzucamy symetryczną sześcienną kostką do gry, która na każdej ściance ma inną liczbę oczek, od jednego oczka do sześciu oczek. Jeśli w wyniku rzutu otrzymamy ściankę z jednym oczkiem, to losujemy jedną kulę z pierwszej urny, w przeciwnym przypadku losujemy jedną kulę z drugiej urny. Wtedy prawdopodobieństwo wylosowania kuli białej jest równe</br>  A. \(\frac{2}{15}\)</br>  B. \(\frac{1}{5}\)</br>  C. \(\frac{4}{5}\)</br>  D. \(\frac{13}{15}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadania z kulami</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Po przekształceniu wyrażenia algebraicznego \((x \sqrt{2}+y \sqrt{3})^{4}\) do postaci \(a x^{4}+b x^{3} y+c x^{2} y^{2}+d x y^{3}+e y^{4}\) współczynnik \(c\) jest równy</br>  A. 6</br>  B. 36</br>  C. \(8 \sqrt{6}\)</br>  D. \(12 \sqrt{6}\)   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Wzor dwumianowy Newtona</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="2" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W trójkącie \(A B C\) bok \(A B\) jest 3 razy dłuższy od boku \(A C\), a długość boku \(B C\) stanowi \(\frac{4}{5}\) długości boku \(A B\). Oblicz cosinus najmniejszego kąta trójkąta \(A B C\).  W kratki poniżej wpisz kolejno - od lewej do prawej - pierwszą, drugą oraz trzecią cyfrę po przecinku nieskończonego rozwinięcia dziesiętnego otrzymanego wyniku.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Kombinatoryka</dzial>
+      </działy>
+      <tagi>
+        <tag>Geometria obliczeniowe</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie wartości parametru \(a\), dla których równanie \(|x-5|=(a-1)^{2}-4\) ma dwa różne rozwiązania dodatnie.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja liniowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wartość bezwględna</tag>
+        <tag>W zależności od parametru ilość rozwiązań</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest trójkąt równoramienny \(A B C\), w którym \(|A C|=|B C|=6\), a punkt \(D\) jest środkiem podstawy \(A B\). Okrąg o środku \(D\) jest styczny do prostej \(A C\) w punkcie \(M\). Punkt \(K\) leży na boku \(A C\), punkt \(L\) leży na boku \(B C\), odcinek \(K L\) jest styczny do rozważanego okręgu oraz \(|K C|=|L C|=2\) (zobacz rysunek).</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_eea643799222bbb14c4cg-06.jpg" alt="Opis obrazka" /></br>  Wykaż, że \(\frac{|A M|}{|M C|}=\frac{4}{5}\).</br>  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="8" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Liczby dodatnie \(a\) i \(b\) spełniają równość \(a^{2}+2 a=4 b^{2}+4 b\). Wykaż, że \(a=2 b\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód algebraiczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie \(3 \cos 2 x+10 \cos ^{2} x=24 \sin x-3\) dla \(x \in\langle 0,2 \pi\rangle\).  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Rozwiązania w przedziale</tag>
+        <tag>Równanie trygonometryczne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W trzywyrazowym ciągu geometrycznym \(\left(a_{1}, a_{2}, a_{3}\right)\) spełniona jest równość \(a_{1}+a_{2}+a_{3}=\frac{21}{4}\). Wyrazy \(a_{1}, a_{2}, a_{3}\) są - odpowiednio - czwartym, drugim i pierwszym wyrazem rosnącego ciągu arytmetycznego. Oblicz \(a_{1}\).  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Zależność między kolejnymi wyrazami ciągu</tag>
+        <tag>Ciąg geometryczny</tag>
+        <tag>Mieszanie ciągów</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dane jest równanie kwadratowe \(x^{2}-(3 m+2) x+2 m^{2}+7 m-15=0\) z niewiadomą \(x\). Wyznacz wszystkie wartości parametru \(m\), dla których różne rozwiązania \(x_{1}\) i \(x_{2}\) tego równania istnieją i spełniają warunek  \[  2 x_{1}^{2}+5 x_{1} x_{2}+2 x_{2}^{2}=2 .  \]  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wzory Vieta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="12" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Prosta o równaniu \(x+y-10=0\) przecina okrąg o równaniu \(x^{2}+y^{2}-8 x-6 y+8=0\) w punktach \(K\) i \(L\).Punkt \(S\) jest środkiem cięciwy \(K L\). Wyznacz równanie obrazu tego okręgu w jednokładności o środku \(S\) i skali \(k=-3\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Jednokładność</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="13" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Oblicz, ile jest wszystkich siedmiocyfrowych liczb naturalnych, w których zapisie dziesiętnym występują dokładnie trzy cyfry 1 i dokładnie dwie cyfry 2.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Kombinatoryka</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z cyframi</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="14" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Podstawą ostrosłupa czworokątnego \(A B C D S\) jest trapez \(A B C D(A B \| C D)\). Ramiona tego trapezu mają długości \(|A D|=10\) i \(|B C|=16\), a miara kąta \(A B C\) jest równa \(30^{\circ}\). Każda ściana boczna tego ostrosłupa tworzy z płaszczyzną podstawy kąt \(\alpha\), taki, że \(\operatorname{tg} \alpha=\frac{9}{2}\). Oblicz objętość tego ostrosłupa.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Objętość</tag>
+        <tag>Ostrosłup czworokątny</tag>
+        <tag>Kążda ściana boczna pod tym samym kątem</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="15" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Należy zaprojektować wymiary prostokątnego ekranu smartfona, tak aby odległości tego ekranu od krótszych brzegów smartfona były równe \(0,5 \mathrm{~cm}\) każda, a odległości tego ekranu od dłuższych brzegów smartfona były równe \(0,3 \mathrm{~cm}\) każda (zobacz rysunek - ekran zaznaczono kolorem szarym). Sam ekran ma mieć powierzchnię \(60 \mathrm{~cm}^{2}\). Wyznacz takie wymiary ekranu smartfona, przy których powierzchnia ekranu wraz z obramowaniem jest najmniejsza.</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_eea643799222bbb14c4cg-20.jpg" alt="Opis obrazka" /></br></br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

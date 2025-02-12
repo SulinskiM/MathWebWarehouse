@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL/>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F2_M_PR_M2021</filename>
+    <name>CKE maj  2021, formuła F2 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2021</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F2_SC_M_M2021</zalacznik>
+    <zalacznik>F2_SS_M_M2021</zalacznik>
+    <zalacznik>F2_KR_PR_M2021</zalacznik>
+    <zalacznik>F2_SM_M_M2021</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Różnica \(\cos ^{2} 165^{\circ}-\sin ^{2} 165^{\circ}\) jest równa</br>  A. -1</br>  B. \(-\frac{\sqrt{3}}{2}\)</br>  C. \(-\frac{1}{2}\)</br>  D. \(\frac{\sqrt{3}}{2}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Trygonometria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="2" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Na rysunku przedstawiono fragment wykresu funkcji \(f\) określonej dla każdej liczby rzeczywistej \(x\).</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_2c4282dd14e7398103f4g-02.jpg" alt="Opis obrazka" /></br>  Jeden spośród podanych poniżej wzorów jest wzorem tej funkcji. Wskaż wzór funkcji \(f\).</br>  A. \(f(x)=\frac{\cos x+1}{|\cos x|+1}\)</br>  B. \(f(x)=\frac{\sin x+1}{|\sin x|+1}\)</br>  C. \(f(x)=\frac{|\cos x|-2}{\cos x-2}\)</br>  D. \(f(x)=\frac{|\sin x|-2}{\sin x-2}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="3" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wielomian \(W(x)=x^{4}+81\) jest podzielny przez</br>  A. \(x-3\)</br>  B. \(x^{2}+9\)</br>  C. \(x^{2}-3 \sqrt{2} x+9\)</br>  D. \(x^{2}+3 \sqrt{2} x-9\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Podzielność wielomianów</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Liczba różnych pierwiastków równania \(3 x+|x-4|=0\) jest równa</br>  A. 0</br>  B. 1</br>  C. 2</br>  D. 3  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Równanie</tag>
+        <tag>Wartość bezwględna</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="2" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Oblicz granice \(\lim _{n \rightarrow \infty} \frac{(3 n+2)^{2}-(1-2 n)^{2}}{(2 n-1)^{2}}\).</br>  W poniższe kratki wpisz kolejno - od lewej do prawej - cyfrę jedności i pierwsze dwie cyfry po przecinku skończonego rozwinięcia dziesiętnego otrzymanego wyniku.</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Granica</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Niech \(\log _{2} 18=c\). Wykaż, że \(\log _{3} 4=\frac{4}{c-1}\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Liczby i działania</dzial>
+      </działy>
+      <tagi>
+        <tag>Logarytmy</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż nierówność:  \[  \frac{2 x-1}{1-x} \leq \frac{2+2 x}{5 x}  \]  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje wymierne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Nierówność wymierna</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest trójkąt równoboczny \(A B C\). Na bokach \(A B\) i \(A C\) wybrano punkty - odpowiednio \(D\) i \(E\) takie, że \(|B D|=|A E|=\frac{1}{3}|A B|\). Odcinki \(C D\) i \(B E\) przecinają się w punkcie \(P\) (zobacz rysunek).</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_2c4282dd14e7398103f4g-08.jpg" alt="Opis obrazka" /></br>  Wykaż, że pole trójkąta \(D B P\) jest 21 razy mniejsze od pola trójkąta \(A B C\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Ze zbioru wszystkich liczb naturalnych czterocyfrowych losujemy jedną liczbę. Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że wylosowana liczba jest podzielna przez 15, jeśli wiadomo, że jest ona podzielna przez 18.  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Prosta przechodząca przez punkty \(A=(8,-6)\) i \(B=(5,15)\) jest styczna do okręgu o środku w punkcie \(O=(0,0)\). Oblicz promień tego okręgu i współrzędne punktu styczności tego okręgu z prostą \(A B\).  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Styczne do okręgu</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie wartości parametru \(m\), dla których trójmian kwadratowy  \[  4 x^{2}-2(m+1) x+m  \]  ma dwa różne pierwiastki rzeczywiste \(x_{1}\) oraz \(x_{2}\), spełniające warunki:  \[  x_{1} \neq 0, \quad x_{2} \neq 0 \quad \text { oraz } \quad x_{1}+x_{2} \leq \frac{1}{x_{1}}+\frac{1}{x_{2}}  \]  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wzory Vieta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="12" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie \(\cos 2 x=\frac{\sqrt{2}}{2}(\cos x-\sin x)\) w przedziale \(\langle 0, \pi\rangle\).  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Równanie</tag>
+        <tag>Rozwiązania w przedziale</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="13" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest trójkąt prostokątny \(A B C\). Promień okręgu wpisanego w ten trójkąt jest pięć razy krótszy od przeciwprostokątnej tego trójkąta. Oblicz sinus tego z kątów ostrych trójkąta \(A B C\), który ma większą miarę.  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="14" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dane są parabola o równaniu \(y=x^{2}\) oraz punkty \(A=(0,2)\) i \(B=(1,3)\) (zobacz rysunek).</br>  Rozpatrujemy wszystkie trójkąty \(A B C\), których wierzchołek \(C\) leży na tej paraboli. Niech \(m\) oznacza pierwszą współrzędną punktu \(C\).</br>  a) Wyznacz pole \(P\) trójkąta \(A B C\) jako funkcję zmiennej \(m\).</br>  b) Wyznacz wszystkie wartości \(m\), dla których trójkąt \(A B C\) jest ostrokątny.</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_2c4282dd14e7398103f4g-20.jpg" alt="Opis obrazka" /></br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="15" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Pewien zakład otrzymał zamówienie na wykonanie prostopadłościennego zbiornika (całkowicie otwartego od góry) o pojemności \(144 \mathrm{~m}^{3}\). Dno zbiornika ma być kwadratem. Żaden z wymiarów zbiornika (krawędzi prostopadłościanu) nie może przekraczać 9 metrów. Całkowity koszt wykonania zbiornika ustalono w następujący sposób:  1) 100 zł za \(1 \mathrm{~m}^{2}\) dna   2) 75 zł za \(1 \mathrm{~m}^{2}\) ściany bocznej. Oblicz wymiary zbiornika, dla którego tak ustalony koszt wykonania będzie najmniejszy.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z treścią</tag>
+        <tag>Zadanie optymalizacyjne</tag>
+        <tag>Optymalizowanie kosztu</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

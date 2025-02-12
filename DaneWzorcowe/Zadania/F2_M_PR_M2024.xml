@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL/>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F2_M_PR_M2024</filename>
+    <name>CKE maj  2024, formuła F2 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2024</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F2_KR_PR_M2024</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Odległość punktu \(A=(6,2)\) od prostej o równaniu \(5 x-12 y+1=0\) jest równa</br>  A. \(\frac{7}{13}\)</br>  B. \(\frac{7}{12}\)</br>  C. \(\frac{5}{12}\)</br>  D. \(\frac{12}{13}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="2" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Równanie \(|2 x-4|=3 x+1\) w zbiorze liczb rzeczywistych</br>  A. nie ma rozwiązań.</br>  B. ma dokładnie jedno rozwiązanie.</br>  C. ma dokładnie dwa rozwiązania.</br>  D. ma dokładnie cztery rozwiązania. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Wartość bezwględna</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Funkcja \(f\) jest określona wzorem \(f(x)=\left|-(x+2)^{3}+5\right|\) dla każdej liczby rzeczywistej \(x\). Zbiorem wartości funkcji \(f\) jest przedział</br>  A. \(\langle-2,+\infty)\)</br>  B. \(\langle 0,+\infty)\)</br>  C. \((3,+\infty)\)</br>  D. \(\langle 5,+\infty)\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje z wartością bezwględną</dzial>
+      </działy>
+      <tagi>
+        <tag>Funkcja kwadratowa</tag>
+        <tag>Wartość bezwględna</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Granica \(\lim _{x \rightarrow+\infty} \frac{1+3 a+2 a x+a x^{3}}{3+4 x+5 x^{2}+5 x^{3}}\) jest równa 3. Wtedy</br>  A. \(a=3\)</br>  B. \(a=9\)</br>  C. \(a=15\)</br>  D. \(a=21\)  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Granica</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="2" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wielomian \(W(x)=8 x^{3}+14 x^{2}+5 x+3\) jest iloczynem wielomianów \(P(x)=2 x+3\) oraz \(Q(x)=a x^{2}+b x+c\).  W poniższe kratki wpisz kolejno - od lewej do prawej - wartości współczynników: \(a, b\) oraz \(c\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="6" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wykaż, że jeżeli \(\log _{5} 4=a\) oraz \(\log _{4} 3=b\), to \(\log _{12} 80=\frac{2 a+1}{a \cdot(1+b)}\).]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Logarytm</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest czworokąt wypukły \(A B C D\). Przekątne \(A C\) oraz \(B D\) tego czworokąta przecinają się w punkcie \(S\).</br>  Wykaż, że jeżeli \(\frac{|A S|}{|D S|}=\frac{|B S|}{|C S|}\), to na czworokącie \(A B C D\) można opisać okrag. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozważamy wszystkie liczby naturalne, w których zapisie dziesiętnym nie powtarza się jakakolwiek cyfra oraz dokładnie trzy cyfry są nieparzyste i dokładnie dwie cyfry są parzyste. Oblicz, ile jest wszystkich takich liczb.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Kombinatoryka</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="9" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Funkcja \(f\) jest określona wzorem  \[  f(x)=\frac{x^{3}-3 x+2}{x}  \]  dla każdej liczby rzeczywistej \(x\) różnej od zera. Punkt \(P\), o pierwszej współzędnej równej 2 , należy do wykresu funkcji \(f\). Prosta o równaniu \(y=a x+b\) jest styczna do wykresu funkcji \(f\) w punkcie \(P\).</br>  Oblicz współczynniki \(a\) oraz \(b\) w równaniu tej stycznej.</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="10" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Spośród wszystkich liczb naturalnych sześciocyfrowych, których wszystkie cyfry należą do zbioru \(\{1,2,3,4,5,6,7,8\}\), losujemy jedną. Wylosowanie każdej \(z\) tych liczb jest jednakowo prawdopodobne.</br>  Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że wylosujemy liczbę, która ma następującą własność: kolejne cyfry tej liczby (licząc od lewej strony) tworzą - w podanej kolejności - sześciowyrazowy ciąg malejący.</br>  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="11" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Trzywyrazowy ciąg \((x, y, z)\) jest geometryczny i rosnący. Suma wyrazów tego ciągu jest równa 105. Liczby \(x, y\) oraz \(z\) są - odpowiednio - pierwszym, drugim oraz szóstym wyrazem ciągu arytmetycznego \(\left(a_{n}\right)\), określonego dla każdej liczby naturalnej \(n \geq 1\). Oblicz \(x, y\) oraz \(z\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="12" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie  \[  \sin (2 x)+\cos (2 x)=1+\sin x-\cos x  \]  w zbiorze \(\langle 0,2 \pi\rangle\).</br>  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Równanie trygonometryczne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="13" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Promień okręgu opisanego na trójkącie \(A B C\) jest równy 17. Najdłuższym bokiem tego trójkąta jest bok \(A C\), a długości dwóch pozostałych boków są równe \(|A B|=30\) oraz \(|B C|=17\). Oblicz miarę kąta \(B A C\) oraz długość boku \(A C\) tego trójkąta. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="14" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Środek \(S\) okręgu o promieniu \(\sqrt{5}\) leży na prostej o równaniu \(y=x+1\). Przez punkt \(A=(1,2)\), którego odległość od punktu \(S\) jest większa od \(\sqrt{5}\), poprowadzono dwie proste styczne do tego okręgu w punktach - odpowiednio - \(B\) i \(C\). Pole czworokąta \(A B S C\) jest równe 15.</br>  Oblicz współrzędne punktu S. Rozważ wszystkie przypadki. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="15" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie wartości parametru \(m\), dla których równanie  \[  x^{2}-(3 m+1) \cdot x+2 m^{2}+m+1=0  \]  ma dwa różne rozwiązania rzeczywiste \(x_{1}, x_{2}\) spełniające warunek  \[  x_{1}^{3}+x_{2}^{3}+3 \cdot x_{1} \cdot x_{2} \cdot\left(x_{1}+x_{2}-3\right) \leq 3 m-7  \]  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wzory Vieta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="16" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozważamy wszystkie graniastosłupy prawidłowe trójkątne o objętości 3456, których krawędż podstawy ma długość nie większą niż \(8 \sqrt{3}\).</br>  a) Wykaż, że pole \(P\) powierzchni całkowitej graniastosłupa w zależności od długości \(a\) krawędzi podstawy graniastosłupa jest określone wzorem  \[  P(a)=\frac{a^{2} \cdot \sqrt{3}}{2}+\frac{13824 \sqrt{3}}{a}  \]  b) Pole \(P\) powierzchni całkowitej graniastosłupa w zależności od długości a krawędzi podstawy graniastosłupa jest określone wzorem  \[  P(a)=\frac{a^{2} \cdot \sqrt{3}}{2}+\frac{13824 \sqrt{3}}{a}  \]  dla \(a \in(0,8 \sqrt{3})\).</br>  Wyznacz długość krawędzi podstawy tego z rozważanych graniastosłupów, którego pole powierzchni całkowitej jest najmniejsze. Oblicz to najmniejsze pole.</br>  </br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

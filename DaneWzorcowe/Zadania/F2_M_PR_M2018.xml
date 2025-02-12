@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL/>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F2_M_PR_M2018</filename>
+    <name>CKE maj  2018, formuła F2 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2018</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F2_SC_M_M2018</zalacznik>
+    <zalacznik>F2_SS_M_M2018</zalacznik>
+    <zalacznik>F2_KR_PR_M2018</zalacznik>
+    <zalacznik>F2_SM_M_M2018</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dane są liczby: \(a=\frac{\sqrt[4]{8}}{2}, b=\frac{1}{2 \sqrt[4]{8}}, c=\sqrt[4]{8}, d=\frac{2}{\sqrt[4]{8}}\) oraz \(k=2^{-\frac{1}{4}}\). Prawdziwa jest równość</br>  A. \(k=a\)</br>  B. \(k=b\)</br>  C. \(k=c\)</br>  D. \(k=d\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Działania na liczbach</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="2" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Równanie \(||x|-2|=|x|+2\)</br>  A. nie ma rozwiązań.</br>  B. ma dokładnie jedno rozwiązanie.</br>  C. ma dokładnie dwa rozwiązania.</br>  D. ma dokładnie cztery rozwiązania. ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Niezależne wartości bezwględne</tag>
+        <tag>Równanie</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wartość wyrażenia \(2 \log _{5} 10-\frac{1}{\log _{20} 5}\) jest równa</br>  A. -1</br>  B. 0</br>  C. 1</br>  D. 2 ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Działania na liczbach</dzial>
+      </działy>
+      <tagi>
+        <tag>Logarytmy</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="4" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Granica \(\lim _{x \rightarrow 3^{-}} \frac{-x+2}{x^{2}-5 x+6}\) jest równa</br>  A. \(-\infty\)</br>  B. -1</br>  C. 0</br>  D. \(+\infty\)  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Granica</tag>
+        <tag>Granice jednostronne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="2" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Punkt \(A=(-5,3)\) jest środkiem symetrii wykresu funkcji homograficznej określonej wzorem \(f(x)=\frac{a x+7}{x+d}\), gdy \(x \neq-d\). Oblicz iloraz \(\frac{d}{a}\).</br>  W poniższe kratki wpisz kolejno cyfrę jedności i pierwsze dwie cyfry po przecinku nieskończonego rozwinięcia dziesiętnego otrzymanego wyniku.  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje wymierne</dzial>
+      </działy>
+      <tagi>
+        <tag>Funkcja homograficzna</tag>
+        <tag>Prosty parametr</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Styczna do paraboli o równaniu \(y=\sqrt{3} x^{2}-1\) w punkcie \(P=\left(x_{0}, y_{0}\right)\) jest nachylona do osi \(O x\) pod kątem \(30^{\circ}\). Oblicz współrzędne punktu \(P\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Styczna do funkcji</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Trójkąt \(A B C\) jest ostrokątny oraz \(|A C|>|B C|\). Dwusieczna \(d_{C}\) kąta \(A C B\) przecina bok \(A B\) w punkcie \(K\). Punkt \(L\) jest obrazem punktu \(K\) w symetrii osiowej względem dwusiecznej \(d_{A}\) kąta \(B A C\), punkt \(M\) jest obrazem punktu \(L\) w symetrii osiowej względem dwusiecznej \(d_{C}\) kąta \(A C B\), a punkt \(N\) jest obrazem punktu \(M\) w symetrii osiowej względem dwusiecznej \(d_{B}\) kąta \(A B C\) (zobacz rysunek).</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_21760be7bf17f3e271c1g-05.jpg" alt="Opis obrazka" /></br>  Udowodnij, że na czworokącie \(K N M L\) można opisać okrąg.</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Udowodnij, że dla każdej liczby całkowitej \(k\) i dla każdej liczby całkowitej \(m\) liczba \(k^{3} m-k m^{3}\) jest podzielna przez 6.</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód na podzielność</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Z liczb ośmioelementowego zbioru \(Z=\{1,2,3,4,5,6,7,9\}\) tworzymy ośmiowyrazowy ciąg, którego wyrazy się nie powtarzają. Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że żadne dwie liczby parzyste nie są sąsiednimi wyrazami utworzonego ciągu. Wynik przedstaw w postaci ułamka zwykłego nieskracalnego.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Objętość stożka ściętego (przedstawionego na rysunku) można obliczyć ze wzoru \(V=\frac{1}{3} \pi H\left(r^{2}+r R+R^{2}\right)\), gdzie \(r\) i \(R\) są promieniami podstaw \((r < R)\), a \(H\) jest wysokością bryły. Dany jest stożek ścięty, którego wysokość jest równa 10, objętość \(840 \pi\), a \(r=6\). Oblicz cosinus kąta nachylenia przekątnej przekroju osiowego tej bryły do jednej z jej podstaw.</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_21760be7bf17f3e271c1g-08.jpg" alt="Opis obrazka" /></br>  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Stożek ścięty</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie \(\sin 6 x+\cos 3 x=2 \sin 3 x+1 \mathrm{w}\) przedziale \(\langle 0, \pi\rangle\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Rozwiązania w przedziale</tag>
+        <tag>Równanie trygonometryczne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="12" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie wartości parametru \(m\), dla których równanie \(x^{2}+(m+1) x-m^{2}+1=0\) ma dwa rozwiązania rzeczywiste \(x_{1}\) i \(x_{2}\left(x_{1} \neq x_{2}\right)\), spełniające warunek \(x_{1}^{3}+x_{2}^{3}>-7 x_{1} x_{2}\).  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wzory Vieta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="13" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyrazy ciągu geometrycznego \(\left(a_{n}\right)\), określonego dla \(n \geq 1\), spełniają układ równań  \[  \left\{\begin{array}{l}  a_{3}+a_{6}=-84 </br>  a_{4}+a_{7}=168  \end{array}\right.  \]  Wyznacz liczbę \(n\) początkowych wyrazów tego ciągu, których suma \(S_{n}\) jest równa 32769.  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Ciąg geometryczny</tag>
+        <tag>Suma ciągu geometrycznego</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="14" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Punkt \(A=(7,-1)\) jest wierzchołkiem trójkąta równoramiennego \(A B C\), w którym \(|A C|=|B C|\). Obie współrzędne wierzchołka \(C\) są liczbami ujemnymi. Okrąg wpisany w trójkąt \(A B C\) ma równanie \(x^{2}+y^{2}=10\). Oblicz współrzędne wierzchołków \(B\) i \(C\) tego trójkąta.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Styczne do okręgu</tag>
+        <tag>Okrąg wpisany w trójkąt</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="15" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozpatrujemy wszystkie trapezy równoramienne, w które można wpisać okrąg, spełniające warunek: suma długości dłuższej podstawy \(a\) i wysokości trapezu jest równa 2.</br>  a) Wyznacz wszystkie wartości \(a\), dla których istnieje trapez o podanych własnościach.</br>  b) Wykaż, że obwód \(L\) takiego trapezu, jako funkcja długości \(a\) dłuższej podstawy trapezu, wyraża się wzorem \(L(a)=\frac{4 a^{2}-8 a+8}{a}\).</br>  c) Oblicz tangens kąta ostrego tego spośród rozpatrywanych trapezów, którego obwód jest najmniejszy.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

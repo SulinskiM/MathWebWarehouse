@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL/>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F2_M_PR_M2017</filename>
+    <name>CKE maj  2017, formuła F2 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2017</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F2_SC_M_M2017</zalacznik>
+    <zalacznik>F2_SS_M_M2017</zalacznik>
+    <zalacznik>F2_KR_PR_M2017</zalacznik>
+    <zalacznik>F2_SM_M_M2017</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Liczba \((\sqrt{2-\sqrt{3}}-\sqrt{2+\sqrt{3}})^{2}\) jest równa</br>  A. 2</br>  B. 4</br>  C. \(\sqrt{3}\)</br>  D. \(2 \sqrt{3}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Liczby i działania</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="2" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Nieskończony ciąg liczbowy jest określony wzorem \(a_{n}=\frac{\left(n^{2}-10 n\right)(2-3 n)}{2 n^{3}+n^{2}+3}\) dla \(n \geq 1\). Wtedy</br>  A. \(\lim _{n \rightarrow \infty} a_{n}=\frac{1}{2}\)</br>  B. \(\lim _{n \rightarrow \infty} a_{n}=0\)</br>  C. \(\lim _{n \rightarrow \infty} a_{n}=-\infty\)</br>  D. \(\lim _{n \rightarrow \infty} a_{n}=-\frac{3}{2}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Granica</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Odcinek \(C D\) jest wysokością trójkąta \(A B C\), w którym \(|A D|=|C D|=\frac{1}{2}|B C|\) (zobacz rysunek). Okrąg o środku \(C\) i promieniu \(C D\) jest styczny do prostej \(A B\). Okrąg ten przecina boki \(A C\) i \(B C\) trójkąta odpowiednio w punktach \(K\) i \(L\).</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_3120cbc7edd07b3a101fg-02.jpg" alt="Opis obrazka" /></br>  Zaznaczony na rysunku kąt \(\alpha\) wpisany w okrąg jest równy</br>  A. \(37,5^{\circ}\)</br>  B. \(45^{\circ}\)</br>  C. \(52,5^{\circ}\)</br>  D. \(60^{\circ}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="4" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dane są punkt \(B=(-4,7)\) i wektor \(\vec{u}=[-3,5]\). Punkt \(A\), taki, że \(\overrightarrow{A B}=-3 \vec{u}\), ma współrzędne</br>  A. \(A=(5,-8)\)</br>  B. \(A=(-13,22)\)</br>  C. \(A=(9,-15)\)</br>  D. \(A=(12,24)\)  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi>
+        <tag>Wektory</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="2" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Reszta z dzielenia wielomianu \(W(x)=x^{3}-2 x^{2}+a x+\frac{3}{4}\) przez dwumian \(x-2\) jest równa 1 . Oblicz wartość współczynnika \(a\).</br>  W poniższe kratki wpisz kolejno trzy pierwsze cyfry po przecinku rozwinięcia dziesiętnego otrzymanego wyniku.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Podzielność wielomianu przez dwumian</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Funkcja \(f\) jest określona wzorem \(f(x)=\frac{x-1}{x^{2}+1}\) dla każdej liczby rzeczywistej \(x\). Wyznacz równanie stycznej do wykresu tej funkcji w punkcie \(P=(1,0)\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Styczna do funkcji</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Udowodnij, że dla dowolnych różnych liczb rzeczywistych \(x, y\) prawdziwa jest nierówność  \[  x^{2} y^{2}+2 x^{2}+2 y^{2}-8 x y+4>0 .  \] ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód algebraiczny</tag>
+        <tag>Dowód nierówność wieksze od zera</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W trójkącie ostrokątnym \(A B C\) bok \(A B\) ma długość \(c\), długość boku \(B C\) jest równa \(a\) oraz \(|\angle A B C|=\beta\). Dwusieczna kąta \(A B C\) przecina bok \(A C\) trójkąta w punkcie \(E\).</br>  Wykaż, że długość odcinka \(B E\) jest równa \(\frac{2 a c \cdot \cos \frac{\beta}{2}}{a+c}\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód geometryczny</tag>
+        <tag>Dowodzenie na wzory na pola</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W czworościanie, którego wszystkie krawędzie mają taką samą długość 6, umieszczono kulę tak, że ma ona dokładnie jeden punkt wspólny z każdą ścianą czworościanu. Płaszczyzna \(\pi\), równoległa do podstawy tego czworościanu, dzieli go na dwie bryły: ostrosłup o objętości równej \(\frac{8}{27}\) objętości dzielonego czworościanu i ostrosłup ścięty. Oblicz odległość środka \(S\) kuli od płaszczyzny \(\pi\), tj. długość najkrótszego spośród odcinków \(S P\), gdzie \(P\) jest punktem płaszczyzny \(\pi\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Ostrosłup ścięty</tag>
+        <tag>Bryła wpisana w bryłę</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie \(\cos 2 x+3 \cos x=-2 \mathrm{w}\) przedziale \(\langle 0,2 \pi\rangle\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Równanie</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W pudełku znajduje się 8 piłeczek oznaczonych kolejnymi liczbami naturalnymi od 1 do 8 . Losujemy jedną piłeczkę, zapisujemy liczbę na niej występującą, a następnie zwracamy piłeczkę do urny. Tę procedurę wykonujemy jeszcze dwa razy i tym samym otrzymujemy zapisane trzy liczby. Oblicz prawdopodobienstwo wylosowania takich piłeczek, że iloczyn trzech zapisanych liczb jest podzielny przez 4. Wynik podaj w postaci ułamka zwykłego.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="12" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie wartości parametru \(m\), dla których równanie  \[  4 x^{2}-6 m x+(2 m+3)(m-3)=0  \]  ma dwa różne rozwiązania rzeczywiste \(x_{1}\) i \(x_{2}\), przy czym \(x_{1} < x_{2}\), spełniające warunek  \[  \left(4 x_{1}-4 x_{2}-1\right)\left(4 x_{1}-4 x_{2}+1\right)<0 .  \]  </br>]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Prosty parametr</tag>
+        <tag>Wzory Vieta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="13" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz równanie okręgu przechodzącego przez punkty \(A=(-5,3)\) i \(B=(0,6)\), którego środek leży na prostej o równaniu \(x-3 y+1=0\).  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Równanie okręgu</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="14" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Liczby \(a, b, c\) są - odpowiednio - pierwszym, drugim i trzecim wyrazem ciągu arytmetycznego. Suma tych liczb jest równa 27. Caąg \((a-2, b, 2 c+1)\) jest geometryczny.</br>  Wyznacz liczby \(a, b, c\).  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Zależność między kolejnymi wyrazami ciągu</tag>
+        <tag>Ciąg geometryczny</tag>
+        <tag>Ciąg arytmetyczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="15" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozpatrujemy wszystkie walce o danym polu powierzchni całkowitej \(P\). Oblicz wysokość i promień podstawy tego walca, którego objętość jest największa. Oblicz tę największą objętość.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+        <tag>Walec</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

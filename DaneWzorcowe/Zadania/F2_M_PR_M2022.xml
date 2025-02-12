@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL/>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F2_M_PR_M2022</filename>
+    <name>CKE maj  2022, formuła F2 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2022</rok>
+      <miesiac>5</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F2_SC_M_M2022</zalacznik>
+    <zalacznik>F2_SS_M_M2022</zalacznik>
+    <zalacznik>F2_KR_PR_M2022</zalacznik>
+    <zalacznik>F2_SM_M_M2022</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Liczba \(\log _{3} \sqrt{27}-\log _{27} \sqrt{3}\) jest równa</br>  A. \(\frac{4}{3}\)</br>  B. \(\frac{1}{2}\)</br>  C. \(\frac{11}{12}\)</br>  D. 3 ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Liczby i działania</dzial>
+      </działy>
+      <tagi>
+        <tag>Logarytm</tag>
+        <tag>Odejmowanie logarytmów</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Funkcja \(f\) jest określona wzorem \(f(x)=\frac{x^{3}-8}{x-2}\) dla każdej liczby rzeczywistej \(x \neq 2\).</br>  Wartość pochodnej tej funkcji dla argumentu \(x=\frac{1}{2}\) jest równa</br>  A. \(\frac{3}{4}\)</br>  B. \(\frac{9}{4}\)</br>  C. 3</br>  D. \(\frac{54}{8}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Pochodna ułamka</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="3" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Jeżeli \(\cos \beta=-\frac{1}{3}\) i \(\beta \in\left(\pi, \frac{3}{2} \pi\right)\), to wartość wyrażenia \(\sin \left(\beta-\frac{1}{3} \pi\right)\) jest równa</br>  A. \(\frac{-2 \sqrt{2}+\sqrt{3}}{6}\)</br>  B. \(\frac{2 \sqrt{6}+1}{6}\)</br>  C. \(\frac{2 \sqrt{2}+\sqrt{3}}{6}\)</br>  D. \(\frac{1-2 \sqrt{6}}{6}\) ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Trygonometria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="4" punkty="1" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dane są dwie urny z kulami. W każdej z urn jest siedem kul. W pierwszej urnie są jedna kula biała i sześć kul czarnych, w drugiej urnie są cztery kule białe i trzy kule czarne.</br>  Rzucamy jeden raz symetryczną monetą. Jeżeli wypadnie reszka, to losujemy jedną kulę z pierwszej urny, w przeciwnym przypadku - jedną kulę z drugiej urny.</br>  Prawdopodobieństwo zdarzenia polegającego na tym, że wylosujemy kulę białą w tym doświadczeniu, jest równe</br>  A. \(\frac{5}{14}\)</br>  B. \(\frac{9}{14}\)</br>  C. \(\frac{5}{7}\)</br>  D. \(\frac{6}{7}\)  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie z kulami</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="2" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Ciąg \(\left(a_{n}\right)\) jest określony dla każdej liczby naturalnej \(n \geq 1\) wzorem \(a_{n}=\frac{(7 p-1) n^{3}+5 p n-3}{(p+1) n^{3}+n^{2}+p}\), gdzie \(p\) jest liczbą rzeczywistą dodatnią.</br>  Oblicz wartość \(p\), dla której granica ciągu \(\left(a_{n}\right)\) jest równa \(\frac{4}{3}\).  W poniższe kratki wpisz kolejno - od lewej do prawej - pierwszą, drugą oraz trzecią cyfrę po przecinku nieskończonego rozwinięcia dziesiętnego otrzymanego wyniku.  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Granica</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wykaż, że dla każdej liczby rzeczywistej \(x\) i dla każdej liczby rzeczywistej \(y\) takich, że \(2 x>y\), spełniona jest nierówność  \[  7 x^{3}+4 x^{2} y \geq y^{3}+2 x y^{2}-x^{3}  \] ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód nierówność wieksze od zera</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie:  \[  |x-3|=2 x+11  \] ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Wartość bezwględna</tag>
+        <tag>Niewiadoma poza wartością bezwględną</tag>
+        <tag>Równanie</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="8" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Punkt \(P\) jest punktem przecięcia przekątnych trapezu \(A B C D\). Długość podstawy \(C D\) jest o 2 mniejsza od długości podstawy \(A B\). Promień okręgu opisanego na trójkącie ostrokatnym \(C P D\) jest o 3 mniejszy od promienia okręgu opisanego na trójkącie \(A P B\). Wykaż, że spełniony jest warunek \(|D P|^{2}+|C P|^{2}-|C D|^{2}=\frac{4 \sqrt{2}}{3} \cdot|D P| \cdot|C P|\).</br>  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód geometryczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="9" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Reszta \(z\) dzielenia wielomianu \(W(x)=4 x^{3}-6 x^{2}-(5 m+1) x-2 m\) przez dwumian \(x+2\) jest równa ( -30 ).</br>  Oblicz \(m\) i dla wyznaczonej wartości \(m\) rozwiąż nierówność \(W(x) \geq 0\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Parametr</tag>
+        <tag>Podzielność wielomianu przez dwumian</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Ciąg \(\left(a_{n}\right)\), określony dla każdej liczby naturalnej \(n \geq 1\), jest geometryczny i ma wszystkie wyrazy dodatnie. Ponadto \(a_{1}=675\) i \(a_{22}=\frac{5}{4} a_{23}+\frac{1}{5} a_{21}\).</br>  Ciąg \(\left(b_{n}\right)\), określony dla każdej liczby naturalnej \(n \geq 1\), jest arytmetyczny.</br>  Suma wszystkich wyrazów ciągu ( \(a_{n}\) ) jest równa sumie dwudziestu pięciu początkowych kolejnych wyrazów ciągu \(\left(b_{n}\right)\). Ponadto \(a_{3}=b_{4}\). Oblicz \(b_{1}\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Ciąg geometryczny</tag>
+        <tag>Ciąg arytmetyczny</tag>
+        <tag>Mieszanie ciągów</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż równanie \(\sin x+\sin 2 x+\sin 3 x=0 w\) przedziale \(\langle 0, \pi\rangle\). ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcje trygonometryczne</dzial>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Rozwiązania w przedziale</tag>
+        <tag>Równanie trygonometryczne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="12" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie wartości parametru \(m\), dla których równanie  \[  x^{2}-(m+1) x+m=0  \]  ma dwa różne rozwiązania rzeczywiste \(x_{1}\) oraz \(x_{2}\), spełniające warunki:  \[  x_{1} \neq 0, \quad x_{2} \neq 0 \quad \text { oraz } \quad \frac{1}{x_{1}}+\frac{1}{x_{2}}+2=\frac{1}{x_{1}^{2}}+\frac{1}{x_{2}^{2}}  \]  </br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wzory Vieta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="13" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Dany jest graniastosłup prosty \(A B C D E F G H\) o podstawie prostokątnej \(A B C D\). Przekątne</br>  \(A H\) i \(A F\) ścian bocznych tworzą kąt ostry o mierze \(\alpha\) takiej, że \(\sin \alpha=\frac{12}{13}\) (zobacz rysunek). Pole trójkąta \(A F H\) jest równe 26,4.</br>  Oblicz wysokość \(h\) tego graniastosłupa.</br>  </br><img style="max-height: 300px; max-width: 500px; display: block; margin: auto;" src="/static/zbiorzadan/images/2024_11_21_1b10b2a46207ca344bd2g-18.jpg" alt="Opis obrazka" /></br></br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="14" punkty="6" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Punkt \(A=(-3,2)\) jest wierzchołkiem trójkąta równoramiennego \(A B C\), w którym \(|A C|=|B C|\).</br>  Pole tego trójkąta jest równe 15 . Bok \(B C\) zawarty jest w prostej o równaniu \(y=x-1\). Oblicz współrzędne wierzchołków \(B\) i \(C\) tego trójkąta.]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="15" punkty="7" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozpatrujemy wszystkie trójkąty równoramienne o obwodzie równym 18.</br>  a) Wykaż, że pole \(P\) każdego z tych trójkątów, jako funkcja długości \(b\) ramienia, wyraża się wzorem \(P(b)=\frac{(18-2 b) \cdot \sqrt{18 b-81}}{2}\).</br>  b) Wyznacz dziedzinę funkcji \(P\).</br>  c) Oblicz długości boków tego z rozpatrywanych trójkątów, który ma największe pole.  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+        <dzial>Analiza matematyczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>

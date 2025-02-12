@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<zasob>
+  <metryka>
+    <sourceFileURL/>
+    <directory>DaneBazowe/Matematyka/Matury/CKE</directory>
+    <filename>F1_M_PR_C2012</filename>
+    <name>CKE czerwiec  2012, formuła F1 - poziom rozszerzony</name>
+    <description/>
+    <poziom>Poziom rozszerzony</poziom>
+    <typ>Arkusz egzaminacyjny</typ>
+    <okres>
+      <rok>2012</rok>
+      <miesiac>6</miesiac>
+    </okres>
+  </metryka>
+  <zalaczniki>
+    <zalacznik>F1_KR_PR_C2012</zalacznik>
+  </zalaczniki>
+  <zadania>
+    <zadanie numer="1" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Rozwiąż nierówność \(|x-2|+|x+1| \geq 3 x-3\).</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Równania, nierówności i układy</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Wartość bezwględna</tag>
+        <tag>Niezależne wartości bezwględne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="2" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wielomian \(W(x)=x^{4}+a x^{3}+b x^{2}-24 x+9\) jest kwadratem wielomianu \(P(x)=x^{2}+c x+d\). Oblicz \(a\) oraz \(b\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Wielomiany</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="3" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Kạt \(\alpha\) jest taki, że \(\cos \alpha+\sin \alpha=\frac{4}{3}\). Oblicz wartość wyrażenia \(|\cos \alpha-\sin \alpha|\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Trygonometria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="4" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Wyznacz wszystkie wartości parametru \(m\), dla których równanie \(2 x^{2}+(3-2 m) x-m+1=0\) ma dwa różne pierwiastki \(x_{1}, x_{2}\) takie, że \(\left|x_{1}-x_{2}\right|=3\).  ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Funkcja kwadratowa</dzial>
+      </działy>
+      <tagi>
+        <tag>Parametr</tag>
+        <tag>Wzory Vieta</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="5" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W ciagu arytmetycznym \(\left(a_{n}\right)\), dla \(n \geq 1\), dane są \(a_{1}=-2\) oraz różnica \(r=3\). Oblicz największe \(n\) takie, że \(a_{1}+a_{2}+\ldots+a_{n}<2012\).</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Ciągi</dzial>
+      </działy>
+      <tagi>
+        <tag>Nierówność</tag>
+        <tag>Ciąg arytmetyczny</tag>
+        <tag>Suma ciągu arytmetycznego</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="6" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Udowodnij, że dla dowolnych liczb dodatnich \(a, b, c\) i \(d\) prawdziwa jest nierówność \(a c+b d \leq \sqrt{a^{2}+b^{2}} \cdot \sqrt{c^{2}+d^{2}}\).</br>   ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Dowody</dzial>
+      </działy>
+      <tagi>
+        <tag>Dowód algebraiczny</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="7" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Okrąg jest styczny do osi układu wspórzzędnych w punktach \(A=(0,2)\) i \(B=(2,0)\) oraz jest styczny do prostej \(l\) w punkcie \(C=(1, a)\), gdzie \(a>1\). Wyznacz równanie prostej \(l\).</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="8" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[W czworokącie \(A B C D\) dane są długości boków: \(|A B|=24,|C D|=15,|A D|=7\). Ponadto kąty \(D A B\) oraz \(B C D\) są proste. Oblicz pole tego czworokąta oraz długości jego przekątnych.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Planimetria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="9" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Oblicz, ile jest liczb naturalnych trzycyfrowych podzielnych przez 6 lub podzielnych przez 15.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Kombinatoryka</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="10" punkty="4" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Na płaszczyźnie dane są punkty \(A=(3,-2)\) i \(B=(11,4)\). Na prostej o równaniu \(y=8 x+10\) znajdź punkt \(P\), dla którego suma \(|A P|^{2}+|B P|^{2}\) jest najmniejsza.</br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Geometria analityczna</dzial>
+      </działy>
+      <tagi>
+        <tag>Zadanie optymalizacyjne</tag>
+      </tagi>
+    </zadanie>
+    <zadanie numer="11" punkty="5" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Podstawą ostrosłupa \(A B C S\) jest trójkąt równoramienny \(A B C\), w którym \(|A B|=30\), \(|B C|=|A C|=39\) i spodek wysokości ostrosłupa należy do jego podstawy. Każda wysokość ściany bocznej poprowadzona z wierzchołka \(S\) ma długość 26. Oblicz objętość tego ostrosłupa.</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Stereometria</dzial>
+      </działy>
+      <tagi/>
+    </zadanie>
+    <zadanie numer="12" punkty="3" poziom="PR" db_id="-1">
+      <tresc><![CDATA[Zdarzenia losowe \(A\), \(B\) są zawarte w \(\Omega\) oraz \(P\left(A \cap B^{\prime}\right)=0,1\) i \(P\left(A^{\prime} \cap B\right)=0\), 2. Wykaż, że \(P(A \cap B) \leq 0,7\) ( \(A^{\prime}\) oznacza zdarzenie przeciwne do zdarzenia \(A, B^{\prime}\) oznacza zdarzenie przeciwne do zdarzenia \(B\) ).</br>  </br>    ]]></tresc>
+      <typ_zadania>
+        <typ_zadania/>
+      </typ_zadania>
+      <etap_edukacji/>
+      <działy>
+        <dzial>Rachunek prawdopodobieństwa</dzial>
+      </działy>
+      <tagi>
+        <tag>Własności prawdopodobieństwa</tag>
+      </tagi>
+    </zadanie>
+  </zadania>
+</zasob>
